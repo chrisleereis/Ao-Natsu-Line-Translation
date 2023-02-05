@@ -1,0 +1,17 @@
+{0x000B}	LOAD_STRING	'TitlePre.bin'
+
+{0x0038}	LOAD_STRING	'Unavailable on the Title Menu'
+
+{0x00FE}	LOAD_STRING	'opn.dat'
+
+{0x0492}	LOAD_STRING	'Unavailable on the Title Menu'
+
+{0x065F}	LOAD_STRING	'Title_Menu02.spm'
+
+{0x069F}	LOAD_STRING	'Title_Menu02.spm'
+
+{0x0E6E}	LOAD_STRING	'Title_Menu01.spm'
+
+{0x0EAF}	LOAD_STRING	'Title_Menu01.spm'
+
+{0x0EEB}	LOAD_STRING	'Title_Menu01.spm'
