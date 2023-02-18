@@ -2,7 +2,7 @@
 
 {0x0184}	LOAD_STRING	'Chime15'
 
-{0x0198}	SPECIAL_TEXT	0x0	'（おはようスタンプ）'
+{0x0198}	SPECIAL_TEXT	0x0	'（Good Morning Stamp）'
 
 {0x01BE}	LOAD_STRING	'Miki（Message）'
 {0x01C2}	LOAD_CUSTOM_TEXT	0x1	'（Good Morning Stamp）'
@@ -47,7 +47,7 @@
 
 {0x0536}	LOAD_STRING	'Pon01'
 
-{0x0575}	SPECIAL_TEXT	0x5	'（OKスタンプ）'
+{0x0575}	SPECIAL_TEXT	0x5	'（OK Stamp）'
 
 {0x059B}	LOAD_STRING	'Miki（Message）'
 {0x059F}	LOAD_CUSTOM_TEXT	0x1	'（OK Stamp）'
@@ -83,7 +83,7 @@
 
 {0x0832}	LOAD_STRING	'Pon01'
 
-{0x0871}	SPECIAL_TEXT	0x9	'（OKスタンプ）'
+{0x0871}	SPECIAL_TEXT	0x9	'（OK Stamp）'
 
 {0x0897}	LOAD_STRING	'Chihiro（Message）'
 {0x089B}	LOAD_CUSTOM_TEXT	0x1	'（OK Stamp）'
@@ -1188,10 +1188,10 @@
 
 {0x3DD5}	LOAD_STRING	'These two...'
 
-{0x3DDD}	SPECIAL_TEXT	0x11	'（「首洗って待ってろ」スタンプ）'
+{0x3DDD}	SPECIAL_TEXT	0x11	'（Wait and See Stamp）'
 
 {0x3E03}	LOAD_STRING	'Tatsumi（Message）'
-{0x3E07}	LOAD_CUSTOM_TEXT	0x1	'（Wash Your Head and Wait Stamp）'
+{0x3E07}	LOAD_CUSTOM_TEXT	0x1	'（Wait and See Stamp）'
 
 {0x3E24}	LOAD_STRING	'Menu_Click02'
 
@@ -1237,6 +1237,6 @@
 {0x4189}	LOAD_STRING	'Pon01'
 
 {0x41DC}	LOAD_STRING	'Yui'
-{0x41DE}	LOAD_STRING	'@v00020097 "Yep, thank you very much!"'
+{0x41DE}	LOAD_STRING	'@v00020097 "Yes, thank you very much!"'
 
 {0x41EE}	LOAD_STRING	'I'm going to take Nakategawa-San to see Miki and Chihiro. I'm nervous about this...'

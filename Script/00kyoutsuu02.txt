@@ -339,8 +339,10 @@
 {0x1078}	LOAD_STRING	'Miki'
 {0x107A}	LOAD_STRING	'@v00010106 Okay, there we go. Nakategawa's first time getting it!'
 
-{0x10AC}	LOAD_STRING	'Miki（メッセ）'
-{0x10B0}	LOAD_CUSTOM_TEXT	0x1	'（よろしくスタンプ）'
+{0x1086}	SPECIAL_TEXT	0x0	'（Best Regards Stamp）'
+
+{0x10AC}	LOAD_STRING	'Miki（Message）'
+{0x10B0}	LOAD_CUSTOM_TEXT	0x1	'（Best Regards Stamp）'
 
 {0x10CD}	LOAD_STRING	'Menu_Click02'
 
@@ -352,15 +354,19 @@
 {0x115B}	LOAD_STRING	'Tatsumi'
 {0x115D}	LOAD_STRING	'Yeah, me too.'
 
-{0x1187}	LOAD_STRING	'Chihiro（メッセ）'
-{0x118B}	LOAD_CUSTOM_TEXT	0x1	'「やあ」'
+{0x1161}	SPECIAL_TEXT	0x1	'"Yoooo"'
+
+{0x1187}	LOAD_STRING	'Chihiro（Message）'
+{0x118B}	LOAD_CUSTOM_TEXT	0x1	'"Yoooo"'
 
 {0x11AC}	LOAD_STRING	'Menu_Click02'
 
 {0x11E3}	LOAD_STRING	'Pon01'
 
-{0x1248}	LOAD_STRING	'Tatsumi（メッセ）'
-{0x124C}	LOAD_CUSTOM_TEXT	0x1	'（少しキザなよろしくスタンプ）'
+{0x1222}	SPECIAL_TEXT	0x2	'（Slightly Racy Hello Stamp）'
+
+{0x1248}	LOAD_STRING	'Tatsumi（Message）'
+{0x124C}	LOAD_CUSTOM_TEXT	0x1	'（Slightly Racy Hello Stamp）'
 
 {0x1269}	LOAD_STRING	'Menu_Click02'
 
