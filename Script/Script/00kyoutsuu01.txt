@@ -2,12 +2,16 @@
 
 {0x0184}	LOAD_STRING	'Chime15'
 
+{0x0198}	SPECIAL_TEXT	0x0	'（Good Morning Stamp）'
+
 {0x01BE}	LOAD_STRING	'Miki（Message）'
 {0x01C2}	LOAD_CUSTOM_TEXT	0x1	'（Good Morning Stamp）'
 
 {0x01DF}	LOAD_STRING	'Menu_Click02'
 
 {0x0216}	LOAD_STRING	'Pon01'
+
+{0x0271}	SPECIAL_TEXT	0x1	'"Mornin!"'
 
 {0x0297}	LOAD_STRING	'Miki（Message）'
 {0x029B}	LOAD_CUSTOM_TEXT	0x1	'"Mornin~"'
@@ -16,12 +20,16 @@
 
 {0x02F3}	LOAD_STRING	'Pon01'
 
+{0x0332}	SPECIAL_TEXT	0x2	'"Good Morning."'
+
 {0x0358}	LOAD_STRING	'Tatsumi（Message）'
 {0x035C}	LOAD_CUSTOM_TEXT	0x1	'"Good Morning."'
 
 {0x037D}	LOAD_STRING	'Menu_Click02'
 
 {0x03B4}	LOAD_STRING	'Pon01'
+
+{0x03F3}	SPECIAL_TEXT	0x3	'"You awake, Chihiro?"'
 
 {0x0419}	LOAD_STRING	'Tatsumi（Message）'
 {0x041D}	LOAD_CUSTOM_TEXT	0x1	'"You awake, Chihiro?"'
@@ -30,12 +38,16 @@
 
 {0x0475}	LOAD_STRING	'Pon01'
 
+{0x04B4}	SPECIAL_TEXT	0x4	'"I'm up."'
+
 {0x04DA}	LOAD_STRING	'Chihiro（Message）'
 {0x04DE}	LOAD_CUSTOM_TEXT	0x1	'"I'm up."'
 
 {0x04FF}	LOAD_STRING	'Menu_Click02'
 
 {0x0536}	LOAD_STRING	'Pon01'
+
+{0x0575}	SPECIAL_TEXT	0x5	'（OK Stamp）'
 
 {0x059B}	LOAD_STRING	'Miki（Message）'
 {0x059F}	LOAD_CUSTOM_TEXT	0x1	'（OK Stamp）'
@@ -44,12 +56,16 @@
 
 {0x05F3}	LOAD_STRING	'Pon01'
 
+{0x062E}	SPECIAL_TEXT	0x6	'"Okay, see ya later."'
+
 {0x0654}	LOAD_STRING	'Miki（Message）'
 {0x0658}	LOAD_CUSTOM_TEXT	0x1	'"Okay, see ya later."'
 
 {0x0679}	LOAD_STRING	'Menu_Click02'
 
 {0x06B0}	LOAD_STRING	'Pon01'
+
+{0x06EF}	SPECIAL_TEXT	0x7	'"Oui!"'
 
 {0x0715}	LOAD_STRING	'Tatsumi（Message）'
 {0x0719}	LOAD_CUSTOM_TEXT	0x1	'"Oui!"'
@@ -58,12 +74,16 @@
 
 {0x0771}	LOAD_STRING	'Pon01'
 
+{0x07B0}	SPECIAL_TEXT	0x8	'"Chi-kun, please eat!"'
+
 {0x07D6}	LOAD_STRING	'Miki（Message）'
-{0x07DA}	LOAD_CUSTOM_TEXT	0x1	'"Chi-kun, you should eat properly!"'
+{0x07DA}	LOAD_CUSTOM_TEXT	0x1	'"Chi-kun, please eat!"'
 
 {0x07FB}	LOAD_STRING	'Menu_Click02'
 
 {0x0832}	LOAD_STRING	'Pon01'
+
+{0x0871}	SPECIAL_TEXT	0x9	'（OK Stamp）'
 
 {0x0897}	LOAD_STRING	'Chihiro（Message）'
 {0x089B}	LOAD_CUSTOM_TEXT	0x1	'（OK Stamp）'
@@ -85,20 +105,20 @@
 {0x0A26}	LOAD_STRING	'@v00040031 There are even some people changing attire for the season.'
 
 {0x0A80}	LOAD_STRING	'Miki'
-{0x0A82}	LOAD_STRING	'@v00010041 It's starting to get hot lately, huh?  @t0442@hMIKI_A202OD Do you think I'm okay like this?   I mean, do you think my clothes are getting too tight?'
+{0x0A82}	LOAD_STRING	'@v00010041 It's starting to get hot lately, huh?@t0442@hMIKI_A202OD Do you think I'm okay like this? I mean, do you think my clothes are getting too tight?'
 
 {0x0A8C}	LOAD_STRING	'Chihiro'
-{0x0A8E}	LOAD_STRING	'@v00040032 Nah, I'm not seeing a difference.   I think you've stopped growing. '
+{0x0A8E}	LOAD_STRING	'@v00040032 Nah, I'm not seeing a difference. I think you've stopped growing. '
 
 {0x0A98}	LOAD_STRING	'Miki'
-{0x0A9A}	LOAD_STRING	'@v00010042 Hey, I'm still getting bigger!  @t0325@hMIKI_A201EG2 Right, Tak-kun?'
+{0x0A9A}	LOAD_STRING	'@v00010042 Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Huh? Tak-kun?'
 
 {0x0AA8}	LOAD_STRING	'Tatsumi'
 {0x0AAA}	LOAD_STRING	'Whew...'
 
 {0x0ACA}	LOAD_STRING	'This road downhill leads to school.'
 
-{0x0ADA}	LOAD_STRING	'While I listen to them ramble,   I let out a big yawn.'
+{0x0ADA}	LOAD_STRING	'While I listen to them ramble, I let out a big yawn.'
 
 {0x0B2C}	LOAD_STRING	'Miki'
 {0x0B2E}	LOAD_STRING	'@v00010043 Yes, for the fifth time!'
@@ -106,12 +126,12 @@
 {0x0B3E}	LOAD_STRING	'My friend, Kohsaka Miki, said teasingly.'
 
 {0x0B48}	LOAD_STRING	'Miki'
-{0x0B4A}	LOAD_STRING	'@v00010044 You look really sleepy. '
+{0x0B4A}	LOAD_STRING	'@v00010044 You look really sleepy.'
 
 {0x0B70}	LOAD_STRING	'Chihiro'
 {0x0B72}	LOAD_STRING	'@v00040033 Did you stay up last night?'
 
-{0x0B82}	LOAD_STRING	'And my best and worst friend, Sakaki Chihiro,   butts into the conversation. '
+{0x0B82}	LOAD_STRING	'And my best and worst friend, Sakaki Chihiro, butts into the conversation. '
 
 {0x0B90}	LOAD_STRING	'Tatsumi'
 {0x0B92}	LOAD_STRING	'Nah, but how about you guys?'
@@ -135,7 +155,7 @@
 
 {0x0CC3}	LOAD_STRING	'Gaya11#'
 
-{0x0D30}	LOAD_STRING	'As we are quickly joined by commuters coming off the train,   we find our walk becoming more lively.'
+{0x0D30}	LOAD_STRING	'As we are quickly joined by commuters coming off the train, we find our walk becoming more lively.'
 
 {0x0D40}	LOAD_STRING	'In stark contrast to the walk downhill, the way uphill from here makes commuting by bike really difficult.'
 
@@ -262,7 +282,7 @@
 {0x12E4}	LOAD_STRING	'She then bowed her head awkwardly.'
 
 {0x12EE}	LOAD_STRING	'Miki'
-{0x12F0}	LOAD_STRING	'@v00010060 Oh, that's right, Nakategawa-san!  @t0270@hMIKI_A201EG3 Good morning! @k'
+{0x12F0}	LOAD_STRING	'@v00010060 Oh, that's right, Nakategawa-san!@t0270@hMIKI_A201EG3 Good morning! @k'
 
 {0x130D}	LOAD_STRING	'Yui'
 {0x130F}	LOAD_STRING	'@v00020044 Y-Yes! Today is a good day. I really wanted to tell you something!'
@@ -470,7 +490,7 @@
 {0x1C73}	LOAD_STRING	'As I said that...'
 
 {0x1CB1}	LOAD_STRING	'Female students'
-{0x1CB3}	LOAD_STRING	'@v00090913 Hey, Sakaki-Senpai~'
+{0x1CB3}	LOAD_STRING	'@v00090913 Hey, Sakaki-senpai~'
 
 {0x1CC3}	LOAD_STRING	'From the window of the first floor classroom, several female students called out to Chihiro.'
 
@@ -495,22 +515,22 @@
 {0x1E0B}	LOAD_STRING	'The girls' cheering can be heard from the classroom as the ball clears the basket.'
 
 {0x1E80}	LOAD_STRING	'Mayu'
-{0x1E82}	LOAD_STRING	'@v00900019 Sigh...! Sakaki-Senpai is so cool!'
+{0x1E82}	LOAD_STRING	'@v00900019 Sigh...! Sakaki-senpai is so cool!'
 
 {0x1E90}	LOAD_STRING	'Ayna'
-{0x1E92}	LOAD_STRING	'@v00900020 Hey, is Sakaki-Senpai dating Kohsaka-Senpai? They're always together, aren't they?'
+{0x1E92}	LOAD_STRING	'@v00900020 Hey, is Sakaki-senpai dating Kohsaka-senpai? They're always together, aren't they?'
 
 {0x1EA0}	LOAD_STRING	'Yuzuki'
 {0x1EA2}	LOAD_STRING	'@v00900021 Well, that's not what I heard from an upperclassman.'
 
 {0x1EB0}	LOAD_STRING	'Ayna'
-{0x1EB2}	LOAD_STRING	'@v00900022 Oh, well, Kohsaka-Senpai and... that way?'
+{0x1EB2}	LOAD_STRING	'@v00900022 Oh, well, Kohsaka-senpai and... that way?'
 
 {0x1EC0}	LOAD_STRING	'Mayu'
 {0x1EC2}	LOAD_STRING	'@v00900023 Ahaha, something harmless. What do you think, Kotone?'
 
 {0x1F10}	LOAD_STRING	'???'
-{0x1F12}	LOAD_STRING	'@v00030026 Huh?!'
+{0x1F12}	LOAD_STRING	'@v00030026 Huh...?'
 
 {0x1F1C}	LOAD_STRING	'???'
 {0x1F1E}	LOAD_STRING	'@v00030027 That's not it.'
@@ -842,7 +862,7 @@
 {0x2DDB}	LOAD_STRING	'Nakategawa-san is beaming.'
 
 {0x2DE5}	LOAD_STRING	'Yui'
-{0x2DE7}	LOAD_STRING	'@v00020066 Wow... I've never done something like this with someone before!'
+{0x2DE7}	LOAD_STRING	'@v00020066 Wow... I've never done something like this with someone else before!'
 
 {0x2DF1}	LOAD_STRING	'Yui'
 {0x2DF3}	LOAD_STRING	'@v00020067 I know I'm kind of homely, but please take care of me! @k'
@@ -893,13 +913,13 @@
 {0x2F1E}	LOAD_STRING	'I try to pick my words carefully so it doesn't come across the wrong way.'
 
 {0x2F2C}	LOAD_STRING	'Tatsumi'
-{0x2F2E}	LOAD_STRING	'I don't know if I'm one to say this... But I think you shouldn't say "too much" to those around you.'
+{0x2F2E}	LOAD_STRING	'I don't know if I'm one to say this... But I think you shouldn't be so candid to those around you.'
 
 {0x2F3E}	LOAD_STRING	'I feel my words were hurried, but also subtle.'
 
-{0x2F4E}	LOAD_STRING	'To begin with, she said she had "never been with a man before." and there shouldn't be any deeper meaning than that...'
+{0x2F4E}	LOAD_STRING	'To begin with, she said she had "never been with someone else before." and there shouldn't be any deeper meaning than that...'
 
-{0x2F5E}	LOAD_STRING	'But it can't be helped that boys our age have a rushing imagination.'
+{0x2F5E}	LOAD_STRING	'But it can't be helped that boys our age have a wild imagination.'
 
 {0x2F68}	LOAD_STRING	'Yui'
 {0x2F6A}	LOAD_STRING	'@v00020072 What, was that so...?'
@@ -1040,7 +1060,7 @@
 {0x35B0}	LOAD_STRING	'Yeah, even if just for my own sanity.'
 
 {0x35BA}	LOAD_STRING	'Yui'
-{0x35BC}	LOAD_STRING	'@v00020089 Huh? well, that's... Um... What do you mean?'
+{0x35BC}	LOAD_STRING	'@v00020089 Huh? Well, that's... Um... What do you mean?'
 
 {0x35E8}	LOAD_STRING	'I think it's finally clicking in her head.'
 
@@ -1082,7 +1102,7 @@
 {0x37EC}	LOAD_STRING	'No, she seems... Pure, and gentle.'
 
 {0x37FA}	LOAD_STRING	'Tatsumi'
-{0x37FC}	LOAD_STRING	'Okay, lets stop apologizing back and forth.'
+{0x37FC}	LOAD_STRING	'Okay, let's stop apologizing back and forth.'
 
 {0x3806}	LOAD_STRING	'Yui'
 {0x3808}	LOAD_STRING	'@v00020095 O-okay.'
@@ -1098,12 +1118,16 @@
 {0x3842}	LOAD_STRING	'Yui'
 {0x3844}	LOAD_STRING	'@v00020096 Of course!'
 
+{0x3858}	SPECIAL_TEXT	0xa	'"Tell me the details"'
+
 {0x387E}	LOAD_STRING	'Miki（Message）'
 {0x3882}	LOAD_CUSTOM_TEXT	0x1	'"Tell me the details"'
 
 {0x38A3}	LOAD_STRING	'Menu_Click02'
 
 {0x38DA}	LOAD_STRING	'Pon01'
+
+{0x3919}	SPECIAL_TEXT	0xb	'"Spring has come?"'
 
 {0x393F}	LOAD_STRING	'Chihiro（Message）'
 {0x3943}	LOAD_CUSTOM_TEXT	0x1	'"Spring has come?"'
@@ -1112,12 +1136,16 @@
 
 {0x399B}	LOAD_STRING	'Pon01'
 
+{0x39DA}	SPECIAL_TEXT	0xc	'"Details please"'
+
 {0x3A00}	LOAD_STRING	'Miki（Message）'
 {0x3A04}	LOAD_CUSTOM_TEXT	0x1	'"Details please"'
 
 {0x3A25}	LOAD_STRING	'Menu_Click02'
 
 {0x3A5C}	LOAD_STRING	'Pon01'
+
+{0x3A9B}	SPECIAL_TEXT	0xd	'"So does Tatsumi have a gf now?"'
 
 {0x3AC1}	LOAD_STRING	'Chihiro（Message）'
 {0x3AC5}	LOAD_CUSTOM_TEXT	0x1	'"So does Tatsumi have a gf now?"'
@@ -1126,12 +1154,16 @@
 
 {0x3B1D}	LOAD_STRING	'Pon01'
 
+{0x3B5C}	SPECIAL_TEXT	0xe	'"Hurry over so you can introduce me!"'
+
 {0x3B82}	LOAD_STRING	'Miki（Message）'
 {0x3B86}	LOAD_CUSTOM_TEXT	0x1	'"Hurry over so you can introduce me!"'
 
 {0x3BA7}	LOAD_STRING	'Menu_Click02'
 
 {0x3BDE}	LOAD_STRING	'Pon01'
+
+{0x3C1D}	SPECIAL_TEXT	0xf	'"Aren't you late?"'
 
 {0x3C43}	LOAD_STRING	'Chihiro（Message）'
 {0x3C47}	LOAD_CUSTOM_TEXT	0x1	'"Aren't you late?"'
@@ -1140,8 +1172,10 @@
 
 {0x3C9F}	LOAD_STRING	'Pon01'
 
+{0x3CDE}	SPECIAL_TEXT	0x10	'"Don't disregard me over that!"'
+
 {0x3D04}	LOAD_STRING	'Miki（Message）'
-{0x3D08}	LOAD_CUSTOM_TEXT	0x1	'"Don't disregard me over that!'
+{0x3D08}	LOAD_CUSTOM_TEXT	0x1	'"Don't disregard me over that!"'
 
 {0x3D29}	LOAD_STRING	'Menu_Click02'
 
@@ -1154,12 +1188,16 @@
 
 {0x3DD5}	LOAD_STRING	'These two...'
 
+{0x3DDD}	SPECIAL_TEXT	0x11	'（Wait and See Stamp）'
+
 {0x3E03}	LOAD_STRING	'Tatsumi（Message）'
-{0x3E07}	LOAD_CUSTOM_TEXT	0x1	'（Wash Your Head and Wait Stamp）'
+{0x3E07}	LOAD_CUSTOM_TEXT	0x1	'（Wait and See Stamp）'
 
 {0x3E24}	LOAD_STRING	'Menu_Click02'
 
 {0x3E5B}	LOAD_STRING	'Pon01'
+
+{0x3E96}	SPECIAL_TEXT	0x12	'"What's that?"'
 
 {0x3EBC}	LOAD_STRING	'Miki（Message）'
 {0x3EC0}	LOAD_CUSTOM_TEXT	0x1	'"What's that?"'
@@ -1167,6 +1205,8 @@
 {0x3EE1}	LOAD_STRING	'Menu_Click02'
 
 {0x3F18}	LOAD_STRING	'Pon01'
+
+{0x3F5F}	SPECIAL_TEXT	0x13	'"So profound"'
 
 {0x3F85}	LOAD_STRING	'Chihiro（Message）'
 {0x3F89}	LOAD_CUSTOM_TEXT	0x1	'"So profound"'
@@ -1178,12 +1218,16 @@
 {0x4038}	LOAD_STRING	'Tatsumi'
 {0x403A}	LOAD_STRING	'"So go ahead then"'
 
+{0x403E}	SPECIAL_TEXT	0x14	'"What, is it a bad idea?"'
+
 {0x4064}	LOAD_STRING	'Miki（Message）'
 {0x4068}	LOAD_CUSTOM_TEXT	0x1	'"What, is it a bad idea?"'
 
 {0x4089}	LOAD_STRING	'Menu_Click02'
 
 {0x40C0}	LOAD_STRING	'Pon01'
+
+{0x4107}	SPECIAL_TEXT	0x15	'"Done and done"'
 
 {0x412D}	LOAD_STRING	'Chihiro（Message）'
 {0x4131}	LOAD_CUSTOM_TEXT	0x1	'"Done and done"'
@@ -1193,6 +1237,6 @@
 {0x4189}	LOAD_STRING	'Pon01'
 
 {0x41DC}	LOAD_STRING	'Yui'
-{0x41DE}	LOAD_STRING	'@v00020097 "Yep, thank you very much!"'
+{0x41DE}	LOAD_STRING	'@v00020097 "Yes, thank you very much!"'
 
 {0x41EE}	LOAD_STRING	'I'm going to take Nakategawa-san to see Miki and Chihiro. I'm nervous about this...'
