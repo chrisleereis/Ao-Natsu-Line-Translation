@@ -42,12 +42,12 @@
 {0x02D6}	LOAD_STRING	'I found Nakategawa waving at me from the back of the ticketing gate.'
 
 {0x02E0}	LOAD_STRING	'Miki'
-{0x02E2}	LOAD_STRING	'@v00010117 Yay, Yui-chan!'
+{0x02E2}	LOAD_STRING	'@v00010117 Yoo-hoo, Yui-chan!'
 
 {0x02EC}	LOAD_STRING	'Yui'
 {0x02EE}	LOAD_STRING	'@v00020136 I'm coming to you now!'
 
-{0x02FE}	LOAD_STRING	'Nakateg awa sees us at runs towards the gate...'
+{0x02FE}	LOAD_STRING	'Nakategawa sees us at runs towards the gate...'
 
 {0x0304}	LOAD_STRING	'Chime14'
 
@@ -138,7 +138,7 @@
 {0x075C}	LOAD_STRING	'@v00020148 Eheh... I'm so embarrassed...'
 
 {0x076A}	LOAD_STRING	'Tatsumi'
-{0x076C}	LOAD_STRING	'Well, Chihiro is genuinely not trying to make fun of you'
+{0x076C}	LOAD_STRING	'Well, Chihiro is genuinely not trying to make fun of you.'
 
 {0x077C}	LOAD_STRING	'But sometimes people think he does it on purpose.'
 
@@ -304,7 +304,7 @@
 {0x113E}	LOAD_STRING	'Yui'
 {0x1140}	LOAD_STRING	'@v00020163 Oh, I hit it...'
 
-{0x1150}	LOAD_STRING	'Staring at the ball that hit the ring and rolled onto the ground, Nakategawa said...'
+{0x1150}	LOAD_STRING	'Staring at the ball that entered the basket and rolled onto the ground, Nakategawa said...'
 
 {0x11AA}	LOAD_STRING	'Yui'
 {0x11AC}	LOAD_STRING	'@v00020164 Yes! I did it, I did it! @k'
@@ -561,7 +561,7 @@
 
 {0x1F9F}	LOAD_STRING	'It bounces on the ground, and back into my palm.'
 
-{0x1FAF}	LOAD_STRING	'It sync's up with my body's rhythm.'
+{0x1FAF}	LOAD_STRING	'It syncs up with my body's rhythm.'
 
 {0x1FE3}	LOAD_STRING	'I close my eyes and take a deep breath.'
 
@@ -588,7 +588,7 @@
 {0x2302}	LOAD_STRING	'Nakategawa is looking around the shop with a curious look on her face.'
 
 {0x230C}	LOAD_STRING	'Miki'
-{0x230E}	LOAD_STRING	'@v00010139 Where are you, Yui-chan?'
+{0x230E}	LOAD_STRING	'@v00010139 Hellooo, Yui-chan?'
 
 {0x2318}	LOAD_STRING	'Yui'
 {0x231A}	LOAD_STRING	'@v00020179 Oh, no... I was nervous yesterday too...'
@@ -606,7 +606,7 @@
 {0x234E}	LOAD_STRING	'@v00020181 Yes, it's called "Salome", have you heard of it?'
 
 {0x2358}	LOAD_STRING	'Chihiro'
-{0x235A}	LOAD_STRING	'@v00040113 Oh, there it is.'
+{0x235A}	LOAD_STRING	'@v00040113 Oh, I have.'
 
 {0x2368}	LOAD_STRING	'Tatsumi'
 {0x236A}	LOAD_STRING	'It's the most exclusive restaurant in the city.'
@@ -638,7 +638,7 @@
 {0x2515}	LOAD_STRING	'Chihiro'
 {0x2517}	LOAD_STRING	'@v00040114 Look, your dad is gonna break out in a cold sweat.
 
-{0x2527}	LOAD_STRING	'Its true, this place will make you some dishes that are off-menu if you ask for them.'
+{0x2527}	LOAD_STRING	'It's true, this place will make you some dishes that are off-menu if you ask for them.'
 
 {0x2537}	LOAD_STRING	'Of course, within reason...'
 

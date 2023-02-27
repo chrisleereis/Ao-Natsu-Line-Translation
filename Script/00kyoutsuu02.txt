@@ -175,7 +175,7 @@
 {0x08DA}	LOAD_STRING	'Chihiro kept a close eye on her, so thankfully nothing serious got to her.'
 
 {0x08E4}	LOAD_STRING	'Yui'
-{0x08E6}	LOAD_STRING	'@v00020113 I came here knowing the fisks, and...'
+{0x08E6}	LOAD_STRING	'@v00020113 I came here knowing the risks, and...' 
 
 {0x08F4}	LOAD_STRING	'Tatsumi'
 {0x08F6}	LOAD_STRING	'What?'
@@ -437,7 +437,7 @@
 {0x1755}	LOAD_STRING	'Miki begins to pout and protest.'
 
 {0x17AF}	LOAD_STRING	'Yui'
-{0x17B1}	LOAD_STRING	'@v00020133 Pffft... @t0090@hYUI_U201EG3 Hahahahaha!」'
+{0x17B1}	LOAD_STRING	'@v00020133 Pffft... @t0090@hYUI_U201EG3 Hahahahaha!'
 
 {0x17BF}	LOAD_STRING	'Tatsumi'
 {0x17C1}	LOAD_STRING	'Nakategawa-san...?'
