@@ -111,7 +111,7 @@
 {0x0A8E}	LOAD_STRING	'@v00040032 Nah, I'm not seeing a difference. I think you've stopped growing. '
 
 {0x0A98}	LOAD_STRING	'Miki'
-{0x0A9A}	LOAD_STRING	'@v00010042 Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Huh? Tak-kun?'
+{0x0A9A}	LOAD_STRING	'@v00010042 Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Right? Tak-kun?'
 
 {0x0AA8}	LOAD_STRING	'Tatsumi'
 {0x0AAA}	LOAD_STRING	'Whew...'
