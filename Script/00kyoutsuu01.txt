@@ -536,7 +536,7 @@
 {0x1F1E}	LOAD_STRING	'@v00030027 That's not it.'
 
 {0x1F48}	LOAD_STRING	'Mayu'
-{0x1F4A}	LOAD_STRING	'@v00900024 Right? Hahaha'
+{0x1F4A}	LOAD_STRING	'@v00900024 Right? Hahaha.'
 
 {0x1FF6}	LOAD_STRING	'Yui'
 {0x1FF8}	LOAD_STRING	'@v00020056 Oh...'
@@ -566,7 +566,7 @@
 {0x2128}	LOAD_STRING	'@v00010072 I heard she gets picked up and dropped off by a luxury black car every day.'
 
 {0x2132}	LOAD_STRING	'Miki'
-{0x2134}	LOAD_STRING	'@v00010073 The lunches she brings are multi-tiered bentos.'
+{0x2134}	LOAD_STRING	'@v00010073 The lunches she brings are stacked bentos.'
 
 {0x2148}	LOAD_STRING	'Walk02_2'
 
@@ -577,7 +577,7 @@
 {0x21A0}	LOAD_STRING	'Basket01#'
 
 {0x2221}	LOAD_STRING	'Miki'
-{0x2223}	LOAD_STRING	'@v00010074 The girl who gave me my lunch today said, "I've never been to a Japanese restaurant, but this tastes like something out of a Japanese restaurant!'
+{0x2223}	LOAD_STRING	'@v00010074 The girl who gave me my lunch today said, "I've never been to one, but this looks like something out of a ryotei!'
 
 {0x222D}	LOAD_STRING	'Chihiro'
 {0x222F}	LOAD_STRING	'@v00040056 What's with that? It looked like something from a photo.'
