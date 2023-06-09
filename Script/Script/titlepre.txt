@@ -1,3 +1,0 @@
-{0x0016}	LOAD_STRING	'Unavailable on the Title Menu'
-
-{0x0316}	LOAD_STRING	'Unavailable on the Title Menu'
