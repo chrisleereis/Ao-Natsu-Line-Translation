@@ -1,0 +1,138 @@
+{0x0096} LOAD_STRING 'Chihiro'
+{0x0098} LOAD_STRING '@v00040451 "Tatsumi, toss me a potato chip."'
+
+{0x00A6} LOAD_STRING 'Tatsumi'
+{0x00A8} LOAD_STRING '"Sure thing."'
+
+{0x00AE} LOAD_STRING 'Vinyl01'
+
+{0x00C6} LOAD_STRING 'I take a bag of potato chips out of a convenience store bag and throw it to Chihiro.'
+
+{0x00D0} LOAD_STRING 'Chihiro'
+{0x00D2} LOAD_STRING '@v00040452 "Thanks."'
+
+{0x00E2} LOAD_STRING 'Chihiro dexterously catches a bag of chips while his gaze falls on the manga magazine.'
+
+{0x00F0} LOAD_STRING 'Tatsumi'
+{0x00F2} LOAD_STRING 'Ah, tomorrow is the first day of school...'
+
+{0x0102} LOAD_STRING 'I casually glanced at the calendar on my phone and realized something I didn't want to remember.'
+
+{0x010C} LOAD_STRING 'Chihiro'
+{0x010E} LOAD_STRING '@v00040453 "Don't remind me, Tatsumi. @t0288@hCHIHIRO_U302KM3 You're so lazy."'
+
+{0x011E} LOAD_STRING 'I wonder if it's really necessary to have a school day when you're a student at the academy.'
+
+{0x012E} LOAD_STRING 'Even though school culture usually emphasizes the independence of the students, it's not good if the students are only taken care of during the summer.'
+
+{0x013C} LOAD_STRING 'Tatsumi'
+{0x013E} LOAD_STRING 'Well, Chihiro, it's time to get your cycle back on track. Go to bed before midnight."'
+
+{0x0148} LOAD_STRING 'Chihiro'
+{0x014A} LOAD_STRING '@v00040454 "Yeah, yeah."'
+
+{0x015A} LOAD_STRING 'I was in Chihiro's room, killing time with games and manga, doing nothing else but my homework.'
+
+{0x0164} load_strings 'Chihiro'
+{0x0166} LOAD_STRING '@v00040455 "... I guess it's called "deja vu". @t0255@hCHIHIRO_U301KN I feel like I wasted my time like this last year."'
+
+{0x0174} LOAD_STRING 'Tatsumi'
+{0x0176} LOAD_STRING 'Wasting time like this is the most luxurious thing I can do.'
+
+{0x0186} LOAD_STRING 'I'm not being pushy or anything, I truly believe that.'
+
+{0x0196} LOAD_STRING 'Wasting time by being rushed... Is actually worse than naturally wasting it.'
+
+{0x01AE} LOAD_STRING 'Chihiro'
+{0x01B0} LOAD_STRING '@v00040456 "But ...@t0160@hCHIHIRO_U301KN You never decided."'
+
+{0x01C0} LOAD_STRING 'Chihiro murmured disappointedly.'
+
+{0x01D0} LOAD_STRING 'I'm talking about summer vacation plans, of course.'
+
+{0x01E0} LOAD_STRING 'Even on the day of the fireworks display, we couldn't come to an agreement, so we went straight into summer vacation, and here we are.'
+
+{0x01EE} LOAD_STRING 'Tatsumi'
+{0x01F0} LOAD_STRING '... Well, maybe that was for the best.'
+
+{0x022C} LOAD_STRING 'To change something, do something.'
+
+{0x023C} LOAD_STRING 'I've given it a lot of thought, and people have given it serious thought, but-'
+
+{0x024C} LOAD_STRING 'I couldn't deny the feeling that the means and the end were swapped along the way.'
+
+{0x025C} LOAD_STRING 'Even if they had decided on something and moved on, the future that awaited them would have been very limited.'
+
+{0x026C} LOAD_STRING 'A summer vacation where you're so eager to do something, to change something, that you just run along in your youth.'
+
+{0x027C} LOAD_STRING '-I can't even imagine that.'
+
+{0x028A} LOAD_STRING 'Tatsumi'
+{0x028C} LOAD_STRING 'I see Miki every day and...'
+
+{0x02CE} LOAD_STRING 'Chihiro'
+{0x02D0} LOAD_STRING '@v00040457 "Well, we're always hanging out at Mico."'
+
+{0x02E0} LOAD_STRING 'This is probably one of the things that hasn't changed from the usual summer vacation.'
+
+{0x02EA} LOAD_STRING 'Chihiro.'
+{0x02EC} LOAD_STRING '@v00040458 "I'm in constant contact with Nakategawa and Shiino via messenger."'
+
+{0x02FC} LOAD_STRING 'However, I feel like my contact with them is fading now that we're on summer break and I don't see them at school anymore.'
+
+{0x030C} LOAD_STRING 'The frequency of exchanging messages hasn't changed that much, but it's a little awkward, as if our motivation has decreased.'
+
+{0x031A} LOAD_STRING 'Tatsumi'
+{0x031C} LOAD_STRING 'Isn't this kind of thing just like us?'
+
+{0x032C} LOAD_STRING 'It sounded subtly self-deprecating when I said it.'
+
+{0x0336} LOAD_STRING 'Chihiro.'
+{0x0338} LOAD_STRING '@v00040459 "... Were you expecting this?"'
+
+{0x0348} LOAD_STRING 'And Chihiro takes on a subtly mysterious tone.'
+
+{0x0356} LOAD_STRING 'Tatsumi.'
+{0x0358} LOAD_STRING '"I had a feeling something was going to change. ......"'
+
+{0x0378} LOAD_STRING 'Indeed, with the addition of Nakategawa and Shiino, there may have been signs of change in the atmosphere between the three of us.'
+
+{0x0388} LOAD_STRING 'But in the end, nothing changed.'
+
+{0x0398} LOAD_STRING 'I guess that means that the way we've been is the most natural.'
+
+{0x03A6} load_string 'Tatsumi'
+{0x03A8} LOAD_STRING 'I didn't change ... And I think that's what's important.'
+
+{0x03CE} LOAD_STRING 'Chihiro'
+{0x03D0} LOAD_STRING '@v00040460 "I'm not sure that's the case..."'
+
+{0x03E0} LOAD_STRING 'Maybe the three of us will always be like this - at least until graduation.'
+
+{0x03F0} LOAD_STRING 'Like a moratorium, which will end someday.'
+
+{0x03FA} LOAD_STRING 'Chihiro'
+{0x03FC} LOAD_STRING '@v00040461 "Come on, let's go bother Miki."'
+
+{0x040A} LOAD_STRING 'Tatsumi'
+{0x040C} LOAD_STRING '"Yeah. I hope I don't have to help you today."'
+
+{0x0412} LOAD_STRING 'Nuno02'
+
+{0x044A} LOAD_STRING 'Miki should be in bright spirits today at MICO.'
+
+{0x045A} LOAD_STRING 'Just like always.'
+
+{0x046A} LOAD_STRING 'Chihiro and I get ready at the same time and leave the house.'
+
+{0x0470} LOAD_STRING 'Door02O'
+
+{0x0506} LOAD_STRING 'Tatsumi'
+{0x0508} LOAD_STRING 'It's hot ...'
+
+{0x0512} LOAD_STRING 'Chihiro'
+{0x0514} LOAD_STRING '@v00040462 "Right...?"'
+
+{0x05B8} LOAD_STRING 'The sun is beaming on us.'
+
+{0x05C8} LOAD_STRING 'It was as if it was blaming us for this summer's failure.'
