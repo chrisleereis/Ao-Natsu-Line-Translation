@@ -1,5 +1,0 @@
-{0x000A}	LOAD_STRING	'Back to the beginning of the event.'
-
-{0x0010}	LOAD_STRING	'Unavailable during Event Mode'
-
-{0x0079}	LOAD_STRING	'Title'
