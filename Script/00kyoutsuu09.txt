@@ -1137,19 +1137,19 @@
 
 {0x4353}	LOAD_STRING	'Pon01'
 
-{0x4392}	SPECIAL_TEXT	0x1	'"I Didn't know anything about Nezu-senpai"'
+{0x4392}	SPECIAL_TEXT	0x1	'"I didn't know about Nezu-senpai"'
 
 {0x43B8}	LOAD_STRING	'Mayu(Message)'
-{0x43BC}	LOAD_CUSTOM_TEXT	0x1	'"I Didn't know anything about Nezu-senpai"'
+{0x43BC}	LOAD_CUSTOM_TEXT	0x1	'"I didn't know about Nezu-senpai"'
 
 {0x43DD}	LOAD_STRING	'Menu_Click02'
 
 {0x4414}	LOAD_STRING	'Pon01'
 
-{0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart and idk what to do"'
+{0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart and idk what 2 do"'
 
 {0x4479}	LOAD_STRING	'Mayu(Message)'
-{0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart and idk what to do"'
+{0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart and idk what 2 do"'
 
 {0x449E}	LOAD_STRING	'Menu_Click02'
 
@@ -1238,10 +1238,10 @@
 
 {0x4A93}	LOAD_STRING	'Pon01'
 
-{0x4AD2}	SPECIAL_TEXT	0x9	'"I'll be waiting for you, Kotone, okay?"'
+{0x4AD2}	SPECIAL_TEXT	0x9	'"I'll be waiting for you, Kotone, ok?"'
 
 {0x4AF8}	LOAD_STRING	'Mayu(Message)'
-{0x4AFC}	LOAD_CUSTOM_TEXT	0x1	'"I'll be waiting for you, Kotone, okay?"'
+{0x4AFC}	LOAD_CUSTOM_TEXT	0x1	'"I'll be waiting for you, Kotone, ok?"'
 
 {0x4B1D}	LOAD_STRING	'Menu_Click02'
 

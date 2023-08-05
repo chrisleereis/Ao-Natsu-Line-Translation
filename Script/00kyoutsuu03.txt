@@ -721,10 +721,10 @@
 
 {0x29AB}	LOAD_STRING	'One new message from Nakategawa.'
 
-{0x29AF}	SPECIAL_TEXT	0x1	'"So proper... You don't have to overthink it, K?"'
+{0x29AF}	SPECIAL_TEXT	0x1	'"So proper. You don't have to overthink it, K?"'
 
 {0x29D5}	LOAD_STRING	'Tatsumi（Message）'
-{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper... You don't have to overthink it, K?"'
+{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper. You don't have to overthink it, K?"'
 
 {0x29FA}	LOAD_STRING	'Menu_Click02'
 
@@ -1225,10 +1225,10 @@
 
 {0x5207}	LOAD_STRING	'You can get a lot of trouble if you talk smack about someone accidentally in a group chat.'
 
-{0x520B}	SPECIAL_TEXT	0x35	'"Chihiro-san, could you ever forgive me...?"'
+{0x520B}	SPECIAL_TEXT	0x35	'"Chihiro-san, could you ever forgive me?"'
 
 {0x5231}	LOAD_STRING	'Yui（Message）'
-{0x5235}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san, could you ever forgive me...?"'
+{0x5235}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san, could you ever forgive me?"'
 
 {0x5256}	LOAD_STRING	'Menu_Click02'
 
@@ -1236,10 +1236,10 @@
 
 {0x52DE}	LOAD_STRING	'Although it's not that serious right now.'
 
-{0x52E2}	SPECIAL_TEXT	0x36	'"Tatsumi-kun, teach me to be nicer, will ya"'
+{0x52E2}	SPECIAL_TEXT	0x36	'"Tatsumi-kun, teach me 2 b nicer, will ya"'
 
 {0x5308}	LOAD_STRING	'Chihiro（Message）'
-{0x530C}	LOAD_CUSTOM_TEXT	0x1	'"Tatsumi-kun, teach me to be nicer, will ya"'
+{0x530C}	LOAD_CUSTOM_TEXT	0x1	'"Tatsumi-kun, teach me 2 b nicer, will ya"'
 
 {0x532D}	LOAD_STRING	'Menu_Click02'
 

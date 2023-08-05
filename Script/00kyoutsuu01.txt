@@ -367,7 +367,7 @@
 {0x175F}	LOAD_STRING	'Yui'
 {0x1761}	LOAD_STRING	'@v00020051 Um...'
 
-{0x1771}	LOAD_STRING	'Noticing the state of the room, she starting dropping her voice.'
+{0x1771}	LOAD_STRING	'Noticing the state of the room, she starts dropping her voice.'
 
 {0x1785}	LOAD_STRING	'Yui'
 {0x1787}	LOAD_STRING	'@v00020052 Well, it's a little embarassing... Can I tell you after school, in this same spot?'
@@ -475,7 +475,7 @@
 {0x1BC2}	LOAD_STRING	'I have to try hard to come up with a convincing expression, or else he'll call my bluff.'
 
 {0x1BCC}	LOAD_STRING	'Chihiro'
-{0x1BCE}	LOAD_STRING	'@v00040052 Let's talk after school! @t0170@hCHIHIRO_U201IK @k'
+{0x1BCE}	LOAD_STRING	'@v00040052 Let's talk after school!@t0170@hCHIHIRO_U201IK@k'
 
 {0x1BEC}	LOAD_STRING	'As soon as I hear him say "after school", I'm distracted and Chihiro takes the ball.'
 
@@ -738,7 +738,7 @@
 
 {0x2837}	LOAD_STRING	'I can't believe I hadn't known how Nakategawa felt about me all this time.'
 
-{0x2847}	LOAD_STRING	'And just like that, lunch break was over, without me taking even a single shot.'
+{0x2847}	LOAD_STRING	'And just like that, lunch break was over, without me making even a single shot.'
 
 {0x2879}	LOAD_STRING	'Door14O'
 
@@ -748,7 +748,7 @@
 
 {0x28F1}	LOAD_STRING	'After school...'
 
-{0x2901}	LOAD_STRING	'When I arrived to the rooftop, Nakategawa-san was already there.'
+{0x2901}	LOAD_STRING	'When I arrived at the rooftop, Nakategawa-san was already there.'
 
 {0x29EF}	LOAD_STRING	'Yui'
 {0x29F1}	LOAD_STRING	'@v00020057 Oh, you really came...'
@@ -781,7 +781,7 @@
 
 {0x2AA9}	LOAD_STRING	'An awkward, subtle silence falls between us.'
 
-{0x2AB3}	LOAD_STRING	'Yui＆Tatsumi'
+{0x2AB3}	LOAD_STRING	'Yui & Tatsumi'
 {0x2AB5}	LOAD_STRING	'@v00020060 Um...@k'
 
 {0x2AE9}	LOAD_STRING	'We both break the silence by uttering this one sound.'
@@ -848,9 +848,9 @@
 {0x2D7D}	LOAD_STRING	'Tatsumi'
 {0x2D7F}	LOAD_STRING	'I guess that sounds fine...'
 
-{0x2D8F}	LOAD_STRING	'I don't know if I can respond to all Nakategawa's wishes.'
+{0x2D8F}	LOAD_STRING	'I don't know if I can respond to all of Nakategawa's wishes.'
 
-{0x2D9F}	LOAD_STRING	'We might go from being friends, to having more than that, or we might not.'
+{0x2D9F}	LOAD_STRING	'We might go from being friends, to being more than that, or we might not.'
 
 {0x2DAF}	LOAD_STRING	'Above all, if there is a future where I'm dating Nakategawa-san...'
 
@@ -941,7 +941,7 @@
 {0x2FE6}	LOAD_STRING	'Tatsumi'
 {0x2FE8}	LOAD_STRING	'Everyone... Do... It...?'
 
-{0x2FF8}	LOAD_STRING	'Don't repeat that.'
+{0x2FF8}	LOAD_STRING	'Not again.'
 
 {0x3008}	LOAD_STRING	'This is bad. I'm young, I can't help it if my mind goes there.'
 
@@ -964,7 +964,7 @@
 {0x3086}	LOAD_STRING	'@v00020077 Huh? Is it not a good arrangement?'
 
 {0x3094}	LOAD_STRING	'Tatsumi'
-{0x3096}	LOAD_STRING	'No! three people is not healthy!'
+{0x3096}	LOAD_STRING	'No! Three people is not healthy!'
 
 {0x30A6}	LOAD_STRING	'Of course, I know there are people who do things with multiple people...'
 
@@ -1071,7 +1071,7 @@
 {0x3617}	LOAD_STRING	'You didn't?'
 
 {0x3686}	LOAD_STRING	'Yui'
-{0x3688}	LOAD_STRING	'@v00020091 Ah, no, its just a little different, but different nonetheless! @t0380@hYUI_U201SK@k'
+{0x3688}	LOAD_STRING	'@v00020091 Ah, no, its just a little different, but different nonetheless!@t0380@hYUI_U201SK@k'
 
 {0x36AD}	LOAD_STRING	'Yui'
 {0x36AF}	LOAD_STRING	'@v00020092 It's not that I'm not attracted to you! I'm just nervous and scared!'
@@ -1216,7 +1216,7 @@
 {0x3FE1}	LOAD_STRING	'Pon01'
 
 {0x4038}	LOAD_STRING	'Tatsumi'
-{0x403A}	LOAD_STRING	'"So go ahead then"'
+{0x403A}	LOAD_STRING	'We can move forward with it.'
 
 {0x403E}	SPECIAL_TEXT	0x14	'"What, is it a bad idea?"'
 
@@ -1237,6 +1237,6 @@
 {0x4189}	LOAD_STRING	'Pon01'
 
 {0x41DC}	LOAD_STRING	'Yui'
-{0x41DE}	LOAD_STRING	'@v00020097 "Yes, thank you very much!"'
+{0x41DE}	LOAD_STRING	'@v00020097 Yes, thank you very much!'
 
 {0x41EE}	LOAD_STRING	'I'm going to take Nakategawa-san to see Miki and Chihiro. I'm nervous about this...'

@@ -38,10 +38,10 @@
 
 {0x0514}	LOAD_STRING	'I'm so unsure right now.'
 
-{0x0524}	SPECIAL_TEXT	0x3	'"It's a misunderstanding, just ask Ayna"'
+{0x0524}	SPECIAL_TEXT	0x3	'"Just ask Ayna, she'll tell you"'
 
 {0x054A}	LOAD_STRING	'???(Message)'
-{0x054E}	LOAD_CUSTOM_TEXT	0x1	'"It's a misunderstanding, just ask Ayna"'
+{0x054E}	LOAD_CUSTOM_TEXT	0x1	'"Just ask Ayna, she'll tell you"'
 
 {0x056F}	LOAD_STRING	'Menu_Click02'
 
@@ -234,10 +234,10 @@
 
 {0x11D8}	LOAD_STRING	'Pon01'
 
-{0x121F}	SPECIAL_TEXT	0xb	'"Long story, but I'm bringing a Junior girl"'
+{0x121F}	SPECIAL_TEXT	0xb	'"Long story, I'm bringing a Junior girl"'
 
 {0x1245}	LOAD_STRING	'Yui(Message)'
-{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"Long story, but I'm bringing a Junior girl"'
+{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"Long story, I'm bringing a Junior girl"'
 
 {0x126A}	LOAD_STRING	'Menu_Click02'
 

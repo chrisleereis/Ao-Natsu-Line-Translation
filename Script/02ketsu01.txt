@@ -166,7 +166,7 @@
 {0x0708}	LOAD_STRING	'Yui'
 {0x070A}	LOAD_STRING	'@v00020538"Ah, why don't we share lunches? I've always wanted to do that!"'
 
-{0x071A}	LOAD_STRING	'とNakategawaが提案してきた。'
+{0x071A}	LOAD_STRING	'Nakategawa suggests.'
 
 {0x0754}	LOAD_STRING	'Miki'
 {0x0756}	LOAD_STRING	'@v00010730"Okay! Let's trade, then."'
@@ -242,7 +242,7 @@
 {0x0B1E}	LOAD_STRING	'Chihiro'
 {0x0B20}	LOAD_STRING	'@v00040617"I'm looking forward to it..."'
 
-{0x0B30}	LOAD_STRING	'Is he holding something back? It feels like he swallowed whatever he really wanted to say, before shrugging his shoulders.'
+{0x0B30}	LOAD_STRING	'Is she holding something back? It feels like she swallowed whatever she really wanted to say, before shrugging her shoulders.'
 
 {0x0B3A}	LOAD_STRING	'Yui'
 {0x0B3C}	LOAD_STRING	'@v00020543"This is the first time I'm going on a trip with a group of friends..."'
@@ -329,7 +329,7 @@
 {0x0DB8}	LOAD_STRING	'@v00040624"Oh... how about in Japanese...?"'
 
 {0x0DC2}	LOAD_STRING	'Yui'
-{0x0DC4}	LOAD_STRING	'@v00020552"『@r思い立ったが吉日@Omoi tatta ga kichijitsu』"'
+{0x0DC4}	LOAD_STRING	'@v00020552"『@r思い立ったが吉日@Omoi tatta ga kichijitsu@』"'
 
 {0x0DD2}	LOAD_STRING	'Tatsumi'
 {0x0DD4}	LOAD_STRING	'Pft... It's so like you, Nakategawa.'
@@ -603,7 +603,7 @@
 {0x18A7}	LOAD_STRING	'@v00010757"No wonder they resent you.@t0290@hMIKI_A202OD Yui-chan, be careful heading home today, okay?"'
 
 {0x1914}	LOAD_STRING	'Yui'
-{0x1916}	LOAD_STRING	'@v00020572"Ah...?@t0200@hYUI_A202KM I just want a nromal school life!"@k'
+{0x1916}	LOAD_STRING	'@v00020572"Ah...?@t0200@hYUI_A202KM I just want a normal school life!"@k'
 
 {0x1924}	LOAD_STRING	'Air03'
 

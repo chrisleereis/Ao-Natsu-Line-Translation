@@ -737,10 +737,10 @@
 
 {0x20D3}	LOAD_STRING	'Pon01'
 
-{0x2112}	SPECIAL_TEXT	0x1	'"Kotone was on the beach with that lame senior"'
+{0x2112}	SPECIAL_TEXT	0x1	'"Kotone was on the beach w/ that lame senior"'
 
 {0x2138}	LOAD_STRING	'Yuzuki(Message)'
-{0x213C}	LOAD_CUSTOM_TEXT	0x1	'"Kotone was on the beach with that lame senior"'
+{0x213C}	LOAD_CUSTOM_TEXT	0x1	'"Kotone was on the beach w/ that lame senior"'
 
 {0x215D}	LOAD_STRING	'Menu_Click02'
 
@@ -782,10 +782,10 @@
 
 {0x2498}	LOAD_STRING	'Pon01'
 
-{0x24D7}	SPECIAL_TEXT	0x6	'"If you tell Nezu-senpai it will spread quickly"'
+{0x24D7}	SPECIAL_TEXT	0x6	'"If you tell Nezu-senpai itll spread quickly"'
 
 {0x24FD}	LOAD_STRING	'Mayu(Message)'
-{0x2501}	LOAD_CUSTOM_TEXT	0x1	'"If you tell Nezu-senpai it will spread quickly"'
+{0x2501}	LOAD_CUSTOM_TEXT	0x1	'"If you tell Nezu-senpai itll spread quickly"'
 
 {0x2522}	LOAD_STRING	'Menu_Click02'
 

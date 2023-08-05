@@ -137,7 +137,7 @@
 {0x06FB}	LOAD_STRING	'@v00010094 Really? Should I give it some thought?'
 
 {0x0705}	LOAD_STRING	'Chihiro'
-{0x0707}	LOAD_STRING	'@v00040073 Please listen closely.'
+{0x0707}	LOAD_STRING	'@v00040073 Pay attention.'
 
 {0x0711}	LOAD_STRING	'Yui'
 {0x0713}	LOAD_STRING	'@v00020109 I thought, "Is this the way my youth should be? Isn't there a different way to experience it?"'

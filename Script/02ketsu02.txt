@@ -152,7 +152,7 @@
 {0x05D0}	LOAD_STRING	'But this is the 21st century. I can't believe it's true, just like Shiino said.'
 
 {0x0622}	LOAD_STRING	'Yui'
-{0x0624}	LOAD_STRING	'@v00020581"How terrible is that? To be disowned, you know?　My human rights are completely disregarded."'
+{0x0624}	LOAD_STRING	'@v00020581"How terrible is that? To be disowned, you know? My human rights are completely disregarded."'
 
 {0x0634}	LOAD_STRING	'Nakategawa puffing out her cheeks cutely.'
 
@@ -262,7 +262,7 @@
 {0x09A0}	LOAD_STRING	'@v00010771"What kind of loophole?"'
 
 {0x09E2}	LOAD_STRING	'Yui'
-{0x09E4}	LOAD_STRING	'@v00020592"Impure sexual activity is a no-go. So that means...。@t0310@hYUI_A101EG3 Wholesome and pure sexual activity is okay!"'
+{0x09E4}	LOAD_STRING	'@v00020592"Impure sexual activity is a no-go. So that means...@t0310@hYUI_A101EG3 Wholesome and pure sexual activity is okay!"'
 
 {0x09F2}	LOAD_STRING	'Tatsumi'
 {0x09F4}	LOAD_STRING	'I guess so...?'
