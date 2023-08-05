@@ -234,10 +234,10 @@
 
 {0x11D8}	LOAD_STRING	'Pon01'
 
-{0x121F}	SPECIAL_TEXT	0xb	'"It's a long story, but I'm bringing a Junior girl along"'
+{0x121F}	SPECIAL_TEXT	0xb	'"Long story, but I'm bringing a Junior girl"'
 
 {0x1245}	LOAD_STRING	'Yui(Message)'
-{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"It's a long story, but I'm bringing a Junior girl along"'
+{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"Long story, but I'm bringing a Junior girl"'
 
 {0x126A}	LOAD_STRING	'Menu_Click02'
 
@@ -482,7 +482,7 @@
 {0x1F13}	LOAD_STRING	'It's cruel enough that she sat in the rain, crying.'
 
 {0x1F1D}	LOAD_STRING	'Chihiro'
-{0x1F1F}	LOAD_STRING	'@v00040179"It's notlike they're bullying her, right?"'
+{0x1F1F}	LOAD_STRING	'@v00040179"It's not like they're bullying her, right?"'
 
 {0x1F29}	LOAD_STRING	'Miki'
 {0x1F2B}	LOAD_STRING	'@v00010199"Yeah, I guess so..."'

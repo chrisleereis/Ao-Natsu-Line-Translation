@@ -36,7 +36,7 @@
 {0x01C9}	LOAD_STRING	'@v00900106 ... @t0230@h Will you stand up?'
 
 {0x020B}	LOAD_STRING	'Miki'
-{0x020D}	LOAD_STRING	'@v00010527@s0004 I TOLD YOU!!! @k'
+{0x020D}	LOAD_STRING	'@v00010527@s0004"I TOLD YOU!!!@k'
 
 {0x0230}	LOAD_STRING	'Listen to the person who guessed the first word of the homeroom teacher who came to the classroom.'
 
@@ -167,7 +167,7 @@
 
 {0x0871}	LOAD_STRING	'Maybe this because this mountaineering club member is getting all excited about one of the most popular girls, Miki Kohsaka, visiting his clubroom.'
 
-{0x0881}	LOAD_STRING	'I'm not going to mention it any further because of his honor and all that'
+{0x0881}	LOAD_STRING	'I'm not going to mention it any further because of his honor and all that.'
 
 {0x088F}	LOAD_STRING	'Tatsumi'
 {0x0891}	LOAD_STRING	'Chihiro is the one who used to go shopping for pudding.'
@@ -223,7 +223,7 @@
 {0x0A91}	LOAD_STRING	'Soon her expression becomes a smile of triumph.'
 
 {0x0A9B}	LOAD_STRING	'Miki'
-{0x0A9D}	LOAD_STRING	'@v00010542Eating oven-baked tender custard pudding with a spectacular view of Kurigaoka. Am I living the life of luxury or what?'
+{0x0A9D}	LOAD_STRING	'@v00010542Eating"Oven-baked tender custard pudding with a spectacular view of Kurigaoka. Am I living the life of luxury or what?'
 
 {0x0AAB}	LOAD_STRING	'Tatsumi'
 {0x0AAD}	LOAD_STRING	'It seems you were satisfied.'
@@ -234,7 +234,7 @@
 {0x0B09}	LOAD_STRING	'If you smile so childishly... I mean, so cutely, I can't help but listen to one or two selfish requests.'
 
 {0x0B13}	LOAD_STRING	'Chihiro'
-{0x0B15}	LOAD_STRING	'@v00040509 But ......Miki has a point, it is indeed a great view.'
+{0x0B15}	LOAD_STRING	'@v00040509 But... Miki has a point, it is indeed a great view.'
 
 {0x0B25}	LOAD_STRING	'The air is clean after the rain, and Mt. Fuji is clear today.'
 
@@ -359,7 +359,7 @@
 {0x0F57}	LOAD_STRING	'Tatsumi'
 {0x0F59}	LOAD_STRING	'Heheh, an airplane?'
 
-{0x0F69}	LOAD_STRING	'I was not in the mood while answering in such a dumbfounded voice.
+{0x0F69}	LOAD_STRING	'I was not in the mood while answering in such a dumbfounded voice.'
 
 {0x0F79}	LOAD_STRING	'Not to mention the feeling of her thighs squeezing my ears. @k'
 
@@ -368,14 +368,14 @@
 {0x0FCD}	LOAD_STRING	'Phew... I'll stop thinking about it now.'
 
 {0x0FD7}	LOAD_STRING	'Miki'
-{0x0FD9}	LOAD_STRING	'@v00010557 By the way, Tak-kun. We used to go up the back of the mountain and see Mt. Fuji and stuff, right? @k'
+{0x0FD9}	LOAD_STRING	'@v00010557 By the way, Tak-kun. We used to go up the back of the mountain and see Mt. Fuji and stuff, right?@k'
 
 {0x1017}	LOAD_STRING	'Tatsumi'
 {0x1019}	LOAD_STRING	'Huh? When was this?'
 
 {0x1029}	LOAD_STRING	'When I was in elementary school, I spent every day of my free time running around with Miki to the mountains and the sea, so of course I saw Mt. Fuji and airplanes.'
 
-{0x1039}	LOAD_STRING	'I don't remember that vividly, but I wonder if Miki does?'
+{0x1039}	LOAD_STRING	'I don't remember it that vividly, but I wonder if Miki does?'
 
 {0x1043}	LOAD_STRING	'Miki'
 {0x1045}	LOAD_STRING	'@v00010558 I saw it. The sun went down and I couldn't see my way home, and I cried, didn't I, Tak-kun?'
@@ -419,7 +419,7 @@
 {0x1169}	LOAD_STRING	'No, I'm fine. I just ate my lunch.'
 
 {0x1173}	LOAD_STRING	'Miki'
-{0x1175}	LOAD_STRING	'@v00010563 It's okay, it's okay. @k'
+{0x1175}	LOAD_STRING	'@v00010563 It's okay, it's okay.@k'
 
 {0x11B5}	LOAD_STRING	'Miki forces pudding into my mouth. @k'
 
@@ -479,7 +479,7 @@
 {0x14B1}	LOAD_STRING	'Huh?!'
 
 {0x14BB}	LOAD_STRING	'Yui'
-{0x14BD}	LOAD_STRING	'@v00020511 Iit's okay! I promise I'm not as heavy as I look!'
+{0x14BD}	LOAD_STRING	'@v00020511 I-it's okay! I promise I'm not as heavy as I look!'
 
 {0x14CB}	LOAD_STRING	'Tatsumi'
 {0x14CD}	LOAD_STRING	'No, I meant... Maybe some other time?'
@@ -600,7 +600,7 @@
 {0x1BF5}	LOAD_STRING	'Chihiro's body is too big.'
 
 {0x1BFF}	LOAD_STRING	'Miki'
-{0x1C01}	LOAD_STRING	'@v00010572 Tak-kun, scoot this way a bit. Hup hup! @k'
+{0x1C01}	LOAD_STRING	'@v00010572 Tak-kun, scoot this way a bit. Hup hup!@k'
 
 {0x1C26}	LOAD_STRING	'Chihiro'
 {0x1C28}	LOAD_STRING	'@v00040525 Tatsumi, quit pushing.'

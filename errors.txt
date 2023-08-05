@@ -1,0 +1,17 @@
+00kyoutsuu03 issues
+
+	{0x0DF4} weird graphic transition, but i can't tell if its an error in the emulator or just present in the game like that, i assume this is vulcan rendering in Yuzu and probably not present on Switch
+
+	{0x28D8} sms messages that are too long don't trigger a bubble outline
+
+	{0x42CC} length 43, no bubble triggered for some reason
+
+00kyoutsuu04 
+
+	refused the entire translation text. continued normally in Japanese
+
+02ketsu01 untested
+
+02ketsu02 untested
+
+03kotone01 untested

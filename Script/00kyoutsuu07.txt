@@ -180,7 +180,7 @@
 
 {0x071E}	LOAD_STRING	'Cowbell02'
 
-{0x0736}	LOAD_STRING	'Shaking off her hand, Shiino runs out of MICO'
+{0x0736}	LOAD_STRING	'Shaking off her hand, Shiino runs out of Mico.'
 
 {0x0746}	LOAD_STRING	'I caught a glimpse of her face, and it was terribly pale.'
 
@@ -198,7 +198,7 @@
 {0x07D8}	LOAD_STRING	'@v00010237"Yes please, Tak-kun!"'
 
 {0x07FE}	LOAD_STRING	'Yui'
-{0x0800}	LOAD_STRING	'@v00020331"Let me know if i can help, Tatsumi-san."'
+{0x0800}	LOAD_STRING	'@v00020331"Let me know if I can help, Tatsumi-san."'
 
 {0x085A}	LOAD_STRING	'Chihiro'
 {0x085C}	LOAD_STRING	'@v00040236"..."'
@@ -259,7 +259,7 @@
 {0x0B39}	LOAD_STRING	'Kotone'
 {0x0B3B}	LOAD_STRING	'@v00030119"Please stop!!!"'
 
-{0x0B4B}	LOAD_STRING	''This time the rejection was so clear that I flinched.'
+{0x0B4B}	LOAD_STRING	'This time the rejection was so clear that I flinched.'
 
 {0x0B55}	LOAD_STRING	'Kotone'
 {0x0B57}	LOAD_STRING	'@v00030120"Please leave me alone... I... I'm..."'
@@ -539,7 +539,7 @@
 {0x1998}	LOAD_STRING	'Shiino clutches her phone tightly.'
 
 {0x19C2}	LOAD_STRING	'Tatsumi'
-{0x19C4}	LOAD_STRING	'Well, anyway... Cool, uncool, that's up to the around the school, isn't it?'
+{0x19C4}	LOAD_STRING	'Well, anyway... Cool, uncool, that's up to the people around the school, isn't it?'
 
 {0x19D2}	LOAD_STRING	'Tatsumi'
 {0x19D4}	LOAD_STRING	'Now and then, Shiino is still Shiino. She tries hard to change, fails, and sometimes bites her seniors.'
@@ -728,109 +728,109 @@
 
 {0x1FE7}	LOAD_STRING	'Where she has to go.'
 
-{0x2051}	SPECIAL_TEXT	0x0	'Critical news!'
+{0x2051}	SPECIAL_TEXT	0x0	'"Critical news!"'
 
 {0x2077}	LOAD_STRING	'Yuzuki(Message)'
-{0x207B}	LOAD_CUSTOM_TEXT	0x1	'Critical news!'
+{0x207B}	LOAD_CUSTOM_TEXT	0x1	'"Critical news!"'
 
 {0x209C}	LOAD_STRING	'Menu_Click02'
 
 {0x20D3}	LOAD_STRING	'Pon01'
 
-{0x2112}	SPECIAL_TEXT	0x1	'On the beach at night, Kotone was having a nice moment with that boring senior!'
+{0x2112}	SPECIAL_TEXT	0x1	'"Kotone was on the beach with that lame senior"'
 
 {0x2138}	LOAD_STRING	'Yuzuki(Message)'
-{0x213C}	LOAD_CUSTOM_TEXT	0x1	'On the beach at night, Kotone was having a nice moment with that boring senior!'
+{0x213C}	LOAD_CUSTOM_TEXT	0x1	'"Kotone was on the beach with that lame senior"'
 
 {0x215D}	LOAD_STRING	'Menu_Click02'
 
 {0x2194}	LOAD_STRING	'Pon01'
 
-{0x21D3}	SPECIAL_TEXT	0x2	'Huh? Not Sakaki-senpai?'
+{0x21D3}	SPECIAL_TEXT	0x2	'"Huh? Not Sakaki-senpai?"'
 
 {0x21F9}	LOAD_STRING	'Ayna(Message)'
-{0x21FD}	LOAD_CUSTOM_TEXT	0x1	'Huh? Not Sakaki-senpai?'
+{0x21FD}	LOAD_CUSTOM_TEXT	0x1	'"Huh? Not Sakaki-senpai?"'
 
 {0x221E}	LOAD_STRING	'Menu_Click02'
 
 {0x2255}	LOAD_STRING	'Pon01'
 
-{0x2294}	SPECIAL_TEXT	0x3	'No, the plain one!'
+{0x2294}	SPECIAL_TEXT	0x3	'"No, the plain one!"'
 
 {0x22BA}	LOAD_STRING	'Yuzuki(Message)'
-{0x22BE}	LOAD_CUSTOM_TEXT	0x1	'No, the plain one!'
+{0x22BE}	LOAD_CUSTOM_TEXT	0x1	'"No, the plain one!"'
 
 {0x22DF}	LOAD_STRING	'Menu_Click02'
 
 {0x2316}	LOAD_STRING	'Pon01'
 
-{0x2355}	SPECIAL_TEXT	0x4	'Impossible...'
+{0x2355}	SPECIAL_TEXT	0x4	'"Impossible..."'
 
 {0x237B}	LOAD_STRING	'Mayu(Message)'
-{0x237F}	LOAD_CUSTOM_TEXT	0x1	'Impossible...'
+{0x237F}	LOAD_CUSTOM_TEXT	0x1	'"Impossible..."'
 
 {0x23A0}	LOAD_STRING	'Menu_Click02'
 
 {0x23D7}	LOAD_STRING	'Pon01'
 
-{0x2416}	SPECIAL_TEXT	0x5	'You have to tell the other kids, right?'
+{0x2416}	SPECIAL_TEXT	0x5	'"You have to tell the others, right?"'
 
 {0x243C}	LOAD_STRING	'Ayna(Message)'
-{0x2440}	LOAD_CUSTOM_TEXT	0x1	'You have to tell the other kids, right?'
+{0x2440}	LOAD_CUSTOM_TEXT	0x1	'"You have to tell the others, right?"'
 
 {0x2461}	LOAD_STRING	'Menu_Click02'
 
 {0x2498}	LOAD_STRING	'Pon01'
 
-{0x24D7}	SPECIAL_TEXT	0x6	'If you tell Nezu-senpai, it will spread quickly'
+{0x24D7}	SPECIAL_TEXT	0x6	'"If you tell Nezu-senpai it will spread quickly"'
 
 {0x24FD}	LOAD_STRING	'Mayu(Message)'
-{0x2501}	LOAD_CUSTOM_TEXT	0x1	'If you tell Nezu-senpai, it will spread quickly'
+{0x2501}	LOAD_CUSTOM_TEXT	0x1	'"If you tell Nezu-senpai it will spread quickly"'
 
 {0x2522}	LOAD_STRING	'Menu_Click02'
 
 {0x2559}	LOAD_STRING	'Pon01'
 
-{0x2598}	SPECIAL_TEXT	0x7	'Oh, maybe'
+{0x2598}	SPECIAL_TEXT	0x7	'"Oh, maybe"'
 
 {0x25BE}	LOAD_STRING	'Ayna(Message)'
-{0x25C2}	LOAD_CUSTOM_TEXT	0x1	'Oh, maybe'
+{0x25C2}	LOAD_CUSTOM_TEXT	0x1	'"Oh, maybe"'
 
 {0x25E3}	LOAD_STRING	'Menu_Click02'
 
 {0x261A}	LOAD_STRING	'Pon01'
 
-{0x2659}	SPECIAL_TEXT	0x8	'Hey, isn't Nezu-senpai about to lose his temper?'
+{0x2659}	SPECIAL_TEXT	0x8	'"Hey, won't Nezu-senpai lose his temper?"'
 
 {0x267F}	LOAD_STRING	'Yuzuki(Message)'
-{0x2683}	LOAD_CUSTOM_TEXT	0x1	'Hey, isn't Nezu-senpai about to lose his temper?'
+{0x2683}	LOAD_CUSTOM_TEXT	0x1	'"Hey, won't Nezu-senpai lose his temper?"'
 
 {0x26A4}	LOAD_STRING	'Menu_Click02'
 
 {0x26DB}	LOAD_STRING	'Pon01'
 
-{0x271A}	SPECIAL_TEXT	0x9	'It doesn't matter'
+{0x271A}	SPECIAL_TEXT	0x9	'"It doesn't matter"'
 
 {0x2740}	LOAD_STRING	'Mayu(Message)'
-{0x2744}	LOAD_CUSTOM_TEXT	0x1	'It doesn't matter'
+{0x2744}	LOAD_CUSTOM_TEXT	0x1	'"It doesn't matter"'
 
 {0x2765}	LOAD_STRING	'Menu_Click02'
 
 {0x279C}	LOAD_STRING	'Pon01'
 
-{0x27DB}	SPECIAL_TEXT	0xa	'Right?'
+{0x27DB}	SPECIAL_TEXT	0xa	'"Right?"'
 
 {0x2801}	LOAD_STRING	'Ayna(Message)'
-{0x2805}	LOAD_CUSTOM_TEXT	0x1	'Right?'
+{0x2805}	LOAD_CUSTOM_TEXT	0x1	'"Right?"'
 
 {0x2826}	LOAD_STRING	'Menu_Click02'
 
 {0x285D}	LOAD_STRING	'Pon01'
 
-{0x289C}	SPECIAL_TEXT	0xb	'Kotone needs to be sorry'
+{0x289C}	SPECIAL_TEXT	0xb	'"Kotone needs to be sorry"'
 
 {0x28C2}	LOAD_STRING	'Mayu(Message)'
-{0x28C6}	LOAD_CUSTOM_TEXT	0x1	'Kotone needs to be sorry'
+{0x28C6}	LOAD_CUSTOM_TEXT	0x1	'"Kotone needs to be sorry"'
 
 {0x28E7}	LOAD_STRING	'Menu_Click02'
 

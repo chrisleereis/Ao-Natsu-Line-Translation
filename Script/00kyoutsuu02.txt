@@ -55,7 +55,7 @@
 {0x0379}	LOAD_STRING	'@v00020100 Y-yes! @t0130@hYUI_U201AS  Eheh... How is all this information getting around?'
 
 {0x0383}	LOAD_STRING	'Miki'
-{0x0385}	LOAD_STRING	'@v00010090 I just can't believe you transferred all the way t our school. You're so aggressive... I mean, reckless, Nakategawa-san...'
+{0x0385}	LOAD_STRING	'@v00010090 I just can't believe you transferred all the way to our school. You're so aggressive... I mean, reckless, Nakategawa-san...'
 
 {0x038F}	LOAD_STRING	'Yui'
 {0x0391}	LOAD_STRING	'@v00020101 My parents say the same thing...'
@@ -170,7 +170,7 @@
 {0x08B8}	LOAD_STRING	'Miki'
 {0x08BA}	LOAD_STRING	'@v00010097 Yeah, but co-ed schools are a pain in the butt too, you know?'
 
-{0x08CA}	LOAD_STRING	'I think Miki went though some trouble when she first came to Kuragaku.'
+{0x08CA}	LOAD_STRING	'I think Miki went though some trouble when she first came to Kurigaoka.'
 
 {0x08DA}	LOAD_STRING	'Chihiro kept a close eye on her, so thankfully nothing serious got to her.'
 
@@ -191,8 +191,8 @@
 
 {0x09AC}	LOAD_STRING	'...'
 
-{0x0A4E}	LOAD_STRING	'Tatsumi＆Miki＆Chihiro'
-{0x0A50}	LOAD_STRING	'@v00090901@s0005 Whaaaaaaaaat?! @k'
+{0x0A4E}	LOAD_STRING	'Tatsumi & Miki & Chihiro'
+{0x0A50}	LOAD_STRING	'@v00090901@s0005"Whaaaaaaaaat?!@k'
 
 {0x0AB8}	LOAD_STRING	'Miki's Father'
 {0x0ABA}	LOAD_STRING	'@v00900026 Ahem...'
@@ -399,7 +399,7 @@
 {0x142D}	LOAD_STRING	'My childhood friend, puffing her chest out.'
 
 {0x1437}	LOAD_STRING	'Miki'
-{0x1439}	LOAD_STRING	'@v00010109 Basically, everyone is welcome. My motto is, don't reject potential friends, and follow those who leave to the ends of hell, @t0740@hMIKI_U202BS right?'
+{0x1439}	LOAD_STRING	'@v00010109 Basically, everyone is welcome. My motto is, don't reject potential friends, and follow those who leave to the ends of hell,@t0740@hMIKI_U202BS right?'
 
 {0x1493}	LOAD_STRING	'Chihiro'
 {0x1495}	LOAD_STRING	'@v00040088 ... Who are you chasing to the ends of hell, exactly?'

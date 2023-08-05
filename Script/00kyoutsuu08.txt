@@ -121,7 +121,7 @@
 {0x05B7}	LOAD_STRING	'@v00040249"No way."'
 
 {0x05C1}	LOAD_STRING	'Miki'
-{0x05C3}	LOAD_STRING	'@v00010244"Then why the glares? I wouldn't want someone who I don't know  leering at me.'
+{0x05C3}	LOAD_STRING	'@v00010244"Then why the glares? I wouldn't want someone who I don't know leering at me.'
 
 {0x05CD}	LOAD_STRING	'Chihiro'
 {0x05CF}	LOAD_STRING	'@v00040250"Tatsumi, do you have any ideas?"'
@@ -135,7 +135,7 @@
 {0x064B}	LOAD_STRING	'Miki says while scratching her head.'
 
 {0x0659}	LOAD_STRING	'Tatsumi'
-{0x065B}	LOAD_STRING	'Miki really like this kind of thing...'
+{0x065B}	LOAD_STRING	'Miki really likes this kind of thing...'
 
 {0x0665}	LOAD_STRING	'Chihiro'
 {0x0667}	LOAD_STRING	'@v00040251"She was gathering information on Nakategawa as soon as she got here.'
@@ -173,7 +173,7 @@
 {0x0809}	LOAD_STRING	'Basket02#'
 
 {0x087B}	LOAD_STRING	'Chihiro'
-{0x087D}	LOAD_STRING	'@v00040253"So, Yui, what are your findings?CHIHIRO_0102MJ Hup!"@k'
+{0x087D}	LOAD_STRING	'@v00040253"So, Yui, what are your findings?@hCHIHIRO_0102MJ Hup!"@k'
 
 {0x08C5}	LOAD_STRING	'Chihiro steps forward to steal the ball from Miki, but is easily dodged.'
 
@@ -274,7 +274,7 @@
 {0x0D23}	LOAD_STRING	'Do you know him, Shiino? That... Nezu-senpai?'
 
 {0x0D2D}	LOAD_STRING	'Kotone'
-{0x0D2F}	LOAD_STRING	'@v00030185"Yes... I've talked to him at lunch, and he want out with my group a few times..."'
+{0x0D2F}	LOAD_STRING	'@v00030185"Yes... I've talked to him at lunch, and he went out with my group a few times..."'
 
 {0x0D39}	LOAD_STRING	'Kotone'
 {0x0D3B}	LOAD_STRING	'@v00030186"He looks a little scary, but he compliments my hair and my clothes.@t0720@hKOTONE_U101NK I thought he was a kind senior..."'

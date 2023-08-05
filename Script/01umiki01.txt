@@ -229,10 +229,10 @@
 {0x0955}	LOAD_STRING	'Chihiro'
 {0x0957}	LOAD_STRING	'@v00040476 Oh, well...'
 
-{0x0967}	LOAD_STRING	'A man should not interfere in a quarrel between women. If possible, he should leave the scene'
+{0x0967}	LOAD_STRING	'A man should not interfere in a quarrel between women. If possible, he should leave the scene.'
 
 {0x098D}	LOAD_STRING	'Yui'
-{0x098F}	LOAD_STRING	'@v00020490But isn't that also a good thing? In the first place, if you don't have siblings, you can't even fight.'
+{0x098F}	LOAD_STRING	'@v00020490But Isn't that also a good thing? In the first place, if you don't have siblings, you can't even fight.'
 
 {0x099D}	LOAD_STRING	'Tatsumi'
 {0x099F}	LOAD_STRING	'You're as positive as ever...'

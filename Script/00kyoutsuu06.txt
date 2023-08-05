@@ -211,7 +211,7 @@
 {0x0B7F}	LOAD_STRING	'Tatsumi'
 {0x0B81}	LOAD_STRING	'You two seem to get along well together.'
 
-{0x0C13}	LOAD_STRING	'Kotone＆Chihiro'
+{0x0C13}	LOAD_STRING	'Kotone & Chihiro'
 {0x0C15}	LOAD_STRING	'@v00090903@s0004"Huh?"@k'
 
 {0x0CDF}	LOAD_STRING	'They both vocalized at the same time and looked away awkwardly.'
@@ -508,7 +508,7 @@
 {0x19D2}	LOAD_STRING	'@v00010231"No, no, what are you saying? Boys are weak against Yui-chan types, right?"'
 
 {0x19F8}	LOAD_STRING	'Kotone'
-{0x19FA}	LOAD_STRING	'@v00030103「That's right, Nakategawa-senpai is so stylish, she rocks the "snow white" look!@t0750@hKOTONE_U102DY It looks like dyeing is worth it..."'
+{0x19FA}	LOAD_STRING	'@v00030103"That's right, Nakategawa-senpai is so stylish, she rocks the "snow white" look!@t0750@hKOTONE_U102DY It looks like dyeing is worth it..."'
 
 {0x1A04}	LOAD_STRING	'Miki'
 {0x1A06}	LOAD_STRING	'@v00010232"Tak-kun and the others were so in love with Yui-chan at first."'
@@ -517,7 +517,7 @@
 {0x1A12}	LOAD_STRING	'@v00030104"Huh? Is that true?"'
 
 {0x1A1C}	LOAD_STRING	'Miki'
-{0x1A1E}	LOAD_STRING	'@v00010233Will you listen? Will you listen to May's sad love story?"'
+{0x1A1E}	LOAD_STRING	'@v00010233"Will you listen? Will you listen to May's sad love story?"'
 
 {0x1A2C}	LOAD_STRING	'Tatsumi'
 {0x1A2E}	LOAD_STRING	'I feel like I'm hearing some inaccurate information right now.'

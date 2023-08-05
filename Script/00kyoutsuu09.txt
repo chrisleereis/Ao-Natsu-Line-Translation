@@ -692,9 +692,9 @@
 {0x203E}	LOAD_STRING	'Tatsumi'
 {0x2040}	LOAD_STRING	'It's all right... I'm almost there.'
 
-{0x2050}	LOAD_STRING	'Chihiroの動きも見えてきている、ゴールとの距離感も掴めている。'
+{0x2050}	LOAD_STRING	'I can see Chihiro's movement, I'm getting a sense of distance from the goal.'
 
-{0x2060}	LOAD_STRING	'I can see Chihiro's movement, I'm getting a sense of distance from the goal.'
+{0x2060}	LOAD_STRING	'All that's left is to... Fine-tune it.'
 
 {0x206A}	LOAD_STRING	'Chihiro'
 {0x206C}	LOAD_STRING	'@v00040299"But, Tatsumi... No matter how hard you try,@t0250@hCHIHIRO_A102KM3 a three-point in this rain is...!"'
@@ -1146,10 +1146,10 @@
 
 {0x4414}	LOAD_STRING	'Pon01'
 
-{0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart and I don't know what to do"'
+{0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart and idk what to do"'
 
 {0x4479}	LOAD_STRING	'Mayu(Message)'
-{0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart and I don't know what to do"'
+{0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart and idk what to do"'
 
 {0x449E}	LOAD_STRING	'Menu_Click02'
 
