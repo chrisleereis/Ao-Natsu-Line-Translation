@@ -379,14 +379,14 @@
 
 {0x0F75}	LOAD_STRING	'The sparkle behind Shiino's eyes seemed to waver.@k'
 
-{0x0FED}	LOAD_STRING	'Chihiroのように、あからさまに咎めようとは思わないけど、これ以上話を続ける気力は失せてきていた。'
+{0x0FED}	LOAD_STRING	'Like Chihiro, I don't want to blatantly condemn her, but I was beginning to lose the will to continue the conversation any longer.'
 
 {0x0FFD}	LOAD_STRING	'As I thought earlier, I'm not the most capable person.'
 
 {0x100D}	LOAD_STRING	'Besides, Shiino's not entirely off the mark.'
 
 {0x101F}	LOAD_STRING	'Miki'
-{0x1021}	LOAD_STRING	'@v00010868 Ahahah, oh Koto-chan. You're still a little girl if you can't see the good int Tak-kun. @t0670@hMIKI_0101EG Hup! @k'
+{0x1021}	LOAD_STRING	'@v00010868 Ahahah, oh Koto-chan. You're still a little girl if you can't see the good int Tak-kun.@t0670@hMIKI_0101EG Hup!@k'
 
 {0x1027}	LOAD_STRING	'Air03'
 

@@ -710,10 +710,10 @@
 
 {0x28CC}	LOAD_STRING	'I was about to go to bed when my phone played a tone.'
 
-{0x28D8}	SPECIAL_TEXT	0x0	'"I had fun at Mico and basketball w/ you today!"'
+{0x28D8}	SPECIAL_TEXT	0x0	'"I had fun at Mico and basketball w/ u today!"'
 
 {0x28FE}	LOAD_STRING	'Yui（Message）'
-{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball w/ you today!"'
+{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball w/ u today!"'
 
 {0x2923}	LOAD_STRING	'Menu_Click02'
 
@@ -721,10 +721,10 @@
 
 {0x29AB}	LOAD_STRING	'One new message from Nakategawa.'
 
-{0x29AF}	SPECIAL_TEXT	0x1	'"So proper. You don't have to overthink it, K?"'
+{0x29AF}	SPECIAL_TEXT	0x1	'"So proper. u don't have to overthink it, K?"'
 
 {0x29D5}	LOAD_STRING	'Tatsumi（Message）'
-{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper. You don't have to overthink it, K?"'
+{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper. u don't have to overthink it, K?"'
 
 {0x29FA}	LOAD_STRING	'Menu_Click02'
 
