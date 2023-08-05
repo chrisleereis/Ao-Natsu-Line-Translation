@@ -33,7 +33,7 @@
 {0x01B9}	LOAD_STRING	'And then he took a breath, as usual, and then...'
 
 {0x01C7}	LOAD_STRING	'Sakuma'
-{0x01C9}	LOAD_STRING	'@v00900106 ... @t0230@h Will you stand up?'
+{0x01C9}	LOAD_STRING	'@v00900106 ...@t0230@h Will you stand up?'
 
 {0x020B}	LOAD_STRING	'Miki'
 {0x020D}	LOAD_STRING	'@v00010527@s0004"I TOLD YOU!!!@k'
@@ -55,10 +55,10 @@
 {0x0350}	LOAD_STRING	'Chihiro gives me a small earful, and he looks stunned, yet happy.'
 
 {0x035E}	LOAD_STRING	'Tatsumi'
-{0x0360}	LOAD_STRING	'It can't be helped... a bet is a bet.'
+{0x0360}	LOAD_STRING	'It can't be helped...a bet is a bet.'
 
 {0x036A}	LOAD_STRING	'Chihiro'
-{0x036C}	LOAD_STRING	'@v00040496 That's right. This year... or rather, after Mika-san came to Tokyo, her majesty's demands have escalated, haven't they?'
+{0x036C}	LOAD_STRING	'@v00040496 That's right. This year...or rather, after Mika-san came to Tokyo, her majesty's demands have escalated, haven't they?'
 
 {0x037A}	LOAD_STRING	'Tatsumi'
 {0x037C}	LOAD_STRING	'Maybe the target of her pampering has shifted to me and Chihiro.'
@@ -75,7 +75,7 @@
 {0x03C8}	LOAD_STRING	'From the side, Miki was spoiled by Mika-san, a typical youngest child attribute.'
 
 {0x0439}	LOAD_STRING	'Miki'
-{0x043B}	LOAD_STRING	'@v00010529 Ugh... that one is different too, @t0460@hMIKI_A102EG2 and I had that one done last month, what should I do...?'
+{0x043B}	LOAD_STRING	'@v00010529 Ugh...that one is different too, @t0460@hMIKI_A102EG2 and I had that one done last month, what should I do...?'
 
 {0x044B}	LOAD_STRING	'Miki, who had been groaning alone, stared casually out the window...'
 
@@ -107,7 +107,7 @@
 {0x051F}	LOAD_STRING	'@v00040499 So, it's sunny. Where are we going with this?'
 
 {0x0529}	LOAD_STRING	'Miki'
-{0x052B}	LOAD_STRING	'@v00010533 Actually... I've had a dream for a while...'
+{0x052B}	LOAD_STRING	'@v00010533 Actually...I've had a dream for a while...'
 
 {0x0539}	LOAD_STRING	'Tatsumi'
 {0x053B}	LOAD_STRING	'Dream?'
@@ -127,7 +127,7 @@
 {0x060D}	LOAD_STRING	'@v00010535 Right?　I just thought of something.'
 
 {0x0617}	LOAD_STRING	'Chihiro'
-{0x0619}	LOAD_STRING	'@v00040502 Miki...... you just said 'many years', right?'
+{0x0619}	LOAD_STRING	'@v00040502 Miki......you just said 'many years', right?'
 
 {0x0627}	LOAD_STRING	'Tatsumi'
 {0x0629}	LOAD_STRING	'Something like that.'
@@ -200,7 +200,7 @@
 {0x0A11}	LOAD_STRING	'Sometimes it's not so bad to be with the three of us like this, just like the old days.'
 
 {0x0A1B}	LOAD_STRING	'Miki'
-{0x0A1D}	LOAD_STRING	'@v00010539 Well, still... I'm happy that one of my dreams came true.'
+{0x0A1D}	LOAD_STRING	'@v00010539 Well, still...I'm happy that one of my dreams came true.'
 
 {0x0A2D}	LOAD_STRING	'Miki peels off the lid of the pudding and is as pleased as can be.'
 
@@ -231,14 +231,14 @@
 {0x0AF7}	LOAD_STRING	'Chihiro'
 {0x0AF9}	LOAD_STRING	'@v00040508 I can see why Mika-san spoils you a bit.'
 
-{0x0B09}	LOAD_STRING	'If you smile so childishly... I mean, so cutely, I can't help but listen to one or two selfish requests.'
+{0x0B09}	LOAD_STRING	'If you smile so childishly...I mean, so cutely, I can't help but listen to one or two selfish requests.'
 
 {0x0B13}	LOAD_STRING	'Chihiro'
-{0x0B15}	LOAD_STRING	'@v00040509 But... Miki has a point, it is indeed a great view.'
+{0x0B15}	LOAD_STRING	'@v00040509 But...Miki has a point, it is indeed a great view.'
 
 {0x0B25}	LOAD_STRING	'The air is clean after the rain, and Mt. Fuji is clear today.'
 
-{0x0B35}	LOAD_STRING	'It may come as a surprise to non-locals... especially those in more distant areas, but there are countless positions from Hotani City where you can see Mt. Fuji.'
+{0x0B35}	LOAD_STRING	'It may come as a surprise to non-locals...especially those in more distant areas, but there are countless positions from Hotani City where you can see Mt. Fuji.'
 
 {0x0B45}	LOAD_STRING	'However, the rooftop of this mountain club room would be pretty high up on the list of best positions.'
 
@@ -261,7 +261,7 @@
 {0x0BEE}	LOAD_STRING	'@v00010544 That's an excuse and you're playing dumb.'
 
 {0x0BFC}	LOAD_STRING	'Tatsumi'
-{0x0BFE}	LOAD_STRING	'That's a terrible way to say... that you're spoiled.'
+{0x0BFE}	LOAD_STRING	'That's a terrible way to say...that you're spoiled.'
 
 {0x0C08}	LOAD_STRING	'Miki'
 {0x0C0A}	LOAD_STRING	'@v00010545 I'm the big winner, so I get to be the highest!'
@@ -288,7 +288,7 @@
 {0x0C82}	LOAD_STRING	'@v00010548 If you get my drift, maybe we can discuss it?'
 
 {0x0C90}	LOAD_STRING	'Tatsumi'
-{0x0C92}	LOAD_STRING	'What? You seriously want me to... carry you on my shoulders?'
+{0x0C92}	LOAD_STRING	'What? You seriously want me to...carry you on my shoulders?'
 
 {0x0C9C}	LOAD_STRING	'Miki'
 {0x0C9E}	LOAD_STRING	'@v00010549 Yep. Or do you mean to defy the grand winner's demands?'
@@ -301,7 +301,7 @@
 {0x0CC0}	LOAD_STRING	'Nuno02'
 
 {0x0D06}	LOAD_STRING	'Tatsumi'
-{0x0D08}	LOAD_STRING	'... No problem.'
+{0x0D08}	LOAD_STRING	'...No problem.'
 
 {0x0D18}	LOAD_STRING	'Realizing that no matter how much I argue, it's pointless. I bend down for Miki.'
 
@@ -363,9 +363,9 @@
 
 {0x0F79}	LOAD_STRING	'Not to mention the feeling of her thighs squeezing my ears. @k'
 
-{0x0FBD}	LOAD_STRING	'This... from the back of my head to the back of my neck...'
+{0x0FBD}	LOAD_STRING	'This...from the back of my head to the back of my neck...'
 
-{0x0FCD}	LOAD_STRING	'Phew... I'll stop thinking about it now.'
+{0x0FCD}	LOAD_STRING	'Phew...I'll stop thinking about it now.'
 
 {0x0FD7}	LOAD_STRING	'Miki'
 {0x0FD9}	LOAD_STRING	'@v00010557 By the way, Tak-kun. We used to go up the back of the mountain and see Mt. Fuji and stuff, right?@k'
@@ -389,7 +389,7 @@
 {0x1071}	LOAD_STRING	'@v00010559 But you know, while I was crying, Tak-kun took me home. @k'
 
 {0x10AF}	LOAD_STRING	'Tatsumi'
-{0x10B1}	LOAD_STRING	'... Is that true?'
+{0x10B1}	LOAD_STRING	'...Is that true?'
 
 {0x10BB}	LOAD_STRING	'Miki'
 {0x10BD}	LOAD_STRING	'@v00010560 I was so happy that time. Thanks, Tak-kun.'
@@ -423,7 +423,7 @@
 
 {0x11B5}	LOAD_STRING	'Miki forces pudding into my mouth. @k'
 
-{0x11F9}	LOAD_STRING	'Indirect kissing... It happened so quickly that I can't even process any emotions.'
+{0x11F9}	LOAD_STRING	'Indirect kissing...It happened so quickly that I can't even process any emotions.'
 
 {0x1203}	LOAD_STRING	'Miki'
 {0x1205}	LOAD_STRING	'@v00010564 How is it?　Tasty, isn't it? @k'
@@ -437,12 +437,12 @@
 {0x1283}	LOAD_STRING	'Miki'
 {0x1285}	LOAD_STRING	'@v00010565 Chi-kun, even if I told you to eat one bite, with this pudding you'd eat half of it.'
 
-{0x1295}	LOAD_STRING	'The sweetness in my mouth... Might not just be from the pudding.'
+{0x1295}	LOAD_STRING	'The sweetness in my mouth...Might not just be from the pudding.'
 
 {0x12A5}	LOAD_STRING	'My mind is just racing right now.'
 
 {0x12E9}	LOAD_STRING	'Miki'
-{0x12EB}	LOAD_STRING	'@v00010566 ... Hey, thanks, you two.'
+{0x12EB}	LOAD_STRING	'@v00010566 ...Hey, thanks, you two.'
 
 {0x12FB}	LOAD_STRING	'Suddenly Miki muttered those words.'
 
@@ -473,7 +473,7 @@
 {0x1447}	LOAD_STRING	'@v00030379 That's not the way to go about it.'
 
 {0x149F}	LOAD_STRING	'Yui'
-{0x14A1}	LOAD_STRING	'@v00020510 I wonder if... Tatsumi can give me a shoulder ride too...'
+{0x14A1}	LOAD_STRING	'@v00020510 I wonder if...Tatsumi can give me a shoulder ride too...'
 
 {0x14AF}	LOAD_STRING	'Tatsumi'
 {0x14B1}	LOAD_STRING	'Huh?!'
@@ -482,7 +482,7 @@
 {0x14BD}	LOAD_STRING	'@v00020511 I-it's okay! I promise I'm not as heavy as I look!'
 
 {0x14CB}	LOAD_STRING	'Tatsumi'
-{0x14CD}	LOAD_STRING	'No, I meant... Maybe some other time?'
+{0x14CD}	LOAD_STRING	'No, I meant...Maybe some other time?'
 
 {0x14D7}	LOAD_STRING	'Yui'
 {0x14D9}	LOAD_STRING	'@v00020512 Yes! Let's play together next time, okay?'
@@ -497,7 +497,7 @@
 {0x156B}	LOAD_STRING	'@v00040520 What is it? Are you frustrated because you're not being included?'
 
 {0x1575}	LOAD_STRING	'Kotone'
-{0x1577}	LOAD_STRING	'@v00030381 No, I just don't get it. I definitely don't wanna ride on anyone's shoulders... @t0530@hKOTONE_A102KM Oh, it's starting to rain... @k'
+{0x1577}	LOAD_STRING	'@v00030381 No, I just don't get it. I definitely don't wanna ride on anyone's shoulders...@t0530@hKOTONE_A102KM Oh, it's starting to rain...@k'
 
 {0x157F}	LOAD_STRING	'Rain09#'
 
@@ -562,7 +562,7 @@
 {0x18E3}	LOAD_STRING	'@v00040523 Yeah, it's not that far to Mico.'
 
 {0x18ED}	LOAD_STRING	'Yui'
-{0x18EF}	LOAD_STRING	'@v00020514 Sigh... It comes so naturally to you...'
+{0x18EF}	LOAD_STRING	'@v00020514 Sigh...It comes so naturally to you...'
 
 {0x18FF}	LOAD_STRING	'Nakategawa lets out a heated sigh when he sees us three entering the folding umbrella.'
 

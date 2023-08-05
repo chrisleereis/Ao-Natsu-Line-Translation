@@ -11,7 +11,7 @@
 {0x0132}	LOAD_STRING	'The other day, Nakategawa from Class C joined the group.'
 
 {0x015C}	LOAD_STRING	'Yui'
-{0x015E}	LOAD_STRING	'@v00020522"A fist-sized onigiri, karaage, an omelet... and fried sausage?"'
+{0x015E}	LOAD_STRING	'@v00020522"A fist-sized onigiri, karaage, an omelet...and fried sausage?"'
 
 {0x0168}	LOAD_STRING	'Chihiro'
 {0x016A}	LOAD_STRING	'@v00040605"Hmm? Are you stingy or something?"'
@@ -85,7 +85,7 @@
 {0x03D2}	LOAD_STRING	'@v00040608"Nakategawa doesn't seem to make her own food."'
 
 {0x03DC}	LOAD_STRING	'Yui'
-{0x03DE}	LOAD_STRING	'@v00020528"Yes... It's a little embarrassing."'
+{0x03DE}	LOAD_STRING	'@v00020528"Yes...It's a little embarrassing."'
 
 {0x03EC}	LOAD_STRING	'Tatsumi'
 {0x03EE}	LOAD_STRING	'Don't worry, we all have our situations.'
@@ -116,13 +116,13 @@
 {0x0492}	LOAD_STRING	'It was a fancy wooden bento, which was also compact and feminine.'
 
 {0x04E4}	LOAD_STRING	'Miki'
-{0x04E6}	LOAD_STRING	'@v00010727"... So it was true after all."'
+{0x04E6}	LOAD_STRING	'@v00010727"...So it was true after all."'
 
 {0x04F0}	LOAD_STRING	'Yui'
 {0x04F2}	LOAD_STRING	'@v00020533"Yes?"'
 
 {0x0528}	LOAD_STRING	'Chihiro'
-{0x052A}	LOAD_STRING	'@v00040610"Nah... We just heard a little rumor."'
+{0x052A}	LOAD_STRING	'@v00040610"Nah...We just heard a little rumor."'
 
 {0x054A}	LOAD_STRING	'Miki confirms all the intel she gathered about Nakategawa before.'
 
@@ -135,7 +135,7 @@
 {0x05B2}	LOAD_STRING	'@v00020535"My family and I still haven't fully learned how to adjust our school lunches..."'
 
 {0x05BC}	LOAD_STRING	'Yui'
-{0x05BE}	LOAD_STRING	'@v00020536"It's just enough for one person... This is a good amount."'
+{0x05BE}	LOAD_STRING	'@v00020536"It's just enough for one person...This is a good amount."'
 
 {0x05CE}	LOAD_STRING	'So the rumors about her having an elegant stacked lunch box were true.'
 
@@ -180,7 +180,7 @@
 {0x077E}	LOAD_STRING	'So, we started sharing our lunches...'
 
 {0x07D4}	LOAD_STRING	'Tatsumi'
-{0x07D6}	LOAD_STRING	'After all... this is ryotei-style food.'
+{0x07D6}	LOAD_STRING	'After all...this is ryotei-style food.'
 
 {0x07FC}	LOAD_STRING	'Chihiro'
 {0x07FE}	LOAD_STRING	'@v00040614"Oh, I've never been to a ryotei, but this is definitely out of a ryotei."'
@@ -230,7 +230,7 @@
 
 {0x0A56}	LOAD_STRING	'Just as soon as Nakategawa stands in the kitchen,'
 
-{0x0A66}	LOAD_STRING	'"Breaking news! Fire breaks out at the old MICO Cafe, and it burns down!" ... At least I hope it doesn't end up like that.'
+{0x0A66}	LOAD_STRING	'"Breaking news! Fire breaks out at the old MICO Cafe, and it burns down!" ...At least I hope it doesn't end up like that.'
 
 {0x0A76}	LOAD_STRING	'I can't help but think of things I can't say to Nakategawa.'
 
@@ -274,7 +274,7 @@
 {0x0C70}	LOAD_STRING	'@v00010737"...@t0150@h Waste of treasure?"'
 
 {0x0C7A}	LOAD_STRING	'Chihiro'
-{0x0C7C}	LOAD_STRING	'@v00040620"That's it!@t0080@hCHIHIRO_U202KM3 ... Actually, not really, huh...?"'
+{0x0C7C}	LOAD_STRING	'@v00040620"That's it!@t0080@hCHIHIRO_U202KM3 ...Actually, not really, huh...?"'
 
 {0x0C8C}	LOAD_STRING	'I get what Chihiro means.'
 
@@ -284,7 +284,7 @@
 {0x0CE8}	LOAD_STRING	'Nakategawa laughs a little bit.'
 
 {0x0CF2}	LOAD_STRING	'Miki'
-{0x0CF4}	LOAD_STRING	'@v00010738"Hey, Yui-chan... Are you guys are talking in prose or something? I've never heard of some of these expressions..."'
+{0x0CF4}	LOAD_STRING	'@v00010738"Hey, Yui-chan...Are you guys are talking in prose or something? I've never heard of some of these expressions..."'
 
 {0x0CFE}	LOAD_STRING	'Yui'
 {0x0D00}	LOAD_STRING	'@v00020547"Ah, I'm sorry!"'
@@ -300,7 +300,7 @@
 {0x0D36}	LOAD_STRING	'Yui'
 {0x0D38}	LOAD_STRING	'@v00020548"Oh, actually...@t0390@hYUI_U201EG I've been really into reading proverbs and poems lately..."'
 
-{0x0D48}	LOAD_STRING	'That's quite a... Unique hobby.'
+{0x0D48}	LOAD_STRING	'That's quite a...Unique hobby.'
 
 {0x0D52}	LOAD_STRING	'Miki'
 {0x0D54}	LOAD_STRING	'@v00010739"Wow, from a proverbial dictionary?"'
@@ -326,13 +326,13 @@
 {0x0DAC}	LOAD_STRING	'To Miki's question, Nakategawa answered in pleasantly fluent English.'
 
 {0x0DB6}	LOAD_STRING	'Chihiro'
-{0x0DB8}	LOAD_STRING	'@v00040624"Oh... how about in Japanese...?"'
+{0x0DB8}	LOAD_STRING	'@v00040624"Oh...how about in Japanese...?"'
 
 {0x0DC2}	LOAD_STRING	'Yui'
 {0x0DC4}	LOAD_STRING	'@v00020552"@rOmoi tatta ga kichijitsu@思い立ったが吉@"'
 
 {0x0DD2}	LOAD_STRING	'Tatsumi'
-{0x0DD4}	LOAD_STRING	'Pft... It's so like you, Nakategawa.'
+{0x0DD4}	LOAD_STRING	'Pft...It's so like you, Nakategawa.'
 
 {0x0DE4}	LOAD_STRING	'Perfectly fitting for someone who goes out of Nanaha Academy with a bang.'
 
@@ -354,7 +354,7 @@
 {0x0E78}	LOAD_STRING	'@v00010744"Ehe..."'
 
 {0x0EC2}	LOAD_STRING	'Yui'
-{0x0EC4}	LOAD_STRING	'@v00020553"Ah, that's nice. I also... enjoy a bit of gaming..."'
+{0x0EC4}	LOAD_STRING	'@v00020553"Ah, that's nice. I also...enjoy a bit of gaming..."'
 
 {0x0ECE}	LOAD_STRING	'Miki'
 {0x0ED0}	LOAD_STRING	'@v00010745"Oh, Yui-chan plays games too! Let's play at Chi-kun's next time."'
@@ -414,7 +414,7 @@
 {0x106E}	LOAD_STRING	'@v00020560"Actually, heavy metal first began in the 70s..."'
 
 {0x1078}	LOAD_STRING	'Miki'
-{0x107A}	LOAD_STRING	'@v00010748"Oh, you're into it... historically?"'
+{0x107A}	LOAD_STRING	'@v00010748"Oh, you're into it...historically?"'
 
 {0x1084}	LOAD_STRING	'Chihiro'
 {0x1086}	LOAD_STRING	'@v00040630"For real...?"'
@@ -422,17 +422,17 @@
 {0x1096}	LOAD_STRING	'Looks like I was off.'
 
 {0x110E}	LOAD_STRING	'Yui'
-{0x1110}	LOAD_STRING	'@v00020561"... And so, that's how heavy metal came to be."'
+{0x1110}	LOAD_STRING	'@v00020561"...And so, that's how heavy metal came to be."'
 
 {0x1120}	LOAD_STRING	'Nakategawa wraps it up...'
 
 {0x112A}	LOAD_STRING	'Yui'
-{0x112C}	LOAD_STRING	'@v00020562"Oh, um... I'm sorry, that was rather boring, wasn't it?"'
+{0x112C}	LOAD_STRING	'@v00020562"Oh, um...I'm sorry, that was rather boring, wasn't it?"'
 
 {0x113C}	LOAD_STRING	'She immediately looks our way anxiously.'
 
 {0x1146}	LOAD_STRING	'Miki'
-{0x1148}	LOAD_STRING	'@v00010749"Huh?@t0040@hMIKI_A202EG2 ... Nah! Not boring, I thought it was interesting!"'
+{0x1148}	LOAD_STRING	'@v00010749"Huh?@t0040@hMIKI_A202EG2 ...Nah! Not boring, I thought it was interesting!"'
 
 {0x1152}	LOAD_STRING	'Chihiro'
 {0x1154}	LOAD_STRING	'@v00040631"I got it without knowing anything prior to today."'
@@ -510,7 +510,7 @@
 {0x147C}	LOAD_STRING	'How did your midterms go last week?'
 
 {0x1486}	LOAD_STRING	'Yui'
-{0x1488}	LOAD_STRING	'@v00020567"O-oh, yeah...@t0260@hYUI_U202BS I guess... not bad?"'
+{0x1488}	LOAD_STRING	'@v00020567"O-oh, yeah...@t0260@hYUI_U202BS I guess...not bad?"'
 
 {0x1498}	LOAD_STRING	'After saying that, she smiles softly, like usual.'
 
@@ -538,7 +538,7 @@
 {0x1604}	LOAD_STRING	'Air03'
 
 {0x161A}	LOAD_STRING	'Tatsumi'
-{0x161C}	LOAD_STRING	'All right... So, 487 points in 5 subjects combined.'
+{0x161C}	LOAD_STRING	'All right...So, 487 points in 5 subjects combined.'
 
 {0x1642}	LOAD_STRING	'Chihiro'
 {0x1644}	LOAD_STRING	'@v00040638"Oh man, Nakategawa's English, Japanese and Math classes make up a better grade overall than all my classes combined..."'
@@ -597,7 +597,7 @@
 {0x188F}	LOAD_STRING	'And then, I give the ball to the girl next to me, who is also a very nice girl.'
 
 {0x1899}	LOAD_STRING	'Chihiro'
-{0x189B}	LOAD_STRING	'@v00040641"Haha. By the way, I'm sure the brilliant students of... Kurigaoka are shocked to be suddenly knocked out by a new student who just transferred."'
+{0x189B}	LOAD_STRING	'@v00040641"Haha. By the way, I'm sure the brilliant students of...Kurigaoka are shocked to be suddenly knocked out by a new student who just transferred."'
 
 {0x18A5}	LOAD_STRING	'Miki'
 {0x18A7}	LOAD_STRING	'@v00010757"No wonder they resent you.@t0290@hMIKI_A202OD Yui-chan, be careful heading home today, okay?"'

@@ -122,7 +122,7 @@
 {0x04FC}	LOAD_STRING	'Tatsumi'
 {0x04FE}	LOAD_STRING	'Yeah, I have to agree.'
 
-{0x050E}	LOAD_STRING	'I know she's putting me on the spot, but it's the truth... Miki's food is awesome.'
+{0x050E}	LOAD_STRING	'I know she's putting me on the spot, but it's the truth...Miki's food is awesome.'
 
 {0x051E}	LOAD_STRING	'Miki often covers her dad's shifts, and her food is very well-received.'
 
@@ -140,7 +140,7 @@
 {0x0562}	LOAD_STRING	'Miki started stammering.'
 
 {0x05AC}	LOAD_STRING	'Chihiro'
-{0x05AE}	LOAD_STRING	'@v00040469 That would be... Impossible.'
+{0x05AE}	LOAD_STRING	'@v00040469 That would be...Impossible.'
 
 {0x05BC}	LOAD_STRING	'Tatsumi'
 {0x05BE}	LOAD_STRING	'Yeah.'
@@ -207,10 +207,10 @@
 {0x08B7}	LOAD_STRING	'@v00040474 Oh, Miki's sister. She's a college student in Tokyo now.'
 
 {0x08C1}	LOAD_STRING	'Yui'
-{0x08C3}	LOAD_STRING	'@v00020489 Oh, I see, that's nice... I'm an only child. '
+{0x08C3}	LOAD_STRING	'@v00020489 Oh, I see, that's nice...I'm an only child. '
 
 {0x08E9}	LOAD_STRING	'Chihiro'
-{0x08EB}	LOAD_STRING	'@v00040475 You're misunderstanding me... Tatsumi, what about you?'
+{0x08EB}	LOAD_STRING	'@v00040475 You're misunderstanding me...Tatsumi, what about you?'
 
 {0x08FB}	LOAD_STRING	'He asks me, an only child too.'
 
@@ -221,7 +221,7 @@
 
 {0x092B}	LOAD_STRING	'Or rather, when I was lonely, Miki was there for me.'
 
-{0x093B}	LOAD_STRING	'I guess I could say that Miki was like a little sister to me... Actually, just a sister?'
+{0x093B}	LOAD_STRING	'I guess I could say that Miki was like a little sister to me...Actually, just a sister?'
 
 {0x0949}	LOAD_STRING	'Tatsumi'
 {0x094B}	LOAD_STRING	'Has Chihiro ever been involved in a fight between Mika and Miki?'
@@ -255,7 +255,7 @@
 {0x0A7D}	LOAD_STRING	'@v00040477 Huh? Where's he going?'
 
 {0x0A87}	LOAD_STRING	'Miki'
-{0x0A89}	LOAD_STRING	'@v00010496 Wellll, you know... He ran out of some ingredients, so he went to go shopping for more.'
+{0x0A89}	LOAD_STRING	'@v00010496 Wellll, you know...He ran out of some ingredients, so he went to go shopping for more.'
 
 {0x0A97}	LOAD_STRING	'Tatsumi'
 {0x0A99}	LOAD_STRING	'Hmm, that's odd.'
@@ -271,7 +271,7 @@
 {0x0AD1}	LOAD_STRING	'@v00020491 Did you use up what he needed?'
 
 {0x0ADB}	LOAD_STRING	'Miki'
-{0x0ADD}	LOAD_STRING	'@v00010498 ... Okay, yes, I did. It's a cook's dilemma.'
+{0x0ADD}	LOAD_STRING	'@v00010498 ...Okay, yes, I did. It's a cook's dilemma.'
 
 {0x0AED}	LOAD_STRING	'Miki nods as if she convinced herself.@k'
 
@@ -284,7 +284,7 @@
 {0x0B43}	LOAD_STRING	'Miki, puffing out her cheeks like a child, mouthing childish lines.'
 
 {0x0B69}	LOAD_STRING	'Yui'
-{0x0B6B}	LOAD_STRING	'@v00020492 Oh... @t0100@hYUI_U201MS Forget I said anything, okay?'
+{0x0B6B}	LOAD_STRING	'@v00020492 Oh...@t0100@hYUI_U201MS Forget I said anything, okay?'
 
 {0x0B7B}	LOAD_STRING	'Nakategawa takes the opposite stance. She has a good personality.'
 
@@ -352,7 +352,7 @@
 {0x0E2F}	LOAD_STRING	'Pon01'
 
 {0x0E58}	LOAD_STRING	'Tatsumi'
-{0x0E5A}	LOAD_STRING	'... All right. Don't expect too much from me.'
+{0x0E5A}	LOAD_STRING	'...All right. Don't expect too much from me.'
 
 {0x0E64}	LOAD_STRING	'Miki'
 {0x0E66}	LOAD_STRING	'@v00010506 What are you saying? @t0190@hMIKI_U102EG2 I already told you, I'm counting on you.'
@@ -522,10 +522,10 @@
 {0x1542}	LOAD_STRING	'@v00020499 Oh, um...'
 
 {0x154C}	LOAD_STRING	'Chihiro'
-{0x154E}	LOAD_STRING	'@v00040482 ... Nevermind, I got what I needed from your reaction.'
+{0x154E}	LOAD_STRING	'@v00040482 ...Nevermind, I got what I needed from your reaction.'
 
 {0x1558}	LOAD_STRING	'Yui'
-{0x155A}	LOAD_STRING	'@v00020500 Hahaha... can you tell?'
+{0x155A}	LOAD_STRING	'@v00020500 Hahaha...can you tell?'
 
 {0x1564}	LOAD_STRING	'Chihiro'
 {0x1566}	LOAD_STRING	'@v00040483 Maybe your father didn't let you carry a knife?'
@@ -549,10 +549,10 @@
 {0x15AE}	LOAD_STRING	'@v00040486 There's no need to be ashamed. For what it's worth, they allowed you to change schools, so it's not like they're totally oblivious parents.'
 
 {0x15B8}	LOAD_STRING	'Yui'
-{0x15BA}	LOAD_STRING	'@v00020504 Yes, but... @t0190@hYUI_U202KM They just need to trust me more.'
+{0x15BA}	LOAD_STRING	'@v00020504 Yes, but...@t0190@hYUI_U202KM They just need to trust me more.'
 
 {0x15F0}	LOAD_STRING	'Chihiro'
-{0x15F2}	LOAD_STRING	'@v00040487 Hahaha... You're a lot better off with parents who care about you, you know?'
+{0x15F2}	LOAD_STRING	'@v00040487 Hahaha...You're a lot better off with parents who care about you, you know?'
 
 {0x15FC}	LOAD_STRING	'Chihiro'
 {0x15FE}	LOAD_STRING	'@v00040488 If you want to learn how to cook, how about having Miki and Tatsumi mentor you?'
@@ -594,7 +594,7 @@
 {0x1744}	LOAD_STRING	'Cowbell02'
 
 {0x17B5}	LOAD_STRING	'Miki'
-{0x17B7}	LOAD_STRING	'@v00010523 Hahaha... @t0160@hMIKI_U101EG2 Oh, welcome back!'
+{0x17B7}	LOAD_STRING	'@v00010523 Hahaha...@t0160@hMIKI_U101EG2 Oh, welcome back!'
 
 {0x17C7}	LOAD_STRING	'Just then, Miki's father came back.'
 
