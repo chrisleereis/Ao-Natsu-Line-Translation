@@ -424,7 +424,7 @@ LOAD_STRING {0x0338} LOAD_STRING 'I remember that during the summer vacation, we
 {0x1892} LOAD_STRING 'Suekichi...'
 
 {0x189C} LOAD_STRING 'Chihiro'
-{0x189E} LOAD_STRING '@v00040141 "Wow, that's a good pull!"'
+{0x189E} LOAD_STRING '@v00040141 "Wow, I guess that's not the worst pull..."'
 
 {0x18A8} LOAD_STRING 'Miki'
 {0x18AA} LOAD_STRING '@v00010171 "This is Tak-kun's determination showing itself!@t0410 ...@hMIKI_A302OD Hey, Yui, where did you go?"'
