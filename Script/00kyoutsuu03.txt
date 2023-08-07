@@ -112,7 +112,7 @@
 {0x0637}	LOAD_STRING	'Gaya11#'
 
 {0x06A2}	LOAD_STRING	'Tatsumi'
-{0x06A4}	LOAD_STRING	'... Are you serious?'
+{0x06A4}	LOAD_STRING	'...Are you serious?'
 
 {0x06B4}	LOAD_STRING	'After meeting up at the station, the four of us were on our way to school when I accidentally said that...'
 
@@ -226,7 +226,7 @@
 
 {0x0CD0}	LOAD_STRING	'I find myself looking into her eyes.'
 
-{0x0CE0}	LOAD_STRING	'... They're really shining.'
+{0x0CE0}	LOAD_STRING	'...They're really shining.'
 
 {0x0CEA}	LOAD_STRING	'Yui'
 {0x0CEC}	LOAD_STRING	'@v00020156 Tatsumi, your eyes are so beautiful. Your eyelashes are so long... @t0570@hYUI_U201EG3 And feminine!'
@@ -329,7 +329,7 @@
 {0x1266}	LOAD_STRING	'@v00010129 Now we just need to practice more!'
 
 {0x1270}	LOAD_STRING	'Yui'
-{0x1272}	LOAD_STRING	'@v00020166 Yes, it's the "Guts-piercing drop-rock!"'
+{0x1272}	LOAD_STRING	'@v00020166 Yes, it's the 'Guts-piercing drop-rock!''
 
 {0x1282}	LOAD_STRING	'As I watch these two share their joy, I turn to Chihiro and ask...'
 
@@ -462,7 +462,7 @@
 {0x1ADE}	LOAD_STRING	'@v00030028 ...'
 
 {0x1AEC}	LOAD_STRING	'Mayu'
-{0x1AEE}	LOAD_STRING	'@v00900031 ... Kotone?'
+{0x1AEE}	LOAD_STRING	'@v00900031 ...Kotone?'
 
 {0x1AF8}	LOAD_STRING	'???'
 {0x1AFA}	LOAD_STRING	'@v00030029 Oh! Sorry, I was just thinking.'
@@ -488,7 +488,7 @@
 {0x1B6C}	LOAD_STRING	'@v00900036 Nezu-senpai is looking for you, let's go.'
 
 {0x1B7A}	LOAD_STRING	'Yuzuki'
-{0x1B7C}	LOAD_STRING	'@v00900037 Okie. I'll be there.'
+{0x1B7C}	LOAD_STRING	'@v00900037 Okie. Kotone, let's go'
 
 {0x1B86}	LOAD_STRING	'???'
 {0x1B88}	LOAD_STRING	'@v00030031 Mhm.'
@@ -603,7 +603,7 @@
 {0x2342}	LOAD_STRING	' So, do you have a favorite restaurant or something?'
 
 {0x234C}	LOAD_STRING	'Yui'
-{0x234E}	LOAD_STRING	'@v00020181 Yes, it's called "Salome", have you heard of it?'
+{0x234E}	LOAD_STRING	'@v00020181 Yes, it's called 'Salome,' have you heard of it?'
 
 {0x2358}	LOAD_STRING	'Chihiro'
 {0x235A}	LOAD_STRING	'@v00040113 Oh, I have.'
@@ -636,7 +636,7 @@
 {0x250B}	LOAD_STRING	'Nah, that's absurd...'
 
 {0x2515}	LOAD_STRING	'Chihiro'
-{0x2517}	LOAD_STRING	'@v00040114 Look, your dad is gonna break out in a cold sweat.
+{0x2517}	LOAD_STRING	'@v00040114 Look, your dad is gonna break out in a cold sweat.'
 
 {0x2527}	LOAD_STRING	'It's true, this place will make you some dishes that are off-menu if you ask for them.'
 
@@ -710,10 +710,10 @@
 
 {0x28CC}	LOAD_STRING	'I was about to go to bed when my phone played a tone.'
 
-{0x28D8}	SPECIAL_TEXT	0x0	'"I had fun at Mico and basketball w/ u today!"'
+{0x28D8}	SPECIAL_TEXT	0x0	'"I had fun at Mico and basketball@n with you guys today!"'
 
 {0x28FE}	LOAD_STRING	'Yui（Message）'
-{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball w/ u today!"'
+{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball@n with you guys today!"'
 
 {0x2923}	LOAD_STRING	'Menu_Click02'
 
@@ -721,10 +721,10 @@
 
 {0x29AB}	LOAD_STRING	'One new message from Nakategawa.'
 
-{0x29AF}	SPECIAL_TEXT	0x1	'"So proper. u don't have to overthink it, K?"'
+{0x29AF}	SPECIAL_TEXT	0x1	'"So proper. You don't have to@n overthink it, OK?"'
 
 {0x29D5}	LOAD_STRING	'Tatsumi（Message）'
-{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper. u don't have to overthink it, K?"'
+{0x29D9}	LOAD_CUSTOM_TEXT	0x1	'"So proper. You don't have to@n overthink it, OK?"'
 
 {0x29FA}	LOAD_STRING	'Menu_Click02'
 
@@ -804,10 +804,10 @@
 
 {0x304F}	LOAD_STRING	'Pon01'
 
-{0x308E}	SPECIAL_TEXT	0xa	'"... Anything my father can't make?"'
+{0x308E}	SPECIAL_TEXT	0xa	'"...Anything my father can't make?"'
 
 {0x30B4}	LOAD_STRING	'Miki（Message）'
-{0x30B8}	LOAD_CUSTOM_TEXT	0x1	'"... Anything my father can't make?"'
+{0x30B8}	LOAD_CUSTOM_TEXT	0x1	'"...Anything my father can't make?"'
 
 {0x30D9}	LOAD_STRING	'Menu_Click02'
 
@@ -1033,10 +1033,10 @@
 
 {0x434E}	LOAD_STRING	'Pon01'
 
-{0x438D}	SPECIAL_TEXT	0x23	'"Kk, I'll check the schedule and send it later"'
+{0x438D}	SPECIAL_TEXT	0x23	'"Ok, I'll check the schedule and send it later"'
 
 {0x43B3}	LOAD_STRING	'Tatsumi（Message）'
-{0x43B7}	LOAD_CUSTOM_TEXT	0x1	'"Kk, I'll check the schedule and send it later"'
+{0x43B7}	LOAD_CUSTOM_TEXT	0x1	'"Ok, I'll check the schedule and send it later"'
 
 {0x43D8}	LOAD_STRING	'Menu_Click02'
 
@@ -1091,7 +1091,7 @@
 
 {0x47A0}	LOAD_STRING	'I'm so stoked, I don't think I'll be able to sleep.'
 
-{0x47B0}	LOAD_STRING	'... I feel like a little kid.'
+{0x47B0}	LOAD_STRING	'...I feel like a little kid.'
 
 {0x47B8}	SPECIAL_TEXT	0x28	'"Tatsumi-san"'
 
@@ -1107,10 +1107,10 @@
 
 {0x489B}	LOAD_STRING	'After a while, Nakategawa messaged me in the group chat.'
 
-{0x489F}	SPECIAL_TEXT	0x29	'"Chihiro-san can be so mean sometimes"'
+{0x489F}	SPECIAL_TEXT	0x29	'"Chihiro-san can be so mean sometimes."'
 
 {0x48C5}	LOAD_STRING	'Yui（Message）'
-{0x48C9}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san can be so mean sometimes"'
+{0x48C9}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san can be so mean sometimes."'
 
 {0x48EA}	LOAD_STRING	'Menu_Click02'
 
@@ -1225,10 +1225,10 @@
 
 {0x5207}	LOAD_STRING	'You can get a lot of trouble if you talk smack about someone accidentally in a group chat.'
 
-{0x520B}	SPECIAL_TEXT	0x35	'"Chihiro-san, could you ever forgive me?"'
+{0x520B}	SPECIAL_TEXT	0x35	'"Chihiro-san, could you ever@n forgive me?"'
 
 {0x5231}	LOAD_STRING	'Yui（Message）'
-{0x5235}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san, could you ever forgive me?"'
+{0x5235}	LOAD_CUSTOM_TEXT	0x1	'"Chihiro-san, could you ever@n forgive me?"'
 
 {0x5256}	LOAD_STRING	'Menu_Click02'
 
@@ -1236,15 +1236,15 @@
 
 {0x52DE}	LOAD_STRING	'Although it's not that serious right now.'
 
-{0x52E2}	SPECIAL_TEXT	0x36	'"Tatsumi-kun, teach me 2 b nicer, will ya"'
+{0x52E2}	SPECIAL_TEXT	0x36	'"Tatsumi-kun, teach me to be nicer,@n will ya?"'
 
 {0x5308}	LOAD_STRING	'Chihiro（Message）'
-{0x530C}	LOAD_CUSTOM_TEXT	0x1	'"Tatsumi-kun, teach me 2 b nicer, will ya"'
+{0x530C}	LOAD_CUSTOM_TEXT	0x1	'"Tatsumi-kun, teach me to be nicer,@n will ya?"'
 
 {0x532D}	LOAD_STRING	'Menu_Click02'
 
 {0x5364}	LOAD_STRING	'Pon01'
 
-{0x53B5}	LOAD_STRING	'Could it be that Chihiro just doesn't to be seen as a "Nice guy"...?'
+{0x53B5}	LOAD_STRING	'Could it be that Chihiro just doesn't want to be seen as a 'Nice guy...?'
 
-{0x53C5}	LOAD_STRING	'... I had a feeling.'
+{0x53C5}	LOAD_STRING	'...I had a feeling that was the case.'
