@@ -30,7 +30,7 @@
 {0x0239}	LOAD_STRING	'@v00010088 Next year, I'll be busy with an entrance exam, so I want to enjoy this summer to the fullest!'
 
 {0x0243}	LOAD_STRING	'Chihiro'
-{0x0245}	LOAD_STRING	'@v00040067 ... We've been planning this since spring.'
+{0x0245}	LOAD_STRING	'@v00040067 ...We've been planning this since spring.'
 
 {0x0255}	LOAD_STRING	'Chihiro finally speaks up, albeit in an unusally quiet tone.'
 
@@ -52,7 +52,7 @@
 {0x0351}	LOAD_STRING	'@v00040069 I heard you transferred from Nanaha Academy.'
 
 {0x0377}	LOAD_STRING	'Yui'
-{0x0379}	LOAD_STRING	'@v00020100 Y-yes! @t0130@hYUI_U201AS  Eheh... How is all this information getting around?'
+{0x0379}	LOAD_STRING	'@v00020100 Y-yes!@t0130@hYUI_U201AS Eheh... How is all this information getting around?'
 
 {0x0383}	LOAD_STRING	'Miki'
 {0x0385}	LOAD_STRING	'@v00010090 I just can't believe you transferred all the way to our school. You're so aggressive... I mean, reckless, Nakategawa-san...'
@@ -125,7 +125,7 @@
 {0x06C7}	LOAD_STRING	'@v00020107 But at the same time, I felt as though something was different.'
 
 {0x06D1}	LOAD_STRING	'Yui'
-{0x06D3}	LOAD_STRING	'@v00020108 I felt like I was in a controlled environment, like a box garden. All my friends were girls, and we were made to "Behave like a shameless student of Nanaha Academy.'
+{0x06D3}	LOAD_STRING	'@v00020108"I felt like I was in a controlled environment, like a box garden. All my friends were girls, and we were made to 'Behave like a shameless student of Nanaha Academy.'"'
 
 {0x06DD}	LOAD_STRING	'Miki'
 {0x06DF}	LOAD_STRING	'@v00010093 But it would be cool to join an all-girl's school, wouldn't you agree?'
@@ -140,7 +140,7 @@
 {0x0707}	LOAD_STRING	'@v00040073 Pay attention.'
 
 {0x0711}	LOAD_STRING	'Yui'
-{0x0713}	LOAD_STRING	'@v00020109 I thought, "Is this the way my youth should be? Isn't there a different way to experience it?"'
+{0x0713}	LOAD_STRING	'@v00020109"I thought, 'Is this the way my youth should be? Isn't there a different way to experience it?'"'
 
 {0x071D}	LOAD_STRING	'Yui'
 {0x071F}	LOAD_STRING	'@v00020110 Of course, I won't deny that I had a good life and friends at Nanaha Academy.'
@@ -165,7 +165,7 @@
 {0x0876}	LOAD_STRING	'@v00010096 Sorry...'
 
 {0x08AC}	LOAD_STRING	'Yui'
-{0x08AE}	LOAD_STRING	'@v00020112 Eheheh... Well, there is truth in that, actually. @t0450@hYUI_U201BS Isn't it unhealthy to not be exposed to boys until you grow up?'
+{0x08AE}	LOAD_STRING	'@v00020112 Eheheh... Well, there is truth in that, actually.@t0450@hYUI_U201BS Isn't it unhealthy to not be exposed to boys until you grow up?'
 
 {0x08B8}	LOAD_STRING	'Miki'
 {0x08BA}	LOAD_STRING	'@v00010097 Yeah, but co-ed schools are a pain in the butt too, you know?'
@@ -181,7 +181,7 @@
 {0x08F6}	LOAD_STRING	'What?'
 
 {0x0900}	LOAD_STRING	'Yui'
-{0x0902}	LOAD_STRING	'@v00020114 It was none other than Tatsumi-san who gave me the courage to step outside of the box garden, you know?'
+{0x0902}	LOAD_STRING	'@v00020114 It was none other than Tatsumi-san who gave me the courage to step outside of the box garden... I mean, it was all of you, really!'
 
 {0x0938}	LOAD_STRING	'Chihiro'
 {0x093A}	LOAD_STRING	'@v00040075 Huh?!'
@@ -206,7 +206,7 @@
 {0x0AE6}	LOAD_STRING	'There are other customers here. We need to keep our voices down.'
 
 {0x0B40}	LOAD_STRING	'Miki'
-{0x0B42}	LOAD_STRING	'@v00010100 ... You're not lying, are you?'
+{0x0B42}	LOAD_STRING	'@v00010100 ...You're not lying, are you?'
 
 {0x0B4C}	LOAD_STRING	'Yui'
 {0x0B4E}	LOAD_STRING	'@v00020115 Right. I met you all about six months ago.'
@@ -227,7 +227,7 @@
 {0x0C38}	LOAD_STRING	'@v00010101 Tak-kun, don't you remember?'
 
 {0x0C46}	LOAD_STRING	'Tatsumi'
-{0x0C48}	LOAD_STRING	'... I don't, unfortunately...'
+{0x0C48}	LOAD_STRING	'...I don't, unfortunately...'
 
 {0x0C6E}	LOAD_STRING	'Chihiro'
 {0x0C70}	LOAD_STRING	'@v00040079 I knew it, you fell for Tatsumi's kindness.'
@@ -258,7 +258,7 @@
 {0x0D44}	LOAD_STRING	'Half...?'
 
 {0x0D4E}	LOAD_STRING	'Yui'
-{0x0D50}	LOAD_STRING	'@v00020121 ... Well, meeting you all pushed me to do this. I hope to make my youth come true, with all of you, if I can.'
+{0x0D50}	LOAD_STRING	'@v00020121 ...Well, meeting you all pushed me to do this. I hope to make my youth come true, with all of you, if I can.'
 
 {0x0D5A}	LOAD_STRING	'Miki'
 {0x0D5C}	LOAD_STRING	'@v00010102 Is this something you can't do... without us?'
@@ -399,10 +399,10 @@
 {0x142D}	LOAD_STRING	'My childhood friend, puffing her chest out.'
 
 {0x1437}	LOAD_STRING	'Miki'
-{0x1439}	LOAD_STRING	'@v00010109 Basically, everyone is welcome. My motto is, don't reject potential friends, and follow those who leave to the ends of hell,@t0740@hMIKI_U202BS right?'
+{0x1439}	LOAD_STRING	'@v00010109 Basically, everyone is welcome. My motto is, don't reject potential friends, and follow those who leave@t0740@hMIKI_U202BS to the ends of hell, right?'
 
 {0x1493}	LOAD_STRING	'Chihiro'
-{0x1495}	LOAD_STRING	'@v00040088 ... Who are you chasing to the ends of hell, exactly?'
+{0x1495}	LOAD_STRING	'@v00040088 ...Who are you chasing to the ends of hell, exactly?'
 
 {0x14EF}	LOAD_STRING	'Miki'
 {0x14F1}	LOAD_STRING	'@v00010110 Huh? Well, Tak-kun and Chi-kun, of course. And,@t0580@hMIKI_U201EG Nakategawa-san starting today, right?'
@@ -411,7 +411,7 @@
 {0x14FD}	LOAD_STRING	'@v00020132 Oh, that's... Um...'
 
 {0x150B}	LOAD_STRING	'Tatsumi'
-{0x150D}	LOAD_STRING	'... Are we all okay with this?'
+{0x150D}	LOAD_STRING	'...Are we all okay with this?'
 
 {0x1567}	LOAD_STRING	'Chihiro'
 {0x1569}	LOAD_STRING	'@v00040089 That's just Miki's way of showing affection... Right?'
@@ -437,7 +437,7 @@
 {0x1755}	LOAD_STRING	'Miki begins to pout and protest.'
 
 {0x17AF}	LOAD_STRING	'Yui'
-{0x17B1}	LOAD_STRING	'@v00020133 Pffft... @t0090@hYUI_U201EG3 Hahahahaha!'
+{0x17B1}	LOAD_STRING	'@v00020133 Pffft...@t0090@hYUI_U201EG3 Hahahahaha!'
 
 {0x17BF}	LOAD_STRING	'Tatsumi'
 {0x17C1}	LOAD_STRING	'Nakategawa-san...?'
@@ -449,8 +449,8 @@
 
 {0x17ED}	LOAD_STRING	'She laughs softly now.'
 
-{0x1881}	LOAD_STRING	'The three of us, are now the four of us, and this moment...'
+{0x1881}	LOAD_STRING	'The three of us... are now the four of us, and this moment...'
 
-{0x1891}	LOAD_STRING	'... Is a big moment for us.'
+{0x1891}	LOAD_STRING	'...Is a big moment for us.'
 
 {0x18A1}	LOAD_STRING	'I can feel it.'
