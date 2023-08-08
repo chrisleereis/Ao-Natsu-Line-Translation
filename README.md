@@ -2,6 +2,10 @@
 
 Original game developed by GIGA, published by [Entergram](https://www.entergram.co.jp/), English translation presented by Blue Overture
 
+## About the Game
+- Published by [Entergram](https://www.entergram.co.jp/) on [Nintendo eShop](https://store-jp.nintendo.com/list/software/70010000044622.html) on Feb 24, 2022
+- The final software of the development studio GIGA<sup>rest in peace</sup>
+
 ## Requirements
 
 - Aonatsu Line for Nintendo Switch
