@@ -20,6 +20,12 @@ XYZ
 
 ## FAQ
 
+### How was this made possible?
+
+- It's important to note that we are a team of just two people, and this takes a large amount of meticulous work.
+
+- We reverse-engineered the game assets to unpack them for modification. Afterwards we used DeepL deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people.
+
 ### Will this patch work with the PS4, PSVita or Steam release?
 
 No, this patch has been tailor-made for the Nintendo Switch version of the game. There is a chance the assets may be useful on other platforms, but will likely require heavy modifications.
@@ -30,11 +36,11 @@ Just felt like it, no other reason.
 
 ### Will you port the 18+ content of the game?
 
-Due to the massive amount of work this would pose, w e have decided not to.
+Due to the massive amount of work this would pose, we have decided not to.
 
 ### Are you working on any other projects now or in the future?
 
-Blue Overture will continue developing the English language patch of Aonatsu Line for the forseeable future until it is complete. There are no other current projects, and there will probably no other projects until development on this translation has ended.
+Blue Overture will continue developing the English language patch of Aonatsu Line for the forseeable future until it is complete. There are no other current projects, and there will probably be no other projects until development on this translation has ended.
 
 ### Where can I find a compatible copy of the game?
 
