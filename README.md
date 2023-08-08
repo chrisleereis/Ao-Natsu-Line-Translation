@@ -21,7 +21,8 @@ XYZ
 - A window will open showing the directory `yuzu\load\01009B7015E68000`
 - In this folder, create a new folder named `English`
 - Move the contents of XYZ into `yuzu\load\01009B7015E68000\English` and close the window
-- In Yuzu, right click `アオナツライン` and select `Start Game with Custom Configuration`
+- In Yuzu, right click `アオナツライン` and select `Properties`
+- In the `Add-Ons` tab, make sure `English` is checked and close the window
 - Enjoy!
 
 ## FAQ
