@@ -248,7 +248,7 @@
 {0x0B3C}	LOAD_STRING	'@v00020543"This is the first time I'm going on a trip with a group of friends..."'
 
 {0x0B4A}	LOAD_STRING	'Tatsumi'
-{0x0B4C}	LOAD_STRING	'You didn't go with the kids from Nanaha?'
+{0x0B4C}	LOAD_STRING	'You didn't go with the kids from Shichiyou?'
 
 {0x0B56}	LOAD_STRING	'Yui'
 {0x0B58}	LOAD_STRING	'@v00020544"Yes. I played a lot in the Yokohama and Tokyo area, but this will be my first time on Otojima."'
@@ -334,7 +334,7 @@
 {0x0DD2}	LOAD_STRING	'Tatsumi'
 {0x0DD4}	LOAD_STRING	'Pft...It's so like you, Nakategawa.'
 
-{0x0DE4}	LOAD_STRING	'Perfectly fitting for someone who goes out of Nanaha Academy with a bang.'
+{0x0DE4}	LOAD_STRING	'Perfectly fitting for someone who goes out of Shichiyou Academy with a bang.'
 
 {0x0E36}	LOAD_STRING	'Miki'
 {0x0E38}	LOAD_STRING	'@v00010741"What other hobbies does Yui-chan have?"'
@@ -504,7 +504,7 @@
 {0x1460}	LOAD_STRING	'@v00010753"Sorry about that! But, how are Yui-chan's grades?"'
 
 {0x146A}	LOAD_STRING	'Chihiro'
-{0x146C}	LOAD_STRING	'@v00040636"Well, she's from Nanaha Academy, after all."'
+{0x146C}	LOAD_STRING	'@v00040636"Well, she's from Shichiyou Academy, after all."'
 
 {0x147A}	LOAD_STRING	'Tatsumi'
 {0x147C}	LOAD_STRING	'How did your midterms go last week?'
@@ -571,7 +571,7 @@
 {0x17A2}	LOAD_STRING	'Nakategawa shrugs.'
 
 {0x17AC}	LOAD_STRING	'Yui'
-{0x17AE}	LOAD_STRING	'@v00020570"I promised my father. He said I shouldn't neglect my schoolwork even if I change schools.@t0690@hYUI_A201KM He said if I score 2nd or lower, he'd send me right back to Nanaha."'
+{0x17AE}	LOAD_STRING	'@v00020570"I promised my father. He said I shouldn't neglect my schoolwork even if I change schools.@t0690@hYUI_A201KM He said if I score 2nd or lower, he'd send me right back to Shichiyou."'
 
 {0x17BC}	LOAD_STRING	'Tatsumi'
 {0x17BE}	LOAD_STRING	'Oh...'

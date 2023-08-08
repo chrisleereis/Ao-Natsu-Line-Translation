@@ -322,7 +322,7 @@
 {0x0EE7}	LOAD_STRING	'Nakategawa, who was listening intently to the conversation, let out such an impression with a sigh.'
 
 {0x0EF1}	LOAD_STRING	'Chihiro'
-{0x0EF3}	LOAD_STRING	'@v00040263"Well, this probably doesn't happen at Nanaha Academy."'
+{0x0EF3}	LOAD_STRING	'@v00040263"Well, this probably doesn't happen at Shichiyou Academy."'
 
 {0x0F01}	LOAD_STRING	'Tatsumi'
 {0x0F03}	LOAD_STRING	'It's an all-girls school, so...'

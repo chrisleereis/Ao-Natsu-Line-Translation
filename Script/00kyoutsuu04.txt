@@ -905,7 +905,7 @@
 {0x3053}	LOAD_STRING	'No. It's because you looked different. You wore a different uniform...'
 
 {0x305D}	LOAD_STRING	'Yui'
-{0x305F}	LOAD_STRING	'@v00020256"Oh, yes. The uniforms at Nanaha Academy are a bit special, aren't they?"'
+{0x305F}	LOAD_STRING	'@v00020256"Oh, yes. The uniforms at Shichiyou Academy are a bit special, aren't they?"'
 
 {0x306D}	LOAD_STRING	'Tatsumi'
 {0x306F}	LOAD_STRING	'Yes, and...'
@@ -1036,7 +1036,7 @@
 
 {0x3588}	LOAD_STRING	'We shared until the moment we met, the joy of finally understanding each other.'
 
-{0x3598}	LOAD_STRING	'But at the same time, it also meant saying goodbye to the friends she left behind at Nanaha Academy.'
+{0x3598}	LOAD_STRING	'But at the same time, it also meant saying goodbye to the friends she left behind at Shichiyou Academy.'
 
 {0x35A8}	LOAD_STRING	'A mixture of feelings hit Nakategawa like a surprise.'
 
