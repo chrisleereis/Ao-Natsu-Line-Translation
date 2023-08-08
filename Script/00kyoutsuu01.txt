@@ -1218,10 +1218,10 @@
 {0x4038}	LOAD_STRING	'Tatsumi'
 {0x403A}	LOAD_STRING	'We can move forward with it.'
 
-{0x403E}	SPECIAL_TEXT	0x14	'"What, is it a bad idea? "'
+{0x403E}	SPECIAL_TEXT	0x14	'"What, it went poorly? "'
 
 {0x4064}	LOAD_STRING	'Miki(Message)'
-{0x4068}	LOAD_CUSTOM_TEXT	0x1	'"What, is it a bad idea? "'
+{0x4068}	LOAD_CUSTOM_TEXT	0x1	'"What, it went poorly? "'
 
 {0x4089}	LOAD_STRING	'Menu_Click02'
 
