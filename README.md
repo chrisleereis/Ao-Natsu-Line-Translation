@@ -5,7 +5,6 @@ Original game developed by GIGA, published by Entergram, English translation pre
 ## Requirements
 
 - Aonatsu Line for Nintendo Switch
-- Japanese language version only (Incompatible with Chinese version)
 - Either the full retail release or the demo version can be used
 
 
@@ -31,7 +30,7 @@ Just felt like it, no other reason.
 
 ### Will you port the 18+ content of the game?
 
-We have decided not to.
+Due to the massive amount of work this would pose, w e have decided not to.
 
 ### Are you working on any other projects now or in the future?
 
