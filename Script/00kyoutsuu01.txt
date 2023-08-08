@@ -495,7 +495,7 @@
 {0x222F}	LOAD_STRING	'@v00040056"What's with that? It looked like something from a photo."'
 
 {0x2239}	LOAD_STRING	'Miki'
-{0x223B}	LOAD_STRING	'@v00010075"What's more, I heard that she attended Nanaha Academy in Yokohama!"'
+{0x223B}	LOAD_STRING	'@v00010075"What's more, I heard that she attended Shichiyou Academy in Yokohama!"'
 
 {0x2249}	LOAD_STRING	'Tatsumi'
 {0x224B}	LOAD_STRING	'Huh?!'
@@ -503,11 +503,11 @@
 {0x22E1}	LOAD_STRING	'I take advantage of the opportunity to change from a relaxed stance to cut her for an easy layup.'
 
 {0x2352}	LOAD_STRING	'Chihiro'
-{0x2354}	LOAD_STRING	'@v00040057"Isn't Nanaha... A school for young ladies?"'
+{0x2354}	LOAD_STRING	'@v00040057"Isn't Shichiyou... A school for young ladies?"'
 
 {0x2364}	LOAD_STRING	'Chihiro's eyes widen.'
 
-{0x2374}	LOAD_STRING	'I'm already familiar with the Nanaha Academy.'
+{0x2374}	LOAD_STRING	'I'm already familiar with the Shichiyou Academy.'
 
 {0x2384}	LOAD_STRING	'It's a so-called "Gosanke", a school for young ladies that has graduated many celebrities, cultural figures, and entertainers.'
 
@@ -525,9 +525,9 @@
 {0x23CC}	LOAD_STRING	'@v00040059"I can tell you really can't remember."'
 
 {0x23D6}	LOAD_STRING	'Chihiro'
-{0x23D8}	LOAD_STRING	'@v00040060"But then again, why would she move from Nanaha to out here in the countryside?"'
+{0x23D8}	LOAD_STRING	'@v00040060"But then again, why would she move from Shichiyou to out here in the countryside?"'
 
-{0x23E8}	LOAD_STRING	'Kurigaoka Academy, located on the coast, and Nanaha Academy, located in the center of Yokohama, couldn't be further away from each other...'
+{0x23E8}	LOAD_STRING	'Kurigaoka Academy, located on the coast, and Shichiyou Academy, located in the center of Yokohama, couldn't be further away from each other...'
 
 {0x2442}	LOAD_STRING	'Miki'
 {0x2444}	LOAD_STRING	'@v00010076"There's that mystery again..."'
@@ -661,7 +661,7 @@
 
 {0x2A4D}	LOAD_STRING	'As I watch her, there is a certain aura, a grace, in her every move.'
 
-{0x2A5D}	LOAD_STRING	'I guess it's not just a rumor that she transferred from Nanaha Academy.'
+{0x2A5D}	LOAD_STRING	'I guess it's not just a rumor that she transferred from Shichiyou Academy.'
 
 {0x2A6D}	LOAD_STRING	'Compared to Miki, she seems so much more... Grown-up.'
 
