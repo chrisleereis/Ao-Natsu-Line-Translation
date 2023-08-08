@@ -44,7 +44,7 @@
 {0x0471}	LOAD_STRING	'@v00040120"Why not?"'
 
 {0x047F}	LOAD_STRING	'Tatsumi'
-{0x0481}	LOAD_STRING	'"Let's indulge Nakategawa."'
+{0x0481}	LOAD_STRING	'Let's indulge Nakategawa.'
 
 {0x0491}	LOAD_STRING	'There's nothing in particular that I want or have to do.'
 
@@ -52,8 +52,6 @@
 
 {0x04FF}	LOAD_STRING	'Yui'
 {0x0501}	LOAD_STRING	'@v00020190"Please enjoy yourselves to the fullest! Then, let's get going!"'
-
-{0x052F}	LOAD_STRING	'Walk20o'
 
 {0x05CD}	LOAD_STRING	'Chihiro'
 {0x05CF}	LOAD_STRING	'@v00040121"Hey, Tatsumi-san."'
@@ -92,8 +90,6 @@
 
 {0x07BB}	LOAD_STRING	'I gotta make sure I don't get too wound-up on this sort of thing.'
 
-{0x07E7}	LOAD_STRING	'Gaya11#'
-
 {0x0853}	LOAD_STRING	'Yui'
 {0x0855}	LOAD_STRING	'@v00020192"So! The Hawaiian burgers here are very popular with our demographic!"'
 
@@ -124,7 +120,7 @@
 {0x097B}	LOAD_STRING	'I'm heading towards the food truck when all of a sudden...'
 
 {0x09A5}	LOAD_STRING	'Yui'
-{0x09A7}	LOAD_STRING	'@v00020194"Oh, don't worry!　I'll get it for you!"'
+{0x09A7}	LOAD_STRING	'@v00020194"Oh, don't worry! I'll get it for you!"'
 
 {0x09B7}	LOAD_STRING	'Nakategawa offers to hold our orders with both hands.'
 
@@ -136,10 +132,6 @@
 
 {0x09DD}	LOAD_STRING	'Chihiro'
 {0x09DF}	LOAD_STRING	'@v00040125 "But you barely just started playing..."'
-
-{0x09E5}	LOAD_STRING	'kyu01'
-
-{0x09FB}	LOAD_STRING	'kyu01'
 
 {0x0A45}	LOAD_STRING	'Miki'
 {0x0A47}	LOAD_STRING	'@v00010152"Tak-kun."'
@@ -160,8 +152,6 @@
 {0x0ABD}	LOAD_STRING	'Yui'
 {0x0ABF}	LOAD_STRING	'@v00020197"You two should feel like you're on a big boat!"'
 
-{0x0AC5}	LOAD_STRING	'Walk12o'
-
 {0x0AF4}	LOAD_STRING	'Boom, Nakategawa slaps herself on the chest and heads for the store, and I follow.'
 
 {0x0B60}	LOAD_STRING	'Chihiro'
@@ -179,8 +169,6 @@
 {0x0B90}	LOAD_STRING	'Chihiro'
 {0x0B92}	LOAD_STRING	'@v00040128"...Yeah."'
 
-{0x0BCE}	LOAD_STRING	'Gaya11#'
-
 {0x0C56}	LOAD_STRING	'Yui'
 {0x0C58}	LOAD_STRING	'@v00020198"Hey guys, thanks for waiting!" @k'
 
@@ -194,18 +182,12 @@
 {0x0D1E}	LOAD_STRING	'Yui'
 {0x0D20}	LOAD_STRING	'@v00020199"Huh... Up?@t0250@hYUI_A302KM Kyaaaah!"@k'
 
-{0x0D28}	LOAD_STRING	'Bird15#'
-
-{0x0D3A}	LOAD_STRING	'Bird01'
-
 {0x0D5F}	LOAD_STRING	'Yui'
 {0x0D61}	LOAD_STRING	'@v00020200"Ahhh!"'
 
 {0x0D71}	LOAD_STRING	'Nakategawa's hamburger is snatched by a shadowy... ill-behaved bird that attacks from above.'
 
 {0x0D81}	LOAD_STRING	'Her screams echo around her.'
-
-{0x0D89}	LOAD_STRING	'Bird15#'
 
 {0x0D9F}	LOAD_STRING	'Yui'
 {0x0DA1}	LOAD_STRING	'@v00020201"Please return it! That's Chihiro's!"'
@@ -215,11 +197,7 @@
 
 {0x0DC1}	LOAD_STRING	'The bird in question has already soared high up and there is nothing we can do about it by chasing it.'
 
-{0x0DD1}	LOAD_STRING	'Dash05o'
-
 {0x0DFC}	LOAD_STRING	'But Nakategawa, probably not hearing me, runs off after it...'
-
-{0x0E11}	LOAD_STRING	'falldown09'
 
 {0x0E23}	LOAD_STRING	'Yui'
 {0x0E25}	LOAD_STRING	'@v00020202"Ahhh!"'
@@ -234,8 +212,6 @@
 
 {0x0EB3}	LOAD_STRING	'Chihiro'
 {0x0EB5}	LOAD_STRING	'@v00040129"Whoa, are you okay?"'
-
-{0x0EBD}	LOAD_STRING	'Dash10O'
 
 {0x0EF3}	LOAD_STRING	'We rush over to Nakategawa, who stares tearfully at the hamburger on the ground.'
 
@@ -263,10 +239,6 @@
 {0x10A6}	LOAD_STRING	'Yui'
 {0x10A8}	LOAD_STRING	'@v00020206"But..."'
 
-{0x10AE}	LOAD_STRING	'kyu01'
-
-{0x10C4}	LOAD_STRING	'kyu01'
-
 {0x110E}	LOAD_STRING	'Miki'
 {0x1110}	LOAD_STRING	'@v00010159"Tak-kun."'
 
@@ -285,7 +257,7 @@
 {0x1178}	LOAD_STRING	'@v00020207"Huh, I see...! So this is what youth is like?"'
 
 {0x1186}	LOAD_STRING	'Tatsumi'
-{0x1188}	LOAD_STRING	'Isn't it the first time you've been attacked by a bird? It's nice to have another first."'
+{0x1188}	LOAD_STRING	'Isn't it the first time you've been attacked by a bird? It's nice to have another first.'
 
 {0x1192}	LOAD_STRING	'Yui'
 {0x1194}	LOAD_STRING	'@v00020208"Yes, that's nice!"'
@@ -297,13 +269,11 @@
 
 {0x11C0}	LOAD_STRING	'Well, that was a forced consolation, but it's fine... if Nakategawa got a smile out of it.'
 
-{0x1245}	LOAD_STRING	'Gaya21#'
-
 {0x12DF}	LOAD_STRING	'Yui'
 {0x12E1}	LOAD_STRING	'@v00020210"This shrine's fortune is very popular!"'
 
 {0x12EB}	LOAD_STRING	'Chihiro'
-{0x12ED}	LOAD_STRING	'@v00040132"Is there a fad for... fortunes?"'
+{0x12ED}	LOAD_STRING	'@v00040132"...Is there a fad for fortunes?"'
 
 {0x12F7}	LOAD_STRING	'Miki'
 {0x12F9}	LOAD_STRING	'@v00010161"Heh... It's inside a doll in the likeness of Benzaiten-sama, the god of fortune."'
@@ -354,10 +324,6 @@
 {0x1511}	LOAD_STRING	'Tatsumi'
 {0x1513}	LOAD_STRING	'Wait a minute.'
 
-{0x1529}	LOAD_STRING	'nuno02'
-
-{0x1553}	LOAD_STRING	'Button01'
-
 {0x156B}	LOAD_STRING	'I'm going to take my phone out and check it out...'
 
 {0x1579}	LOAD_STRING	'Tatsumi'
@@ -385,19 +351,13 @@
 {0x1659}	LOAD_STRING	'Chihiro'
 {0x165B}	LOAD_STRING	'@v00040137"Okay, I'll go first. I'll open it when we're all here, okay?"'
 
-{0x1661}	LOAD_STRING	'Walk12o'
-
 {0x1688}	LOAD_STRING	'Ignoring my sly comment, Chihiro quickly picks up the Benzaiten doll.'
 
 {0x1692}	LOAD_STRING	'Miki'
 {0x1694}	LOAD_STRING	'@v00010167"Oh, Chi-kun, that's not fair.@t0160@hMIKI_A302BS I'm next!"'
 
-{0x169A}	LOAD_STRING	'Walk12o'
-
 {0x16BB}	LOAD_STRING	'Yui'
 {0x16BD}	LOAD_STRING	'@v00020214"Then, I'm after Miki."'
-
-{0x16C3}	LOAD_STRING	'walk12o'
 
 {0x16E8}	LOAD_STRING	'Tatsumi'
 {0x16EA}	LOAD_STRING	'Well, I guess I'm last. They say there's good luck in leftovers.'
@@ -405,12 +365,10 @@
 {0x173C}	LOAD_STRING	'And then each person places their fingers on the doll.'
 
 {0x179E}	LOAD_STRING	'Everyone'
-{0x17A0}	LOAD_STRING	'@v00090907@s0004 "Rock, paper, scissors..."'
+{0x17A0}	LOAD_STRING	'@v00090907@s0004"Rock, paper, scissors..."'
 
 {0x1802}	LOAD_STRING	'Everyone'
-{0x1804}	LOAD_STRING	'@v00090908@s0004 "Shoot!"'
-
-{0x181A}	LOAD_STRING	'Tissue01'
+{0x1804}	LOAD_STRING	'@v00090908@s0004"Shoot!"'
 
 {0x1832}	LOAD_STRING	'He pulls on the red string that sticks out of the bottom.'
 
@@ -424,10 +382,10 @@
 {0x1892}	LOAD_STRING	'Suekichi...'
 
 {0x189C}	LOAD_STRING	'Chihiro'
-{0x189E}	LOAD_STRING	'@v00040141"Wow, I guess it’s not the worst pull..."'
+{0x189E}	LOAD_STRING	'@v00040141"Wow, I guess it's not the worst pull..."'
 
 {0x18A8}	LOAD_STRING	'Miki'
-{0x18AA}	LOAD_STRING	'@v00010171"This is Tak-kun's determination showing itself! @t0410...@hMIKI_A302OD Hey, Yui, where did you go?"'
+{0x18AA}	LOAD_STRING	'@v00010171"This is Tak-kun's determination showing itself!@t0410...@hMIKI_A302OD Hey, Yui, where did you go?"'
 
 {0x18BA}	LOAD_STRING	'Miki notices Nakategawa's somber expression and retracts her smile.'
 
@@ -442,8 +400,6 @@
 
 {0x19DE}	LOAD_STRING	'Miki'
 {0x19E0}	LOAD_STRING	'@v00010172"H-Hang on, isn't this the one you want to pull?"'
-
-{0x19E6}	LOAD_STRING	'Button01'
 
 {0x19FE}	LOAD_STRING	'After saying that, Miki starts searching the internet on her phone.'
 
@@ -460,8 +416,6 @@
 
 {0x1A74}	LOAD_STRING	'Yui'
 {0x1A76}	LOAD_STRING	'@v00020219"...By all means, take a look."'
-
-{0x1A7C}	LOAD_STRING	'Paper04'
 
 {0x1B2A}	LOAD_STRING	'What was written on the fortune that was handed to me was an impresive list of negative phrases.'
 
@@ -494,10 +448,6 @@
 {0x1C0C}	LOAD_STRING	'Yui'
 {0x1C0E}	LOAD_STRING	'@v00020222"Hehe... I should have stopped here first."'
 
-{0x1C14}	LOAD_STRING	'kyu01'
-
-{0x1C2A}	LOAD_STRING	'kyu01'
-
 {0x1C6C}	LOAD_STRING	'Miki'
 {0x1C6E}	LOAD_STRING	'@v00010176"Tak-kun."'
 
@@ -519,7 +469,7 @@
 {0x1CDE}	LOAD_STRING	'Well, happiness comes and goes, right?'
 
 {0x1CE8}	LOAD_STRING	'Yui'
-{0x1CEA}	LOAD_STRING	'@v00020224"Yes! Yes, I'm sure this will be another... wonderful memory!"'
+{0x1CEA}	LOAD_STRING	'@v00020224"Yes! Yes, I'm sure... this will be another wonderful memory!"'
 
 {0x1CFA}	LOAD_STRING	'Nakategawa puts her fortune away carefully in her bag.'
 
@@ -527,8 +477,6 @@
 {0x1D06}	LOAD_STRING	'@v00010178"Sigh! Yui, you're so cute, you get back on your feet so quickly when Tak-kun encourages you."'
 
 {0x1EAC}	LOAD_STRING	'And so, as the sun begins to set, the Otojima trip comes to a close.'
-
-{0x1F22}	LOAD_STRING	'Water07#'
 
 {0x1F38}	LOAD_STRING	'Yui'
 {0x1F3A}	LOAD_STRING	'@v00020225"Hyaaahh! It's still cold."@k'
@@ -661,8 +609,6 @@
 {0x249C}	LOAD_STRING	'Yui'
 {0x249E}	LOAD_STRING	'@v00020228"Tatsumi-san... Then, I'll take your word for it, okay?"'
 
-{0x24D6}	LOAD_STRING	'Train13'
-
 {0x2500}	LOAD_STRING	'Chihiro'
 {0x2502}	LOAD_STRING	'@v00040158"'Kay, see you later."'
 
@@ -671,8 +617,6 @@
 
 {0x2534}	LOAD_STRING	'Yui'
 {0x2536}	LOAD_STRING	'@v00020229"Yes, Miki and Chihiro, thank you so much for today!"'
-
-{0x254B}	LOAD_STRING	'Train13'
 
 {0x2563}	LOAD_STRING	'Nakategawa bowed deeply toward the closing door.'
 
@@ -736,7 +680,7 @@
 {0x282E}	LOAD_STRING	'...Ah.'
 
 {0x28DE}	LOAD_STRING	'Yui'
-{0x28E0}	LOAD_STRING	'@v00020237"..."'
+{0x28E0}	LOAD_STRING	'@v00020237 ...'
 
 {0x28F0}	LOAD_STRING	'The season is late autumn.'
 
@@ -748,7 +692,7 @@
 {0x291C}	LOAD_STRING	'So I forced myself to be motivated.'
 
 {0x2926}	LOAD_STRING	'Yui'
-{0x2928}	LOAD_STRING	'@v00020239 Running away successfully... Will surely help me grow...)'
+{0x2928}	LOAD_STRING	'@v00020239(Running away successfully... Will surely help me grow...)'
 
 {0x2938}	LOAD_STRING	'During the trip, I got into an argument with my father and said, "I'll decide what I do with my own life!" and jumped out of the car.'
 
@@ -760,8 +704,6 @@
 
 {0x297A}	LOAD_STRING	'Yui'
 {0x297C}	LOAD_STRING	'@v00020240(The sun is setting on the western coast, that means we're headed toward the coast... So it should be right.)'
-
-{0x2982}	LOAD_STRING	'Train13'
 
 {0x299A}	LOAD_STRING	'My father is probably worried sick searching for me, but he hasn't found me yet.'
 
@@ -810,31 +752,27 @@
 
 {0x2C15}	LOAD_STRING	'I was lying on my face, sniffling, holding back sobs...'
 
-{0x2C1B}	LOAD_STRING	'Nuno02'
-
 {0x2C31}	LOAD_STRING	'???'
 {0x2C33}	LOAD_STRING	'"Oh, um... Here you go..."'
 
 {0x2C77}	LOAD_STRING	'A kind voice called to me.'
 
 {0x2CBB}	LOAD_STRING	'Yui'
-{0x2CBD}	LOAD_STRING	'@v00020241"Huh? Oh, that's..."'
+{0x2CBD}	LOAD_STRING	'@v00020241 Huh? Oh, that's...'
 
 {0x2CCD}	LOAD_STRING	'I look up to see a boy with a kind smile on his face.'
 
 {0x2CDB}	LOAD_STRING	'Tatsumi'
-{0x2CDD}	LOAD_STRING	'Sorry, but it's better than nothing, right?'
+{0x2CDD}	LOAD_STRING	'"Sorry, but it's better than nothing, right?"'
 
 {0x2CED}	LOAD_STRING	'He was offering me a wrinkled bag of pocket tissues.@k'
 
 {0x2D31}	LOAD_STRING	'Now he's saying, "Wipe away your tears."'
 
 {0x2D3B}	LOAD_STRING	'Yui'
-{0x2D3D}	LOAD_STRING	'@v00020242"Oh, y-yes, thank you... I appreciate it...'@k'
+{0x2D3D}	LOAD_STRING	'@v00020242 Oh, y-yes, thank you... I appreciate it...@k'
 
 {0x2D85}	LOAD_STRING	'The boy laughed, a little embarrassed, as I, begrudgingly, accepted it.'
-
-{0x2D8B}	LOAD_STRING	'Train13'
 
 {0x2DB1}	LOAD_STRING	'Miki'
 {0x2DB3}	LOAD_STRING	'@v00010189"Huh? Where's Tak-kun?"'
@@ -843,19 +781,15 @@
 {0x2DBF}	LOAD_STRING	'@v00040163"Tatsumi? What are you doing? This is your stop!"'
 
 {0x2DE1}	LOAD_STRING	'Tatsumi'
-{0x2DE3}	LOAD_STRING	'Oh, yeah. Okay, take care then.'
-
-{0x2DE9}	LOAD_STRING	'Dash05o'
+{0x2DE3}	LOAD_STRING	'"Oh, yeah. Okay, take care then."'
 
 {0x2E27}	LOAD_STRING	'Yui'
-{0x2E29}	LOAD_STRING	'@v00020243"Oh, um...!"'
-
-{0x2E2F}	LOAD_STRING	'Train13'
+{0x2E29}	LOAD_STRING	'@v00020243 Oh, um...!'
 
 {0x2E57}	LOAD_STRING	'Literally, he left in a flash.'
 
 {0x2E61}	LOAD_STRING	'Yui'
-{0x2E63}	LOAD_STRING	'@v00020244"Tatsumi... san..."@k'
+{0x2E63}	LOAD_STRING	'@v00020244 Tatsumi... san...@k'
 
 {0x2EA3}	LOAD_STRING	'...'
 
@@ -947,8 +881,6 @@
 
 {0x314B}	LOAD_STRING	'If you examine it closely, it's such a simple explanation. And before this, I thought she was acting pretty suggestively.'
 
-{0x319D}	LOAD_STRING	'Train02'
-
 {0x323E}	LOAD_STRING	'As she exited the station's ticket gate, Nakategawa spun around and smiled.'
 
 {0x3264}	LOAD_STRING	'Yui'
@@ -981,15 +913,13 @@
 {0x32E6}	LOAD_STRING	'@v00020266"It's funny. It's weird, isn't it...? I should be happy to meet Tatsumi-san..."'
 
 {0x32F0}	LOAD_STRING	'Yui'
-{0x32F2}	LOAD_STRING	'@v00020267"Tatsumi-san, you also remembered that time... even though there's nothing to be sad about anymore..."'
+{0x32F2}	LOAD_STRING	'@v00020267"Tatsumi-san, you also remembered that time... Even though there's nothing to be sad about anymore..."'
 
 {0x32FC}	LOAD_STRING	'Yui'
 {0x32FE}	LOAD_STRING	'@v00020268"From now on, we'll be together forever... even though we should be able to be together at least during the summer vacation...@t0670@h So... Why... Am I crying...?"'
 
 {0x330C}	LOAD_STRING	'Tatsumi'
 {0x330E}	LOAD_STRING	'Are you okay? You're not hurt, are you?'
-
-{0x3318}	LOAD_STRING	'Nuno02'
 
 {0x3384}	LOAD_STRING	'I step closer to Nakategawa and she steps forward.'
 
@@ -1063,8 +993,6 @@
 {0x36BC}	LOAD_STRING	'Yui'
 {0x36BE}	LOAD_STRING	'@v00020274"Yes... sorry. I'm so distraught."'
 
-{0x36C4}	LOAD_STRING	'nuno02'
-
 {0x3708}	LOAD_STRING	'At last, her hands are apart.'
 
 {0x3718}	LOAD_STRING	'My heart was secretly pounding a little while ago.'
@@ -1109,6 +1037,3 @@
 
 {0x39A6}	LOAD_STRING	'Yui'
 {0x39A8}	LOAD_STRING	'@v00020278"Then...@t0150@hYUI_U301EG2 our youth is like a Blue Summertime."'
-
-{0x3AF1}	LOAD_STRING	'op.dat'
-
