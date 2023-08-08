@@ -16,15 +16,21 @@ XYZ
 
 ### Yuzu
 
-XYZ
+- In Yuzu, right-click `アオナツライン` in your games directory
+- Select `Open Mod Data Location`
+- A window will open showing the directory `yuzu\load\01009B7015E68000`
+- In this folder, create a new folder named `English`
+- Move the contents of XYZ into `English` and close the window
+- in Yuzu, right click `アオナツライン` and select `Start Game with Custom Configuration`
+- Enjoy!
 
 ## FAQ
 
 ### How was this made possible?
 
-- It's important to note that we are a team of just two people, and this takes a large amount of meticulous work.
+- It's important to note that we are a team of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
 
-- We reverse-engineered the game assets to unpack them for modification. Afterwards we used DeepL deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people.
+- We reverse-engineered the game assets to unpack them for modification. Afterwards we used DeepL deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to contact us with any errors they find so we can patch it out.
 
 ### Will this patch work with the PS4, PSVita or Steam release?
 
