@@ -1,33 +1,17 @@
-{0x002B}	LOAD_STRING	'Rain04#'
-
-{0x00B2}	LOAD_STRING	'Rain.spm'
-
 {0x025B}	SPECIAL_TEXT	0x0	'"Mayu?"'
 
 {0x0281}	LOAD_STRING	'???(Message)'
 {0x0285}	LOAD_CUSTOM_TEXT	0x1	'"Mayu?"'
 
-{0x02A6}	LOAD_STRING	'Menu_Click02'
-
-{0x02DD}	LOAD_STRING	'Pon01'
-
-{0x031C}	SPECIAL_TEXT	0x1	'"It's all a big misunderstanding  "'
+{0x031C}	SPECIAL_TEXT	0x1	'"It's all a big misunderstanding    "'
 
 {0x0342}	LOAD_STRING	'???(Message)'
 {0x0346}	LOAD_CUSTOM_TEXT	0x1	'"It's all a big misunderstanding"' 
-
-{0x0367}	LOAD_STRING	'Menu_Click02'
-
-{0x039E}	LOAD_STRING	'Pon01'
 
 {0x03DD}	SPECIAL_TEXT	0x2	'"Hey, answer me"'
 
 {0x0403}	LOAD_STRING	'???(Message)'
 {0x0407}	LOAD_CUSTOM_TEXT	0x1	'"Hey, answer me"'
-
-{0x0428}	LOAD_STRING	'Menu_Click02'
-
-{0x045F}	LOAD_STRING	'Pon01'
 
 {0x04AE}	LOAD_STRING	'???'
 {0x04B0}	LOAD_STRING	'@v00030033"...Why?"@k'
@@ -43,36 +27,20 @@
 {0x054A}	LOAD_STRING	'???(Message)'
 {0x054E}	LOAD_CUSTOM_TEXT	0x1	'"Just ask Ayna, she'll tell you"'
 
-{0x056F}	LOAD_STRING	'Menu_Click02'
-
-{0x05A6}	LOAD_STRING	'Pon01'
-
 {0x05E5}	SPECIAL_TEXT	0x4	'"Sorry"'
 
 {0x060B}	LOAD_STRING	'???(Message)'
 {0x060F}	LOAD_CUSTOM_TEXT	0x1	'"Sorry"'
-
-{0x0630}	LOAD_STRING	'Menu_Click02'
-
-{0x0667}	LOAD_STRING	'Pon01'
 
 {0x06A6}	SPECIAL_TEXT	0x5	'"I really mean it..."'
 
 {0x06CC}	LOAD_STRING	'???(Message)'
 {0x06D0}	LOAD_CUSTOM_TEXT	0x1	'"I really mean it..."'
 
-{0x06F1}	LOAD_STRING	'Menu_Click02'
-
-{0x0728}	LOAD_STRING	'Pon01'
-
 {0x0767}	SPECIAL_TEXT	0x6	'"Mayu"'
 
 {0x078D}	LOAD_STRING	'???(Message)'
 {0x0791}	LOAD_CUSTOM_TEXT	0x1	'"Mayu"'
-
-{0x07B2}	LOAD_STRING	'Menu_Click02'
-
-{0x07E9}	LOAD_STRING	'Pon01'
 
 {0x0872}	LOAD_STRING	'...'
 
@@ -109,8 +77,6 @@
 
 {0x09AC}	LOAD_STRING	'???'
 {0x09AE}	LOAD_STRING	'@v00030040"...?!"@k'
-
-{0x0A15}	LOAD_STRING	'Rain.spm'
 
 {0x0B39}	LOAD_STRING	'Yui'
 {0x0B3B}	LOAD_STRING	'@v00020280"What's wrong, why are you crying...?"'
@@ -168,8 +134,6 @@
 
 {0x0CBB}	LOAD_STRING	'...What is up with this girl?'
 
-{0x0D47}	LOAD_STRING	'Rain14#'
-
 {0x0E0F}	LOAD_STRING	'Mico calls itself an old homestyle cafe, but to be honest, the weather protection isn't great.'
 
 {0x0E1F}	LOAD_STRING	'Although it doesn't leak, the sound of raindrops hitting the roof is so loud that it seems to be the background music in the restaurant.'
@@ -195,10 +159,6 @@
 {0x0EEF}	LOAD_STRING	'Yui(Message)'
 {0x0EF3}	LOAD_CUSTOM_TEXT	0x1	'"Hey, everyone still here?"'
 
-{0x0F14}	LOAD_STRING	'Menu_Click02'
-
-{0x0F4B}	LOAD_STRING	'Pon01'
-
 {0x0F9A}	LOAD_STRING	'Tatsumi'
 {0x0F9C}	LOAD_STRING	'Hmm? What happened?'
 
@@ -212,36 +172,20 @@
 {0x0FFA}	LOAD_STRING	'Tatsumi(Message)'
 {0x0FFE}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's at Mico"'
 
-{0x101F}	LOAD_STRING	'Menu_Click02'
-
-{0x1056}	LOAD_STRING	'Pon01'
-
-{0x1095}	SPECIAL_TEXT	0x9	'"Okay, I'm headed there now "'
+{0x1095}	SPECIAL_TEXT	0x9	'"Okay, I'm headed there now   "'
 
 {0x10BB}	LOAD_STRING	'Yui(Message)'
 {0x10BF}	LOAD_CUSTOM_TEXT	0x1	'"Okay, I'm headed there now"'
-
-{0x10E0}	LOAD_STRING	'Menu_Click02'
-
-{0x1117}	LOAD_STRING	'Pon01'
 
 {0x1156}	SPECIAL_TEXT	0xa	'"Something wrong?"'
 
 {0x117C}	LOAD_STRING	'Miki(Message)'
 {0x1180}	LOAD_CUSTOM_TEXT	0x1	'"Something wrong?"'
 
-{0x11A1}	LOAD_STRING	'Menu_Click02'
-
-{0x11D8}	LOAD_STRING	'Pon01'
-
 {0x121F}	SPECIAL_TEXT	0xb	'"It's a long story,@nbut I'm bringing a junior girl  "'
 
 {0x1245}	LOAD_STRING	'Yui(Message)'
 {0x1249}	LOAD_CUSTOM_TEXT	0x1	'"It's a long story,@nbut I'm bringing a junior girl"'
-
-{0x126A}	LOAD_STRING	'Menu_Click02'
-
-{0x12A1}	LOAD_STRING	'Pon01'
 
 {0x12F0}	LOAD_STRING	'Tatsumi'
 {0x12F2}	LOAD_STRING	'Junior... Girl...?'
@@ -251,27 +195,15 @@
 {0x131C}	LOAD_STRING	'Miki(Message)'
 {0x1320}	LOAD_CUSTOM_TEXT	0x1	'"Okay, should I run the bath?"'
 
-{0x1341}	LOAD_STRING	'Menu_Click02'
-
-{0x1378}	LOAD_STRING	'Pon01'
-
 {0x13B7}	SPECIAL_TEXT	0xd	'"Yes, thank you!"'
 
 {0x13DD}	LOAD_STRING	'Yui(Message)'
 {0x13E1}	LOAD_CUSTOM_TEXT	0x1	'"Yes, thank you!"'
 
-{0x1402}	LOAD_STRING	'Menu_Click02'
-
-{0x1439}	LOAD_STRING	'Pon01'
-
 {0x1478}	SPECIAL_TEXT	0xe	'"Oh, no problem!"'
 
 {0x149E}	LOAD_STRING	'Miki(Message)'
 {0x14A2}	LOAD_CUSTOM_TEXT	0x1	'"Oh, no problem!"'
-
-{0x14C3}	LOAD_STRING	'Menu_Click02'
-
-{0x14FA}	LOAD_STRING	'Pon01'
 
 {0x1561}	LOAD_STRING	'Chihiro'
 {0x1563}	LOAD_STRING	'@v00040167"She's... soaking wet?"'
@@ -324,8 +256,6 @@
 {0x175B}	LOAD_STRING	'We were both having a cup of coffee and having a moment to ourselves.'
 
 {0x176B}	LOAD_STRING	'Of course, the 'Open' sign was flipped to 'Closed' on the front door.'
-
-{0x178D}	LOAD_STRING	'Door02O'
 
 {0x17D7}	LOAD_STRING	'Miki'
 {0x17D9}	LOAD_STRING	'@v00010193"Sorry to keep you waiting!"'
@@ -402,8 +332,6 @@
 {0x1BCD}	LOAD_STRING	'Miki's Dad'
 {0x1BCF}	LOAD_STRING	'@v00900043"..."'
 
-{0x1BD5}	LOAD_STRING	'Dish03'
-
 {0x1C3D}	LOAD_STRING	'Miki's Dad shakes his head silently at Chihiro, then pours a cup of herbal tea in front of Kotone-chan.'
 
 {0x1C47}	LOAD_STRING	'Kotone'
@@ -442,7 +370,7 @@
 
 {0x1D01}	LOAD_STRING	'So that was the brief summary of the situation as told by Miki and Nakategawa.'
 
-{0x1DB5}	LOAD_STRING	'Ever since she enrolled at Kurigaoka Academy, Kotone-chan - now known to us as Shiino Kotone, made new friends.'
+{0x1DB5}	LOAD_STRING	'Ever since she enrolled at Kurigaoka Academy, Kotone-chan ― now known to us as Shiino Kotone, made new friends.'
 
 {0x1DC5}	LOAD_STRING	'And well, I don't like saying it like this, but... Her friends happen to be the so-called "cool" crowd.'
 
@@ -533,7 +461,7 @@
 {0x204B}	LOAD_STRING	'@v00010201"Hey, don't play with me now."'
 
 {0x20A5}	LOAD_STRING	'Kotone'
-{0x20A7}	LOAD_STRING	'@v00030057"That's why I hate... boys."'
+{0x20A7}	LOAD_STRING	'@v00030057"That's why... I hate boys."'
 
 {0x20B1}	LOAD_STRING	'Chihiro'
 {0x20B3}	LOAD_STRING	'@v00040184"Wow, so you CAN say something other than 'It doesn't concern you'."'
