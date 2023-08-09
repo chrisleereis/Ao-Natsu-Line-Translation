@@ -510,7 +510,7 @@
 {0x147C}	LOAD_STRING	'How did your midterms go last week?'
 
 {0x1486}	LOAD_STRING	'Yui'
-{0x1488}	LOAD_STRING	'@v00020567"O-oh, yeah...@t0260@hYUI_U202BS I guess...not bad?"'
+{0x1488}	LOAD_STRING	'@v00020567"O-oh, yeah...@t0260@hYUI_U202BS I guess... not bad?"'
 
 {0x1498}	LOAD_STRING	'After saying that, she smiles softly, like usual.'
 
@@ -519,12 +519,8 @@
 
 {0x14B4}	LOAD_STRING	'Chihiro whispered in my ear so that she couldn't hear me.'
 
-{0x1516}	LOAD_STRING	'Air03'
-
 {0x152E}	LOAD_STRING	'Miki'
 {0x1530}	LOAD_STRING	'@v00010754"No way, you're top of the class, aren't you?"'
-
-{0x1536}	LOAD_STRING	'Basket02'
 
 {0x1574}	LOAD_STRING	'Yui'
 {0x1576}	LOAD_STRING	'@v00020568"Huh?!@t0130@hYUI_A201AS Eheheh..."'
@@ -535,15 +531,11 @@
 
 {0x15D2}	LOAD_STRING	'As a sign of our closeness, Nakategawa shared her grades with us.'
 
-{0x1604}	LOAD_STRING	'Air03'
-
 {0x161A}	LOAD_STRING	'Tatsumi'
 {0x161C}	LOAD_STRING	'All right...So, 487 points in 5 subjects combined.'
 
 {0x1642}	LOAD_STRING	'Chihiro'
 {0x1644}	LOAD_STRING	'@v00040638"Oh man, Nakategawa's English, Japanese and Math classes make up a better grade overall than all my classes combined..."'
-
-{0x164A}	LOAD_STRING	'Air03'
 
 {0x1662}	LOAD_STRING	'Chihiro cuts and passes the ball to Miki, admitting he is averaging 60 points per class.'
 
@@ -554,8 +546,6 @@
 
 {0x16EF}	LOAD_STRING	'Miki'
 {0x16F1}	LOAD_STRING	'@v00010755"Nah, it's not good to be that sharp, or else you'll become the teacher's pet."'
-
-{0x1706}	LOAD_STRING	'Basket05'
 
 {0x171E}	LOAD_STRING	'Miki's layup is clean and my team with Nakategawa is back on defense.'
 
@@ -592,8 +582,6 @@
 
 {0x1871}	LOAD_STRING	'I cut the pass between Miki and Chihiro.'
 
-{0x1877}	LOAD_STRING	'Air03'
-
 {0x188F}	LOAD_STRING	'And then, I give the ball to the girl next to me, who is also a very nice girl.'
 
 {0x1899}	LOAD_STRING	'Chihiro'
@@ -604,9 +592,5 @@
 
 {0x1914}	LOAD_STRING	'Yui'
 {0x1916}	LOAD_STRING	'@v00020572"Ah...?@t0200@hYUI_A202KM I just want a normal school life!"@k'
-
-{0x1924}	LOAD_STRING	'Air03'
-
-{0x1946}	LOAD_STRING	'Basket02'
 
 {0x195E}	LOAD_STRING	'With that said, Nakategawa's shot landed far in front of the ring.'
