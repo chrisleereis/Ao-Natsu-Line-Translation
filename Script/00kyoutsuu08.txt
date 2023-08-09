@@ -8,7 +8,7 @@
 {0x00DA}	LOAD_STRING	'And the proof is...'
 
 {0x00E4}	LOAD_STRING	'Kotone'
-{0x00E6}	LOAD_STRING	'@v00030175"I was the one who said too much. I'm sorry"@k'
+{0x00E6}	LOAD_STRING	'@v00030175"I was the one who said too much. I'm sorry."@k'
 
 {0x0111}	LOAD_STRING	'Shiino also responded to Chihiro's show of sincerity with her own sincerity.'
 
@@ -153,8 +153,6 @@
 
 {0x06AF}	LOAD_STRING	'Although it's usually not...'
 
-{0x0713}	LOAD_STRING	'Basket02#'
-
 {0x0745}	LOAD_STRING	'Miki'
 {0x0747}	LOAD_STRING	'@v00010247"The mystery thickens!"'
 
@@ -170,8 +168,6 @@
 
 {0x0801}	LOAD_STRING	'They had differing opinions even though the situation affected them the same.'
 
-{0x0809}	LOAD_STRING	'Basket02#'
-
 {0x087B}	LOAD_STRING	'Chihiro'
 {0x087D}	LOAD_STRING	'@v00040253"So, Yui, what are your findings?@hCHIHIRO_0102MJ Hup!"@k'
 
@@ -179,10 +175,6 @@
 
 {0x08CF}	LOAD_STRING	'Miki'
 {0x08D1}	LOAD_STRING	'@v00010248"Hehe, that is such a cute way of putting it, Chi-kun."'
-
-{0x08E1}	LOAD_STRING	'Air03'
-
-{0x0933}	LOAD_STRING	'Basket06'
 
 {0x094B}	LOAD_STRING	'Miki's shot draws a beautiful parabola and is sucked into the goal.'
 
@@ -198,8 +190,6 @@
 {0x09D9}	LOAD_STRING	'Tatsumi'
 {0x09DB}	LOAD_STRING	'Don't say that...'
 
-{0x09E1}	LOAD_STRING	'Air03'
-
 {0x09F9}	LOAD_STRING	'I go to pass the ball to Chihiro.'
 
 {0x0A03}	LOAD_STRING	'Chihiro'
@@ -210,8 +200,6 @@
 
 {0x0A1B}	LOAD_STRING	'Chihiro'
 {0x0A1D}	LOAD_STRING	'@v00040256"Nezu-senpai, yeah. What did you do to piss him off?"'
-
-{0x0A9F}	LOAD_STRING	'Basket01#'
 
 {0x0ABB}	LOAD_STRING	'Chihiro starts dribbling with a nasty smile on his face as Miki and I take turns on the court.'
 
@@ -233,19 +221,17 @@
 {0x0B07}	LOAD_STRING	'@v00010254"I bet he just comes to school to make out with all the juniors."'
 
 {0x0B11}	LOAD_STRING	'Chihiro'
-{0x0B13}	LOAD_STRING	'@v00040258"He seems like such a simple guy――@t0360@h Hup!"@k'
+{0x0B13}	LOAD_STRING	'@v00040258"He seems like such a simple guy―@t0360@h Hup!"@k'
 
 {0x0B76}	LOAD_STRING	'She tries to steal the ball from Chihiro, but is easily dodged.'
 
 {0x0B80}	LOAD_STRING	'Miki'
-{0x0B82}	LOAD_STRING	'@v00010255"I was in the middle of gathering information when I remembered this:"'
+{0x0B82}	LOAD_STRING	'@v00010255"I was in the middle of gathering information when I remembered this:'
 
 {0x0B8C}	LOAD_STRING	'Miki'
-{0x0B8E}	LOAD_STRING	'@v00010256"Right when I first enrolled, Nezu-senpai also gave me dirty looks."'
+{0x0B8E}	LOAD_STRING	'@v00010256 right when I first enrolled, Nezu-senpai also gave me dirty looks."'
 
 {0x0BBE}	LOAD_STRING	'Miki continues her story, but when we hear it, both Chihiro and I stop moving at the same time.'
-
-{0x0BCE}	LOAD_STRING	'Basket02'
 
 {0x0BE6}	LOAD_STRING	'The ball leaves Chihiro's hand and rolls to Miki's feet.'
 
@@ -280,7 +266,7 @@
 {0x0D3B}	LOAD_STRING	'@v00030186"He looks a little scary, but he compliments my hair and my clothes.@t0720@hKOTONE_U101NK I thought he was a kind senior..."'
 
 {0x0D45}	LOAD_STRING	'Chihiro'
-{0x0D47}	LOAD_STRING	'@v00040260"Haha, so he fooled you."'
+{0x0D47}	LOAD_STRING	'@v00040260"Hah, so he fooled you."'
 
 {0x0DA1}	LOAD_STRING	'Miki'
 {0x0DA3}	LOAD_STRING	'@v00010260"And it so happens that you left that group."'
@@ -304,7 +290,7 @@
 {0x0E07}	LOAD_STRING	'@v00010262"Bingo! This is why we call you 'perceptive,' Tak-kun!"'
 
 {0x0E59}	LOAD_STRING	'Chihiro'
-{0x0E5B}	LOAD_STRING	'@v00040261"What the hell, that's totally――"'
+{0x0E5B}	LOAD_STRING	'@v00040261"What the hell, that's totally―"'
 
 {0x0E87}	LOAD_STRING	'Chihiro stops mid-sentence.'
 
@@ -353,8 +339,6 @@
 
 {0x104F}	LOAD_STRING	'If only I hadn't crossed paths with Chihiro yesterday...'
 
-{0x1057}	LOAD_STRING	'Basket02#'
-
 {0x10A5}	LOAD_STRING	'Tatsumi'
 {0x10A7}	LOAD_STRING	'Well, what happens, happens.'
 
@@ -377,11 +361,7 @@
 {0x1125}	LOAD_STRING	'Tatsumi'
 {0x1127}	LOAD_STRING	'But it's not like I'm doing any real harm...'
 
-{0x1137}	LOAD_STRING	'Air03'
-
 {0x1167}	LOAD_STRING	'The shot I released as I said that, draws a beautiful parabolic line just like Miki's earlier.'
-
-{0x116D}	LOAD_STRING	'Basket01'
 
 {0x11B9}	LOAD_STRING	'And yet again, the ring stood between me and my goal.'
 
