@@ -22,7 +22,7 @@
 {0x01A2}	LOAD_STRING	'@v00040642"Now that Mika went off to live in Tokyo, he's spending all his time pampering Miki..."'
 
 {0x01AC}	LOAD_STRING	'Kotone'
-{0x01AE}	LOAD_STRING	'@v00030393"To be honest, it's not quite what it looks like."'
+{0x01AE}	LOAD_STRING	'@v00030393"To be honest, she doesn't seem like she's all that pampered."'
 
 {0x01B8}	LOAD_STRING	'Chihiro'
 {0x01BA}	LOAD_STRING	'@v00040643"Even so, the old man can be pretty unnerving."'
@@ -57,7 +57,7 @@
 {0x02DA}	LOAD_STRING	'Nakategawa muttered with a sigh.'
 
 {0x02E4}	LOAD_STRING	'Yui'
-{0x02E6}	LOAD_STRING	'@v00020574"It's like your father is your best friend, it's an ideal parent-child relationship.@t0680@hYUI_A102KN I wonder what that's like..."'
+{0x02E6}	LOAD_STRING	'@v00020574"It's like he is your best friend, it's an ideal parent-child relationship.@t0680@hYUI_A102KN In comparison, my father..."'
 
 {0x02F4}	LOAD_STRING	'Tatsumi'
 {0x02F6}	LOAD_STRING	'Nah, I think Nakategawa's father is nice enough.'
@@ -92,7 +92,7 @@
 {0x03B2}	LOAD_STRING	'@v00030398"...Isn't that what all parents tell their kids?"'
 
 {0x03BC}	LOAD_STRING	'Miki'
-{0x03BE}	LOAD_STRING	'@v00010763"Koto-chan... Yui-chan is always told that if she doesn't become the valedictorian, she will be sent back to Shichiyou."'
+{0x03BE}	LOAD_STRING	'@v00010763"Koto-chan... Yui-chan is always told that if she doesn't become the top student, she will be sent back to Shichiyou."'
 
 {0x03CE}	LOAD_STRING	'Shiino stops moving.'
 
@@ -275,7 +275,7 @@
 {0x0AE3}	LOAD_STRING	'I guess it would be something that "Crosses the line."'
 
 {0x0AED}	LOAD_STRING	'Miki'
-{0x0AEF}	LOAD_STRING	'@v00010773"Oh, I'm crossing the line, hmm...!"'
+{0x0AEF}	LOAD_STRING	'@v00010773"Ah, crossing the line... Mhm..."'
 
 {0x0AF9}	LOAD_STRING	'Chihiro'
 {0x0AFB}	LOAD_STRING	'@v00040652"Y-yeah..."'
@@ -298,7 +298,7 @@
 {0x0B59}	LOAD_STRING	'Kotone'
 {0x0B5B}	LOAD_STRING	'@v00030411"...Nah, nevermind.@t0290@hKOTONE_A101TN I think I might be onto something about the senpais, though."'
 
-{0x0B6B}	LOAD_STRING	'Shiino looked curious, yet confident.'
+{0x0B6B}	LOAD_STRING	'She was slightly surprised, but looked satisfied.'
 
 {0x0BA5}	LOAD_STRING	'Yui'
 {0x0BA7}	LOAD_STRING	'@v00020593"...I think Tatsumi is the one who was onto something."'
@@ -327,7 +327,7 @@
 {0x0CD1}	LOAD_STRING	'@v00020596"So, that means that crossing the line is what makes it pure after all!"'
 
 {0x0CDB}	LOAD_STRING	'Yui'
-{0x0CDD}	LOAD_STRING	'@v00020597"If you love each other and sincerely care for each other,@t0470@hYUI_A102IK2 then that's the art of making love, isn't it?"'
+{0x0CDD}	LOAD_STRING	'@v00020597"If you love each other and sincerely care for each other,@t0470@hYUI_A102IK2 then you can say that sexual relationship is pure, can't you?"'
 
 {0x0CE7}	LOAD_STRING	'Miki'
 {0x0CE9}	LOAD_STRING	'@v00010775"Yui-chan... you're talking too loudly..."'
@@ -338,7 +338,7 @@
 {0x0D05}	LOAD_STRING	'@v00030412"Um, Nakategawa-senpai... I think you're splitting hairs..."'
 
 {0x0D65}	LOAD_STRING	'Yui'
-{0x0D67}	LOAD_STRING	'@v00020598"~The darling... of Loving Vows~"'
+{0x0D67}	LOAD_STRING	'@v00020598"It's just like 'The Winged Alliance' of loving vows!'"'
 
 {0x0D75}	LOAD_STRING	'Tatsumi'
 {0x0D77}	LOAD_STRING	'Uh...'
