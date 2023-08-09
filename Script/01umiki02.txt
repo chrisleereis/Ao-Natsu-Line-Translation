@@ -26,8 +26,6 @@
 
 {0x0148}	LOAD_STRING	'With that said, Miki's chest is beating.'
 
-{0x014E}	LOAD_STRING	'Door08O'
-
 {0x01A9}	LOAD_STRING	'The classroom door opened and in came the homeroom teacher.'
 
 {0x01B9}	LOAD_STRING	'And then he took a breath, as usual, and then...'
@@ -250,8 +248,6 @@
 {0x0B97}	LOAD_STRING	'Miki'
 {0x0B99}	LOAD_STRING	'@v00010543"Chi-kun. Don't look higher than me!"@k'
 
-{0x0BA7}	LOAD_STRING	'Poko01'
-
 {0x0BD6}	LOAD_STRING	'Miki jumps lightly and lightly hits Chihiro's head.'
 
 {0x0BE0}	LOAD_STRING	'Chihiro'
@@ -297,8 +293,6 @@
 {0x0CAA}	LOAD_STRING	'@v00040513"Hahahah, that's right Tatsumi, you lost, so just obey."'
 
 {0x0CBA}	LOAD_STRING	'Chihiro already had a nasty smile on his face as he realized that he wasn't going to take the fall here.'
-
-{0x0CC0}	LOAD_STRING	'Nuno02'
 
 {0x0D06}	LOAD_STRING	'Tatsumi'
 {0x0D08}	LOAD_STRING	'...No problem.'
@@ -499,10 +493,6 @@
 {0x1575}	LOAD_STRING	'Kotone'
 {0x1577}	LOAD_STRING	'@v00030381"No, I just don't get it. I definitely don't wanna ride on anyone's shoulders...@t0530@hKOTONE_A102KM Oh, it's starting to rain..."@k'
 
-{0x157F}	LOAD_STRING	'Rain09#'
-
-{0x15A4}	LOAD_STRING	'Rain.spm'
-
 {0x16C8}	LOAD_STRING	'Shiino's feet stop.'
 
 {0x16D2}	LOAD_STRING	'Miki'
@@ -514,14 +504,10 @@
 {0x16EA}	LOAD_STRING	'Kotone'
 {0x16EC}	LOAD_STRING	'@v00030382"Really? That's too bad."'
 
-{0x16F2}	LOAD_STRING	'Nuno01'
-
 {0x170A}	LOAD_STRING	'Shiino takes out a fine flower-patterned umbrella as she says so.'
 
 {0x1779}	LOAD_STRING	'Yui'
 {0x177B}	LOAD_STRING	'@v00020513"Oh, Kotone-chan's umbrella is so cute!"'
-
-{0x1781}	LOAD_STRING	'Nuno01'
 
 {0x1799}	LOAD_STRING	'Nakategawa takes out an umbrella with a lace pattern that looks expensive.'
 
@@ -532,8 +518,6 @@
 {0x180D}	LOAD_STRING	'Speak for yourself.'
 
 {0x181D}	LOAD_STRING	'I just so happened to be watching the forecast recently.'
-
-{0x1823}	LOAD_STRING	'Nuno01'
 
 {0x183B}	LOAD_STRING	'I take out a cheap folding compact umbrella out of my bag.'
 
@@ -546,8 +530,6 @@
 {0x1861}	LOAD_STRING	'Tatsumi'
 {0x1863}	LOAD_STRING	'Nah, I'm not gonna betray you guys.'
 
-{0x1869}	LOAD_STRING	'Nuno02'
-
 {0x187B}	LOAD_STRING	'Miki'
 {0x187D}	LOAD_STRING	'@v00010571"Alright, then, the three of us should get under this umbrella."'
 
@@ -555,8 +537,6 @@
 {0x188D}	LOAD_STRING	'Wow, this thing is pretty small...'
 
 {0x189D}	LOAD_STRING	'But Miki ignores my protests and tries to force her way into the umbrella.'
-
-{0x18CF}	LOAD_STRING	'Nuno01'
 
 {0x18E1}	LOAD_STRING	'Chihiro'
 {0x18E3}	LOAD_STRING	'@v00040523"Yeah, it's not that far to Mico."'
@@ -590,8 +570,6 @@
 {0x1A14}	LOAD_STRING	'@v00030385"I'm not embarrassed!"'
 
 {0x1A34}	LOAD_STRING	'We three decide to follow them out of the elevator.'
-
-{0x1A8C}	LOAD_STRING	'Rain.spm'
 
 {0x1BE3}	LOAD_STRING	'Chihiro'
 {0x1BE5}	LOAD_STRING	'@v00040524"Wow, that's really narrow."'
