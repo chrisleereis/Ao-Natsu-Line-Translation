@@ -135,7 +135,7 @@
 {0x067B}	LOAD_STRING	'And then...'
 
 {0x0723}	LOAD_STRING	'Miki'
-{0x0725}	LOAD_STRING	'@v00010536"Wow, wow, wow! I can see all the way across the gym!"'
+{0x0725}	LOAD_STRING	'@v00010536"Wow, wow! I can see all the way across the gym!"'
 
 {0x0735}	LOAD_STRING	'Miki is filled with childlike wonder looking at the expansive view.'
 
@@ -163,12 +163,12 @@
 
 {0x0861}	LOAD_STRING	'All I did was tell a member of the mountaineering club in the same class, "Miki said she wanted to see the clubroom of the mountaineering club, so could you lend me the key?"'
 
-{0x0871}	LOAD_STRING	'Maybe this because this mountaineering club member is getting all excited about one of the most popular girls, Miki Kohsaka, visiting his clubroom.'
+{0x0871}	LOAD_STRING	'Maybe this is because this mountaineering club member is getting all excited about one of the most popular girls, Miki Kohsaka, visiting his clubroom.'
 
 {0x0881}	LOAD_STRING	'I'm not going to mention it any further because of his honor and all that.'
 
 {0x088F}	LOAD_STRING	'Tatsumi'
-{0x0891}	LOAD_STRING	'Chihiro is the one who used to go shopping for pudding.'
+{0x0891}	LOAD_STRING	'Chihiro is the one who is used to going shopping for pudding.'
 
 {0x08A1}	LOAD_STRING	'What Miki wanted was not sold at the school.'
 
@@ -182,7 +182,7 @@
 
 {0x092D}	LOAD_STRING	'With a pompous attitude, Miki accepts the convenience store's limited edition 'Kiln Baked Toro Toro Custard Pudding'.'
 
-{0x0969}	LOAD_STRING	'The seaside convenience store is in the opposite direction from the school gate, so it would be a very long way to go from the school gate to the convenience store without taking a shortcut.'
+{0x0969}	LOAD_STRING	'The seaside convenience store is in the opposite direction from the school gate, so it would be a very long way without taking a shortcut.'
 
 {0x0979}	LOAD_STRING	'The way back home is also hilly, so stopping by the convenience store is quite the pain, even during lunch break.'
 
@@ -281,7 +281,7 @@
 {0x0C76}	LOAD_STRING	'Although somehow, I did understand what she was asking of me.'
 
 {0x0C80}	LOAD_STRING	'Miki'
-{0x0C82}	LOAD_STRING	'@v00010548"If you get my drift, maybe we can discuss it?"'
+{0x0C82}	LOAD_STRING	'@v00010548"If you get my drift, then we don't have to discuss it."'
 
 {0x0C90}	LOAD_STRING	'Tatsumi'
 {0x0C92}	LOAD_STRING	'What? You seriously want me to... carry you on my shoulders?'
