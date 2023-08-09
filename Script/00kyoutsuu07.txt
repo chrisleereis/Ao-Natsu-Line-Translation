@@ -12,7 +12,7 @@
 {0x016B}	LOAD_STRING	'@v00040220"Huh? You started this whole dancing thing, didn't you?"'
 
 {0x0175}	LOAD_STRING	'Chihiro'
-{0x0177}	LOAD_STRING	'@v00040221"So why are you all, 'There's no point in doing it, because Tatsumi and Nakategawa suck at it' all of a sudden?"'
+{0x0177}	LOAD_STRING	'@v00040221"So why are you all, 'There's no point in doing it, because Tatsumi and Nakategawa are clumsy' all of a sudden?"'
 
 {0x0187}	LOAD_STRING	'The problem is the awkward atmosphere between Chihiro and Shiino.'
 
@@ -401,7 +401,7 @@
 {0x1239}	LOAD_STRING	'Tatsumi'
 {0x123B}	LOAD_STRING	'I see. For what it's worth... I didn't think that about you.'
 
-{0x12F7}	LOAD_STRING	'So I'm just going to speak from honesty.'
+{0x12F7}	LOAD_STRING	'So I'm just going to speak honestly.'
 
 {0x1307}	LOAD_STRING	'I shouldn't embellish my words, especially not to Shiino, who is trying to let out her grievances.'
 
@@ -416,7 +416,7 @@
 {0x1497}	LOAD_STRING	'Kotone'
 {0x1499}	LOAD_STRING	'@v00030138"Of course, my friends also feel the same as I do. Talking about novels and comics in the corner of the classroom...@t1210@hKOTONE_A101EG It's common, isn't it?"'
 
-{0x14A9}	LOAD_STRING	'After saying that much, I noticed Shiino gave a small laugh.'
+{0x14A9}	LOAD_STRING	'After saying that much, I noticed Shiino smiled a little.'
 
 {0x14B3}	LOAD_STRING	'Kotone'
 {0x14B5}	LOAD_STRING	'@v00030139"I wanted to change myself up, so I tried a lot of things. I studied makeup, went to famous beauty salons, and listened to trendy music."'
@@ -522,7 +522,7 @@
 {0x19C4}	LOAD_STRING	'Well, anyway... Cool, uncool, that's up to the people around the school, isn't it?'
 
 {0x19D2}	LOAD_STRING	'Tatsumi'
-{0x19D4}	LOAD_STRING	'Now and then, Shiino is still Shiino. She tries hard to change, fails, and sometimes bites her seniors.'
+{0x19D4}	LOAD_STRING	'Now and then, you are still you. You try hard to change, fail, and sometimes bite your seniors.'
 
 {0x19DE}	LOAD_STRING	'Kotone'
 {0x19E0}	LOAD_STRING	'@v00030155"You think so...?"'
@@ -607,13 +607,13 @@
 {0x1CDC}	LOAD_STRING	'Whoa... I feel like I'm letting loose.'
 
 {0x1CE6}	LOAD_STRING	'Kotone'
-{0x1CE8}	LOAD_STRING	'@v00030163"Senpai is a second-year, so are you going to leave them alone too?"'
+{0x1CE8}	LOAD_STRING	'@v00030163"Senpai is a second-year, so are you going to leave me alone too?"'
 
 {0x1CF6}	LOAD_STRING	'Tatsumi'
 {0x1CF8}	LOAD_STRING	'It's not like that, but... isn't that weird...?'
 
 {0x1D52}	LOAD_STRING	'Kotone'
-{0x1D54}	LOAD_STRING	'@v00030164"Hah... Well, okay. I got your compliment, so I got the message."'
+{0x1D54}	LOAD_STRING	'@v00030164"Hah... Well, okay. I got what you wanted to say with your compliment."'
 
 {0x1D62}	LOAD_STRING	'Tatsumi'
 {0x1D64}	LOAD_STRING	'Y-yeah. I admire fashionable people like you and Nakategawa, so why don't you take the time to teach me more?'
@@ -653,7 +653,7 @@
 {0x1E10}	LOAD_STRING	'@v00030169"..."'
 
 {0x1E1E}	LOAD_STRING	'Tatsumi'
-{0x1E20}	LOAD_STRING	'Well, it doesn't matter what the circumstances are right now. You can choose to be whichever Shiino you want to be.'
+{0x1E20}	LOAD_STRING	'Well, it doesn't matter what the circumstances are right now. You can choose to be whoever you want.'
 
 {0x1E30}	LOAD_STRING	'Who to associate with and who to distance yourself from. That choice is an important one in life.'
 
@@ -677,7 +677,7 @@
 {0x1EA8}	LOAD_STRING	'So, for a little longer...'
 
 {0x1EB6}	LOAD_STRING	'Tatsumi'
-{0x1EB8}	LOAD_STRING	'Will you stay with me, at least until the end of summer?'
+{0x1EB8}	LOAD_STRING	'Will you stay with us, at least until the end of summer?'
 
 {0x1EDC}	LOAD_STRING	'The moment I say those words, Shiino's feet stop.'
 
@@ -699,10 +699,10 @@
 {0x1FAB}	LOAD_STRING	'I guess it's a sign that she's trying to get back on her feet, if not completely back on her feet already.'
 
 {0x1FB9}	LOAD_STRING	'Tatsumi'
-{0x1FBB}	LOAD_STRING	'So, it's nice to finally meet you.'
+{0x1FBB}	LOAD_STRING	'So, it's good to have you back.'
 
 {0x1FC5}	LOAD_STRING	'Kotone'
-{0x1FC7}	LOAD_STRING	'@v00030174"Yes, nice to meet you too..."'
+{0x1FC7}	LOAD_STRING	'@v00030174"Yes, thank you..."'
 
 {0x1FD7}	LOAD_STRING	'And surely one day she will choose.'
 
