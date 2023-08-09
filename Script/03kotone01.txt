@@ -8,7 +8,7 @@
 {0x0135}	LOAD_STRING	'Kotone'
 {0x0137}	LOAD_STRING	'@v00030532"What is it? I'm busy, stop bugging me."'
 
-{0x0147}	LOAD_STRING	'I get a direct reply.'
+{0x0147}	LOAD_STRING	'I get a cold reply.'
 
 {0x0157}	LOAD_STRING	'I feel like I'm not getting through to her.'
 
@@ -61,7 +61,7 @@
 {0x0350}	LOAD_STRING	'As Nakategawa's voice draws me in, my vision falls on Miki and Chihiro.'
 
 {0x035A}	LOAD_STRING	'Chihiro'
-{0x035C}	LOAD_STRING	'@v00040722"Huh? Oh hey, Tatsumi, you're in the broadcasting department, right?"'
+{0x035C}	LOAD_STRING	'@v00040722"Huh? Oh hey, Tatsumi, you're in the broadcasting club, right?"'
 
 {0x036C}	LOAD_STRING	'He must've thought of that when he caught me looking at them.'
 
@@ -74,7 +74,7 @@
 {0x0398}	LOAD_STRING	'@v00040723"Oh yeah, you sure about that?"'
 
 {0x03A2}	LOAD_STRING	'Miki'
-{0x03A4}	LOAD_STRING	'@v00010856"Tak-kun, you shouldn't abandon your duties!"'
+{0x03A4}	LOAD_STRING	'@v00010856"Tak-kun, you shouldn't neglect your duties!"'
 
 {0x03B4}	LOAD_STRING	'There's a reason for all of this.'
 
@@ -87,22 +87,22 @@
 {0x0449}	LOAD_STRING	'Nakategawa stands up after raising her hand.'
 
 {0x0453}	LOAD_STRING	'Yui'
-{0x0455}	LOAD_STRING	'@v00020783"So they're lovers!"'
+{0x0455}	LOAD_STRING	'@v00020783"So they're lovers! And you wanted to give them some time alone!"'
 
 {0x0463}	LOAD_STRING	'Tatsumi'
-{0x0465}	LOAD_STRING	'Not quite, you're getting closer.'
+{0x0465}	LOAD_STRING	'Not quite, but you're getting closer.'
 
 {0x04E7}	LOAD_STRING	'Miki'
-{0x04E9}	LOAD_STRING	'@v00010857"Is he asking her on a date?"'
+{0x04E9}	LOAD_STRING	'@v00010857"Is he trying to become closer to her?"'
 
 {0x04F7}	LOAD_STRING	'Tatsumi'
-{0x04F9}	LOAD_STRING	'Something like that. He's been interested in her for a while, and I think he convinced her to enroll in our school.'
+{0x04F9}	LOAD_STRING	'Something like that. He's been interested in her for a while, and I think he followed her and enrolled in the same school.'
 
 {0x0503}	LOAD_STRING	'Chihiro'
-{0x0505}	LOAD_STRING	'@v00040724"Huh... Okay, I'll write it up for you. So, you became a member of the broadcasting committee?"'
+{0x0505}	LOAD_STRING	'@v00040724"Huh... Okay, now I get it. So that's why he became a member of broadcasting club?"'
 
 {0x0513}	LOAD_STRING	'Tatsumi'
-{0x0515}	LOAD_STRING	'I only did it so he could have this opportunity.'
+{0x0515}	LOAD_STRING	'He only did it so he could have this opportunity.'
 
 {0x0525}	LOAD_STRING	'I admire his energy, even though he's only a year younger.'
 
@@ -115,7 +115,7 @@
 {0x0551}	LOAD_STRING	'She does a twirl and smiles at me.'
 
 {0x05C4}	LOAD_STRING	'Kotone'
-{0x05C6}	LOAD_STRING	'@v00030536"Oikawa-senpai... You're on the broadcasting committee?"'
+{0x05C6}	LOAD_STRING	'@v00030536"Oikawa-senpai... You're in the broadcasting club?"'
 
 {0x05D6}	LOAD_STRING	'Shiino also gives me a surprising look.'
 
@@ -189,7 +189,7 @@
 {0x088F}	LOAD_STRING	'Miki'
 {0x0891}	LOAD_STRING	'@v00010863"Got it. By the way, that was fun, wasn't it?"'
 
-{0x08A1}	LOAD_STRING	'Apparently, Miki has good glasses.'
+{0x08A1}	LOAD_STRING	'Apparently, Miki has good good eye for things like this.'
 
 {0x08B1}	LOAD_STRING	'I can't tell you how happy it makes me to know that someone likes a work I recommended.'
 
