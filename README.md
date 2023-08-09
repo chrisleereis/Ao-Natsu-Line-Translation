@@ -4,12 +4,12 @@ Original game developed by GIGA, published by [Entergram](https://www.entergram.
 
 ## About the Game
 - Published by [Entergram](https://www.entergram.co.jp/) on [Nintendo eShop](https://store-jp.nintendo.com/list/software/70010000044622.html) on Feb 24, 2022
-- The final software of the development studio GIGA<sup>rest in peace</sup>
+- The final software made by the development studio GIGA<sup>rest in peace</sup>
 
 ## Requirements
 
-- Aonatsu Line for Nintendo Switch
-- Either the full retail release or the demo version can be used
+- Aonatsu Line Demo Version for Nintendo Switch
+- Retail version also works, but so far only the content found in the demo will be translated.
 
 
 ## Installation
@@ -57,3 +57,9 @@ Blue Overture will continue developing the English language patch of Aonatsu Lin
 
 - [Nintendo eShop](https://store-jp.nintendo.com/list/software/70010000044622.html)
 - [Play Asia](https://www.play-asia.com/aonatsu-line/13/70f0zz)
+
+## Tools Used
+
+- [DeepL](https://www.deepl.com/en/whydeepl)
+- [Yuzu](https://yuzu-emu.org/)
+- [GIMP](https://www.gimp.org/)
