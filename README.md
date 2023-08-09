@@ -5,7 +5,8 @@ Original game developed by GIGA, published by [Entergram](https://www.entergram.
 ## About the Game
 - Published by [Entergram](https://www.entergram.co.jp/) on [Nintendo eShop](https://store-jp.nintendo.com/list/software/70010000044622.html) on Feb 24, 2022
 - The final software made by the development studio GIGA<sup>rest in peace</sup>
-
+### Blurb, from Play Asia Store
+- Tatsumi and his childhood friends Miki and Chihiro talked every day about what they would do during the upcoming summer vacation. By chance, they befriended the overly-honest ojou-sama Yui, who transferred to their school since she admired the co-education system, as well as kouhai Kotone, who had failed to make lasting friendships after trying too hard to fit in. This new group of five friends (?) began to plan for a memorable bittersweet summer vacation that happens only once in a lifetime.
 ## Requirements
 
 - Aonatsu Line Demo Version for Nintendo Switch
