@@ -142,8 +142,6 @@
 {0x073B}	LOAD_STRING	'Chihiro'
 {0x073D}	LOAD_STRING	'@v00040278"Looks like it's gonna rain... So let's get started."'
 
-{0x0743}	LOAD_STRING	'Air03'
-
 {0x076B}	LOAD_STRING	'Chihiro begins by passing the ball.'
 
 {0x0779}	LOAD_STRING	'Tatsumi'
@@ -156,8 +154,6 @@
 
 {0x080C}	LOAD_STRING	'Tatsumi'
 {0x080E}	LOAD_STRING	'Don't hold back.'
-
-{0x0816}	LOAD_STRING	'Basket01#'
 
 {0x0862}	LOAD_STRING	'After saying that, I start dribbling and run towards the goal.'
 
@@ -172,8 +168,6 @@
 
 {0x08CE}	LOAD_STRING	'He stops dead in his tracks and leaps straight upwards, using his knees like springs.'
 
-{0x0906}	LOAD_STRING	'Air03'
-
 {0x091E}	LOAD_STRING	'Don't shoot the ball too hard, just release softly.'
 
 {0x09C4}	LOAD_STRING	'Tatsumi'
@@ -181,14 +175,10 @@
 
 {0x09D6}	LOAD_STRING	'I mutter quietly and imagine the sight of the ball being sucked into the basket...'
 
-{0x09DC}	LOAD_STRING	'Basket01'
-
 {0x09F2}	LOAD_STRING	'Tatsumi'
 {0x09F4}	LOAD_STRING	'Huh...?'
 
 {0x0A04}	LOAD_STRING	'It was just like I envisioned. By every calculation I made, this should have been a perfect shot.'
-
-{0x0A0A}	LOAD_STRING	'Basket02'
 
 {0x0A22}	LOAD_STRING	'And yet, the ball bounced off the ring and rolled onto the ground.'
 
@@ -215,7 +205,7 @@
 {0x0B69}	LOAD_STRING	'@v00030198"Is that so...?"'
 
 {0x0B73}	LOAD_STRING	'Miki'
-{0x0B75}	LOAD_STRING	'@v00010274"I guess the problem is the he rarely gets 'in the zone,'@t0440@hMIKI_A101AS Ahaha..."'
+{0x0B75}	LOAD_STRING	'@v00010274"I guess the problem is the he rarely gets 'in the zone.'@t0440@hMIKI_A101AS Ahaha..."'
 
 {0x0B7F}	LOAD_STRING	'Kotone'
 {0x0B81}	LOAD_STRING	'@v00030199"I'm sorry..."'
@@ -223,11 +213,9 @@
 {0x0B91}	LOAD_STRING	'Shiino was staring at me while frowning painfully.'
 
 {0x0B9F}	LOAD_STRING	'Tatsumi'
-{0x0BA1}	LOAD_STRING	'Nah, don't worry about it. You had nothing to do with it, Shiino――'
+{0x0BA1}	LOAD_STRING	'Nah, don't worry about it. You had nothing to do with it, Shiino―'
 
 {0x0BB1}	LOAD_STRING	'As I was trying to console Shiino...'
-
-{0x0BCD}	LOAD_STRING	'Vib01#'
 
 {0x0C41}	LOAD_STRING	'Kotone'
 {0x0C43}	LOAD_STRING	'@v00030200"?!"'
@@ -261,7 +249,7 @@
 {0x0D85}	LOAD_STRING	'@v00040284"Yeah? Well, don't get mad at me. You should know all too well that you're a senior who doesn't deserve respect, don't you?"'
 
 {0x0D8F}	LOAD_STRING	'Chihiro'
-{0x0D91}	LOAD_STRING	'@v00040285"So where―― Ahaha, everything, man."'
+{0x0D91}	LOAD_STRING	'@v00040285"So where― Ahaha, everything, man."'
 
 {0x0D9B}	LOAD_STRING	'Chihiro'
 {0x0D9D}	LOAD_STRING	'@v00040286"Oh, my bad. It's not about disrespecting you as a senior, you're not even respectable as a human being."'
@@ -275,8 +263,6 @@
 
 {0x0DD7}	LOAD_STRING	'Chihiro'
 {0x0DD9}	LOAD_STRING	'@v00040287"Yo, wait..."'
-
-{0x0DDF}	LOAD_STRING	'Button01'
 
 {0x0DF7}	LOAD_STRING	'Chihiro looks at us three sitting on the bench, but reluctantly switches to speakerphone.'
 
@@ -327,7 +313,7 @@
 {0x0F45}	LOAD_STRING	'I'm not trying to take Shiino away. You're just complaining about being stolen from.'
 
 {0x0F53}	LOAD_STRING	'Nezu'
-{0x0F55}	LOAD_STRING	'@v00900062"If you knew about that――"'
+{0x0F55}	LOAD_STRING	'@v00900062"If you knew about that―"'
 
 {0x0F63}	LOAD_STRING	'Tatsumi'
 {0x0F65}	LOAD_STRING	'So, I have a compromise.'
@@ -598,10 +584,6 @@
 
 {0x1A1C}	LOAD_STRING	'And for the first time, I go up against an opponent I could never beat.'
 
-{0x1A5B}	LOAD_STRING	'Rain.spm'
-
-{0x1B3F}	LOAD_STRING	'Rain01#'
-
 {0x1B9B}	LOAD_STRING	'Tatsumi'
 {0x1B9D}	LOAD_STRING	'Huff... Huff...'
 
@@ -631,8 +613,6 @@
 {0x1C5B}	LOAD_STRING	'Tatsumi'
 {0x1C5D}	LOAD_STRING	'Still, I can't let up yet...'
 
-{0x1C65}	LOAD_STRING	'Basket01#'
-
 {0x1C9D}	LOAD_STRING	'Muttering to himself, Chihiro looks at me for an opening.'
 
 {0x1CAD}	LOAD_STRING	'He changes the rhythm of his dribble and begins to fake me out with his movements.'
@@ -653,8 +633,6 @@
 
 {0x1D49}	LOAD_STRING	'I can finally chart a path at a straight shot, with nothing between me and the basket.'
 
-{0x1D59}	LOAD_STRING	'Air03'
-
 {0x1D87}	LOAD_STRING	'Tatsumi'
 {0x1D89}	LOAD_STRING	'!!'
 
@@ -664,10 +642,6 @@
 {0x1DA5}	LOAD_STRING	'@v00030207"...!"'
 
 {0x1DB5}	LOAD_STRING	'I could feel Shiino let out an inaudible scream.'
-
-{0x1DEC}	LOAD_STRING	'Rain.spm'
-
-{0x1F6C}	LOAD_STRING	'Basket02'
 
 {0x1F84}	LOAD_STRING	'A parabolic ball falls to the ground without hitting the ring.'
 
@@ -695,7 +669,7 @@
 {0x2060}	LOAD_STRING	'All that's left is to... Fine-tune it.'
 
 {0x206A}	LOAD_STRING	'Chihiro'
-{0x206C}	LOAD_STRING	'@v00040299"But, Tatsumi... No matter how hard you try,@t0250@hCHIHIRO_A102KM3 a three-point in this rain is――!"'
+{0x206C}	LOAD_STRING	'@v00040299"But, Tatsumi... No matter how hard you try,@t0250@hCHIHIRO_A102KM3 a three-point in this rain is―!"'
 
 {0x207C}	LOAD_STRING	'I stop him from finishing his sentence.'
 
@@ -709,17 +683,9 @@
 
 {0x20EB}	LOAD_STRING	'I muttered, as I made my shot.'
 
-{0x2152}	LOAD_STRING	'Rain.spm'
-
-{0x2242}	LOAD_STRING	'Rain02#'
-
-{0x2256}	LOAD_STRING	'Basket01#'
-
 {0x22AC}	LOAD_STRING	'The rain kept coming.'
 
 {0x22BC}	LOAD_STRING	'The moment looped in my head.'
-
-{0x2350}	LOAD_STRING	'Rain.spm'
 
 {0x2448}	LOAD_STRING	'But then, something felt different.@k'
 
@@ -738,14 +704,10 @@
 
 {0x24C2}	LOAD_STRING	'There was a strange sense of relief inside me.'
 
-{0x24DC}	LOAD_STRING	'Air03'
-
 {0x250A}	LOAD_STRING	'Tatsumi'
 {0x250C}	LOAD_STRING	'Let's go...!'
 
 {0x251C}	LOAD_STRING	'The rain... Won't be a problem anymore.'
-
-{0x25A4}	LOAD_STRING	'Rain.spm'
 
 {0x2718}	LOAD_STRING	'I can clearly feel the friction between my fingers and the ball.'
 
@@ -757,14 +719,6 @@
 
 {0x2758}	LOAD_STRING	'And...'
 
-{0x27E4}	LOAD_STRING	'Rain.spm'
-
-{0x28F1}	LOAD_STRING	'Basket05'
-
-{0x292D}	LOAD_STRING	'Rain.spm'
-
-{0x2A36}	LOAD_STRING	'Rain.spm'
-
 {0x2B3A}	LOAD_STRING	'I can only hear one, pleasant sound right now.'
 
 {0x2B6E}	LOAD_STRING	'Miki'
@@ -773,7 +727,7 @@
 {0x2B7A}	LOAD_STRING	'Yui'
 {0x2B7C}	LOAD_STRING	'@v00020353"Wow, that's amazing! That's a three-point, wasn't it?"'
 
-{0x2B8C}	LOAD_STRING	'I could begin to hear small, distant cheering'
+{0x2B8C}	LOAD_STRING	'I could begin to hear small, distant cheering.'
 
 {0x2B96}	LOAD_STRING	'Kotone'
 {0x2B98}	LOAD_STRING	'@v00030208"Oikawa-senpai...!"'
@@ -822,22 +776,6 @@
 
 {0x2D33}	LOAD_STRING	'I'll help you now.'
 
-{0x2D3F}	LOAD_STRING	'Basket01#'
-
-{0x2DF7}	LOAD_STRING	'Air03'
-
-{0x2E0D}	LOAD_STRING	'Basket05'
-
-{0x2E25}	LOAD_STRING	'Basket01#'
-
-{0x2EB9}	LOAD_STRING	'Air03'
-
-{0x2ECF}	LOAD_STRING	'Basket05'
-
-{0x2EF8}	LOAD_STRING	'Rain.spm'
-
-{0x2FE4}	LOAD_STRING	'Rain02#'
-
 {0x3042}	LOAD_STRING	'Nezu'
 {0x3044}	LOAD_STRING	'@v00900082"Cheating! You're cheating!"'
 
@@ -861,8 +799,6 @@
 
 {0x30EA}	LOAD_STRING	'Tatsumi'
 {0x30EC}	LOAD_STRING	'At least your senior friend who was watching with you will be convinced, right?'
-
-{0x3123}	LOAD_STRING	'Rain.spm'
 
 {0x32B3}	LOAD_STRING	'I guess they wanted the juniors who crossed them to be miserable.'
 
@@ -891,13 +827,11 @@
 
 {0x33AF}	LOAD_STRING	'"I'll never let you out of my sight again," he said.'
 
-{0x33C5}	LOAD_STRING	'Nuno08'
-
 {0x341D}	LOAD_STRING	'Miki'
 {0x341F}	LOAD_STRING	'@v00010283"Tak-kun! That's my best friend!"@k'
 
 {0x3467}	LOAD_STRING	'Tatsumi'
-{0x3469}	LOAD_STRING	'I-I―― Oh, Miki! You're right!'
+{0x3469}	LOAD_STRING	'I-I― Oh, Miki! You're right!'
 
 {0x3479}	LOAD_STRING	'I'm blushing from the high praise given to me by my childhood friend.'
 
@@ -908,8 +842,6 @@
 {0x34C7}	LOAD_STRING	'...Yeah, I guess so, huh?'
 
 {0x34D7}	LOAD_STRING	'I wish I could say something to make me look cool right now.'
-
-{0x350E}	LOAD_STRING	'Rain.spm'
 
 {0x36B4}	LOAD_STRING	'Kotone'
 {0x36B6}	LOAD_STRING	'@v00030210"U-um... Oikawa-senpai..."'
@@ -953,7 +885,7 @@
 
 {0x3867}	LOAD_STRING	'Afternoon classes were uncomfortable with wet uniforms stuck to our bodies, but each student got through it by putting a borrowed towel between them.'
 
-{0x3877}	LOAD_STRING	'I hope no one... catches a cold.'
+{0x3877}	LOAD_STRING	'I hope no one catches a cold...'
 
 {0x3887}	LOAD_STRING	'And after school, I was called in by the life guidance teacher who made a reluctant face.'
 
@@ -1022,8 +954,6 @@
 
 {0x3B83}	LOAD_STRING	'That's all I could think to say.'
 
-{0x3C24}	LOAD_STRING	'Nuno01'
-
 {0x3C58}	LOAD_STRING	'Kotone'
 {0x3C5A}	LOAD_STRING	'@v00030215 Sigh...'
 
@@ -1066,8 +996,6 @@
 {0x3D9C}	LOAD_STRING	'Kotone'
 {0x3D9E}	LOAD_STRING	'@v00030220 Oikawa-senpai...'
 
-{0x3DE1}	LOAD_STRING	'Rain.spm'
-
 {0x3F3B}	LOAD_STRING	'Behind my eyelids, the scene of that day is still visible.'
 
 {0x3F4B}	LOAD_STRING	'In the downpour, almost like magic, ball after ball was sucked into the ring.'
@@ -1081,7 +1009,7 @@
 {0x3F8B}	LOAD_STRING	'Just thinking about it makes my heart skip a beat.'
 
 {0x404F}	LOAD_STRING	'Kotone'
-{0x4051}	LOAD_STRING	'@v00030221 If we don't do this, it'll be over...'
+{0x4051}	LOAD_STRING	'@v00030221"If I don't do this, it'll be over..."'
 
 {0x4061}	LOAD_STRING	'The words that stopped me.'
 
@@ -1114,8 +1042,6 @@
 
 {0x4263}	LOAD_STRING	'The moment I said that...'
 
-{0x4269}	LOAD_STRING	'Chime15'
-
 {0x427B}	LOAD_STRING	'Kotone'
 {0x427D}	LOAD_STRING	'@v00030225 ?!'
 
@@ -1131,27 +1057,15 @@
 {0x42F7}	LOAD_STRING	'Mayu(Message)'
 {0x42FB}	LOAD_CUSTOM_TEXT	0x1	'"Kotone, I'm so sorry"'
 
-{0x431C}	LOAD_STRING	'Menu_Click02'
-
-{0x4353}	LOAD_STRING	'Pon01'
-
 {0x4392}	SPECIAL_TEXT	0x1	'"I didn't know about Nezu-senpai  "'
 
 {0x43B8}	LOAD_STRING	'Mayu(Message)'
 {0x43BC}	LOAD_CUSTOM_TEXT	0x1	'"I didn't know about Nezu-senpai"'
 
-{0x43DD}	LOAD_STRING	'Menu_Click02'
-
-{0x4414}	LOAD_STRING	'Pon01'
-
 {0x4453}	SPECIAL_TEXT	0x2	'"Everyone's falling apart  @nand idk what to do"'
 
 {0x4479}	LOAD_STRING	'Mayu(Message)'
 {0x447D}	LOAD_CUSTOM_TEXT	0x1	'"Everyone's falling apart@nand idk what to do"'
-
-{0x449E}	LOAD_STRING	'Menu_Click02'
-
-{0x44D5}	LOAD_STRING	'Pon01'
 
 {0x4526}	LOAD_STRING	'The name of a classmate who crossed me, and a sentence so weak that I couldn't imagine her in her normal state.'
 
@@ -1166,18 +1080,10 @@
 {0x459C}	LOAD_STRING	'Kotone(Message)'
 {0x45A0}	LOAD_CUSTOM_TEXT	0x1	'"Mayu, you're not bad"'
 
-{0x45C1}	LOAD_STRING	'Menu_Click02'
-
-{0x45F8}	LOAD_STRING	'Pon01'
-
 {0x4637}	SPECIAL_TEXT	0x4	'"I'm sorry about that too"'
 
 {0x465D}	LOAD_STRING	'Kotone(Message)'
 {0x4661}	LOAD_CUSTOM_TEXT	0x1	'"I'm sorry about that too"'
-
-{0x4682}	LOAD_STRING	'Menu_Click02'
-
-{0x46B9}	LOAD_STRING	'Pon01'
 
 {0x470A}	LOAD_STRING	'But my fingers... Were typing all on their own.'
 
@@ -1185,10 +1091,6 @@
 
 {0x4734}	LOAD_STRING	'Mayu(Message)'
 {0x4738}	LOAD_CUSTOM_TEXT	0x1	'"Kotone, please come back, we miss you"'
-
-{0x4759}	LOAD_STRING	'Menu_Click02'
-
-{0x4790}	LOAD_STRING	'Pon01'
 
 {0x47E1}	LOAD_STRING	'Maybe she meant this, too.'
 
@@ -1203,18 +1105,10 @@
 {0x4857}	LOAD_STRING	'Kotone(Message)'
 {0x485B}	LOAD_CUSTOM_TEXT	0x1	'"Sorry, I can't go back yet"'
 
-{0x487C}	LOAD_STRING	'Menu_Click02'
-
-{0x48B3}	LOAD_STRING	'Pon01'
-
 {0x48F2}	SPECIAL_TEXT	0x7	'"At least not until the end of summer  "'
 
 {0x4918}	LOAD_STRING	'Kotone(Message)'
 {0x491C}	LOAD_CUSTOM_TEXT	0x1	'"At least not until the end of summer"'
-
-{0x493D}	LOAD_STRING	'Menu_Click02'
-
-{0x4974}	LOAD_STRING	'Pon01'
 
 {0x49C5}	LOAD_STRING	'...'
 
@@ -1232,22 +1126,12 @@
 {0x4A37}	LOAD_STRING	'Mayu(Message)'
 {0x4A3B}	LOAD_CUSTOM_TEXT	0x1	'"Yeah... I'll wait"'
 
-{0x4A5C}	LOAD_STRING	'Menu_Click02'
-
-{0x4A93}	LOAD_STRING	'Pon01'
-
 {0x4AD2}	SPECIAL_TEXT	0x9	'"I'll be waiting for you, Kotone, ok?  "'
 
 {0x4AF8}	LOAD_STRING	'Mayu(Message)'
 {0x4AFC}	LOAD_CUSTOM_TEXT	0x1	'"I'll be waiting for you, Kotone, ok?"'
 
-{0x4B1D}	LOAD_STRING	'Menu_Click02'
-
-{0x4B54}	LOAD_STRING	'Pon01'
-
 {0x4BA5}	LOAD_STRING	'I throw my phone on the bed without replying to that message.'
-
-{0x4BAB}	LOAD_STRING	'Nuno08'
 
 {0x4C09}	LOAD_STRING	'Kotone'
 {0x4C0B}	LOAD_STRING	'@v00030230 Yeah...@t0250@hKOTONE_U302HE At least til the end of summer.'
