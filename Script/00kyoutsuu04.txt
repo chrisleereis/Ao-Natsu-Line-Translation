@@ -365,12 +365,12 @@
 {0x173C}	LOAD_STRING	'And then each person places their fingers on the doll.'
 
 {0x179E}	LOAD_STRING	'Everyone'
-{0x17A0}	LOAD_STRING	'@v00090907@s0004"Rock, paper, scissors..."'
+{0x17A0}	LOAD_STRING	'@v00090907@s0004"Three, two, one..."'
 
 {0x1802}	LOAD_STRING	'Everyone'
-{0x1804}	LOAD_STRING	'@v00090908@s0004"Shoot!"'
+{0x1804}	LOAD_STRING	'@v00090908@s0004"Go!"'
 
-{0x1832}	LOAD_STRING	'He pulls on the red string that sticks out of the bottom.'
+{0x1832}	LOAD_STRING	'We pull on the red strings that stick out of the bottom.'
 
 {0x1858}	LOAD_STRING	'Chihiro'
 {0x185A}	LOAD_STRING	'@v00040140"Yes! Daikichi! That's the best possible luck."'
@@ -431,7 +431,7 @@
 {0x1B62}	LOAD_STRING	'And more than anything...'
 
 {0x1B6C}	LOAD_STRING	'Yui'
-{0x1B6E}	LOAD_STRING	'@v00020220"This ancient Japanese poem written here, means..."'
+{0x1B6E}	LOAD_STRING	'@v00020220"It is written here what this ancient Japanese poem means..."'
 
 {0x1B7E}	LOAD_STRING	'Nakategawa smiles unconvincingly, pointing out the poem written on the fortune.'
 
@@ -728,7 +728,7 @@
 
 {0x2AE4}	LOAD_STRING	'Everyone will be heading home to their families.'
 
-{0x2AF4}	LOAD_STRING	'A man and a woman in the school are having a fun conversation... Are they a couple?'
+{0x2AF4}	LOAD_STRING	'A boy and a girl from school are having a fun conversation... Are they a couple?'
 
 {0x2B1A}	LOAD_STRING	'Chihiro'
 {0x2B1C}	LOAD_STRING	'@v00040161"Well, I don't know about the specifics, but her appearance has changed. It's kind of refined."'
@@ -767,7 +767,7 @@
 
 {0x2CED}	LOAD_STRING	'He was offering me a wrinkled bag of pocket tissues.@k'
 
-{0x2D31}	LOAD_STRING	'Now he's saying, "Wipe away your tears."'
+{0x2D31}	LOAD_STRING	'It's like he's saying, "Wipe away your tears."'
 
 {0x2D3B}	LOAD_STRING	'Yui'
 {0x2D3D}	LOAD_STRING	'@v00020242 Oh, y-yes, thank you... I appreciate it...@k'
@@ -794,19 +794,19 @@
 {0x2EA3}	LOAD_STRING	'...'
 
 {0x2EEB}	LOAD_STRING	'Yui'
-{0x2EED}	LOAD_STRING	'@v00020245"I want to see you again."'
+{0x2EED}	LOAD_STRING	'@v00020245"I wanted to see you again."'
 
 {0x2EF7}	LOAD_STRING	'Yui'
-{0x2EF9}	LOAD_STRING	'@v00020246"I want to meet you and thank you properly."'
+{0x2EF9}	LOAD_STRING	'@v00020246"I wanted to meet you and thank you properly."'
 
 {0x2F03}	LOAD_STRING	'Yui'
-{0x2F05}	LOAD_STRING	'@v00020247"I want to talk about so many things."'
+{0x2F05}	LOAD_STRING	'@v00020247"I wanted to talk about so many things."'
 
 {0x2F0F}	LOAD_STRING	'Yui'
 {0x2F11}	LOAD_STRING	'@v00020248"And if my wish could come true... I'd like to spend time with you all."'
 
 {0x2F1B}	LOAD_STRING	'Yui'
-{0x2F1D}	LOAD_STRING	'@v00020249"The only clues left behind are the name 'Tatsumi' your friends called you, and the school uniform you wore."'
+{0x2F1D}	LOAD_STRING	'@v00020249"The only clues left behind were the name 'Tatsumi' your friends called you, and the school uniform you wore."'
 
 {0x2F57}	LOAD_STRING	'Yui'
 {0x2F59}	LOAD_STRING	'@v00020250"From the color of the ribbons on your uniforms, it became clear rather early on that you were all students at Kourigaoka Academy."'
@@ -910,7 +910,7 @@
 {0x32DA}	LOAD_STRING	'"N-Nakategawa...?"'
 
 {0x32E4}	LOAD_STRING	'Yui'
-{0x32E6}	LOAD_STRING	'@v00020266"It's funny. It's weird, isn't it...? I should be happy to meet Tatsumi-san..."'
+{0x32E6}	LOAD_STRING	'@v00020266"It's funny. It's weird, isn't it...? I should be happy to meet you, Tatsumi-san..."'
 
 {0x32F0}	LOAD_STRING	'Yui'
 {0x32F2}	LOAD_STRING	'@v00020267"Tatsumi-san, you also remembered that time... Even though there's nothing to be sad about anymore..."'
@@ -928,7 +928,7 @@
 {0x33A4}	LOAD_STRING	'Her hands were incredibly thin, frail, and soft.'
 
 {0x33AE}	LOAD_STRING	'Yui'
-{0x33B0}	LOAD_STRING	'@v00020269"No, it's... just strange... I'm... Tatsumi-san is..."@k'
+{0x33B0}	LOAD_STRING	'@v00020269"No, it's... just strange... I'm... Tatsumi-san, you are..."@k'
 
 {0x33EE}	LOAD_STRING	'Tatsumi'
 {0x33F0}	LOAD_STRING	'"Huh...?"'
