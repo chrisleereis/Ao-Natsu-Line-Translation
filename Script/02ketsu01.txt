@@ -54,13 +54,13 @@
 {0x02BE}	LOAD_STRING	'@v00020526"Miki, did you make this yourself?"'
 
 {0x0304}	LOAD_STRING	'Miki'
-{0x0306}	LOAD_STRING	'@v00010723"Nah. It looks homemade, but I have a restaurant, remember?"'
+{0x0306}	LOAD_STRING	'@v00010723"Of course. It looks homemade, but I have a restaurant, remember?"'
 
 {0x0314}	LOAD_STRING	'Tatsumi'
-{0x0316}	LOAD_STRING	'I was always good at cooking.'
+{0x0316}	LOAD_STRING	'You always were good at cooking.'
 
 {0x0320}	LOAD_STRING	'Miki'
-{0x0322}	LOAD_STRING	'@v00010724"Muh, doesn't that make you sound like you're only good at cooking?"'
+{0x0322}	LOAD_STRING	'@v00010724"Muh, doesn't that make it sound like I'm only good at cooking?"'
 
 {0x0330}	LOAD_STRING	'Tatsumi'
 {0x0332}	LOAD_STRING	'Don't read into it too much.'
@@ -116,7 +116,7 @@
 {0x0492}	LOAD_STRING	'It was a fancy wooden bento, which was also compact and feminine.'
 
 {0x04E4}	LOAD_STRING	'Miki'
-{0x04E6}	LOAD_STRING	'@v00010727"...So it was true after all."'
+{0x04E6}	LOAD_STRING	'@v00010727"It looks... normal."'
 
 {0x04F0}	LOAD_STRING	'Yui'
 {0x04F2}	LOAD_STRING	'@v00020533"Yes?"'
@@ -240,9 +240,9 @@
 {0x0B14}	LOAD_STRING	'Nakategawa mumbles with an enraptured expression as she picks up her shared lunch.'
 
 {0x0B1E}	LOAD_STRING	'Chihiro'
-{0x0B20}	LOAD_STRING	'@v00040617"I'm looking forward to it..."'
+{0x0B20}	LOAD_STRING	'@v00040617"I'm looking forward to it, but..."'
 
-{0x0B30}	LOAD_STRING	'Is she holding something back? It feels like she swallowed whatever she really wanted to say, before shrugging her shoulders.'
+{0x0B30}	LOAD_STRING	'Is he holding something back? It feels like he swallowed whatever he really wanted to say, before shrugging his shoulders.'
 
 {0x0B3A}	LOAD_STRING	'Yui'
 {0x0B3C}	LOAD_STRING	'@v00020543"This is the first time I'm going on a trip with a group of friends..."'
@@ -284,13 +284,13 @@
 {0x0CE8}	LOAD_STRING	'Nakategawa laughs a little bit.'
 
 {0x0CF2}	LOAD_STRING	'Miki'
-{0x0CF4}	LOAD_STRING	'@v00010738"Hey, Yui-chan...Are you guys are talking in prose or something? I've never heard of some of these expressions..."'
+{0x0CF4}	LOAD_STRING	'@v00010738"Hey, Yui-chan... Are you guys talking in prose or something? I've never heard of some of these expressions..."'
 
 {0x0CFE}	LOAD_STRING	'Yui'
 {0x0D00}	LOAD_STRING	'@v00020547"Ah, I'm sorry!"'
 
 {0x0D0A}	LOAD_STRING	'Chihiro'
-{0x0D0C}	LOAD_STRING	'@v00040621"Oh, it's all good. Thanks to you though, there are times when I don't understand what Nakategawa is talking about."'
+{0x0D0C}	LOAD_STRING	'@v00040621"Oh, it's all good. But because of that, sometimes I don't understand what Nakategawa is talking about.."'
 
 {0x0D1A}	LOAD_STRING	'Tatsumi'
 {0x0D1C}	LOAD_STRING	'That's an English proverb, isn't it?'
@@ -501,7 +501,7 @@
 {0x1454}	LOAD_STRING	'Nakategawa's cheeks are dyed in embarrassment.'
 
 {0x145E}	LOAD_STRING	'Miki'
-{0x1460}	LOAD_STRING	'@v00010753"Sorry about that! But, how are Yui-chan's grades?"'
+{0x1460}	LOAD_STRING	'@v00010753"Sorry about that! But, you get good grades, don't you, Yui-chan?"'
 
 {0x146A}	LOAD_STRING	'Chihiro'
 {0x146C}	LOAD_STRING	'@v00040636"Well, she's from Shichiyou Academy, after all."'
@@ -597,7 +597,7 @@
 {0x188F}	LOAD_STRING	'And then, I give the ball to the girl next to me, who is also a very nice girl.'
 
 {0x1899}	LOAD_STRING	'Chihiro'
-{0x189B}	LOAD_STRING	'@v00040641"Haha. By the way, I'm sure the brilliant students of...Kurigaoka are shocked to be suddenly knocked out by a new student who just transferred."'
+{0x189B}	LOAD_STRING	'@v00040641"Haha. By the way, I'm sure the brilliant students of Kurigaoka are shocked to be suddenly knocked out by a new student who just transferred."'
 
 {0x18A5}	LOAD_STRING	'Miki'
 {0x18A7}	LOAD_STRING	'@v00010757"No wonder they resent you.@t0290@hMIKI_A202OD Yui-chan, be careful heading home today, okay?"'
