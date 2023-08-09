@@ -62,7 +62,7 @@
 {0x03A5}	LOAD_STRING	'@v00020303"It's love, Chihiro-san!"@k'
 
 {0x03C2}	LOAD_STRING	'Chihiro'
-{0x03C4}	LOAD_STRING	'@v00040195"I'm just trying not to jump to conclusions.@t0280@hCHIHIRO_A101MJ So, what do you think?"'
+{0x03C4}	LOAD_STRING	'@v00040195"And what did I just... nevermind.@t0280@hCHIHIRO_A101MJ So, what do you think?"'
 
 {0x03CE}	LOAD_STRING	'Yui'
 {0x03D0}	LOAD_STRING	'@v00020304"She's such a pretty girl!"'
@@ -103,7 +103,7 @@
 {0x05C6}	LOAD_STRING	'Tatsumi'
 {0x05C8}	LOAD_STRING	'Maybe it's because we've only just gotten to know each other, I guess only time will tell.'
 
-{0x05D8}	LOAD_STRING	'Come to think of it, Chihiro was nervous about Nakategawa joining us.'
+{0x05D8}	LOAD_STRING	'Come to think of it, Chihiro was the most nervous about Nakategawa joining us.'
 
 {0x05E8}	LOAD_STRING	'I think he's just naive.'
 
@@ -144,7 +144,7 @@
 {0x07BB}	LOAD_STRING	'@v00030073"...Obviously. I've been riding since April after all."'
 
 {0x07C5}	LOAD_STRING	'Kotone'
-{0x07C7}	LOAD_STRING	'@v00030074"Oh, it seems Nakategawa-senpai has trouble with those things. It looks like she can barely manage to get through the ticket gates."'
+{0x07C7}	LOAD_STRING	'@v00030074"Oh, it seems Nakategawa-senpai has trouble with those things. She looks like someone who can barely manage to get through the ticket gates."'
 
 {0x07D1}	LOAD_STRING	'Yui'
 {0x07D3}	LOAD_STRING	'@v00020307"...That's not true, is it?"'
@@ -166,7 +166,7 @@
 {0x0913}	LOAD_STRING	'@v00040203"But..."'
 
 {0x0965}	LOAD_STRING	'Kotone'
-{0x0967}	LOAD_STRING	'@v00030075"I can always leave if I don't like it."'
+{0x0967}	LOAD_STRING	'@v00030075"I can always leave if you don't like it."'
 
 {0x09A1}	LOAD_STRING	'Yui'
 {0x09A3}	LOAD_STRING	'@v00020308"Now now, Kotone-chan, don't say that.@t0380@hYUI_U102KT Hmm, that's right..."'
@@ -256,7 +256,7 @@
 {0x10A9}	LOAD_STRING	'Her two-person defense with Shiino is notably good.'
 
 {0x1103}	LOAD_STRING	'Chihiro'
-{0x1105}	LOAD_STRING	'@v00040209"Whatever, it's three against two, so of course it's going to be a good match."'
+{0x1105}	LOAD_STRING	'@v00040209"Whatever, it's three against two, so of course it's going to be a good match for them."'
 
 {0x112B}	LOAD_STRING	'Kotone'
 {0x112D}	LOAD_STRING	'@v00030081"It's lame to blame the team size, Sakaki-senpai."'
@@ -284,7 +284,7 @@
 {0x1206}	LOAD_STRING	'@v00900048"There are... five people on the basketball court, is there one more now?"'
 
 {0x1214}	LOAD_STRING	'Yuzuki'
-{0x1216}	LOAD_STRING	'@v00900049"Oh, really?@t0290 Hey, that looks like Kotone-chan!"'
+{0x1216}	LOAD_STRING	'@v00900049"Oh, really?@t0290 Hey, that looks like Kotone!"'
 
 {0x1224}	LOAD_STRING	'Mayu'
 {0x1226}	LOAD_STRING	'@v00900050"Huh...?!"'
@@ -320,7 +320,7 @@
 {0x1362}	LOAD_STRING	'@v00020315"All right, I'll be on the lookout for Tatsumi's long shot!"'
 
 {0x136C}	LOAD_STRING	'Kotone'
-{0x136E}	LOAD_STRING	'@v00030086"It's all for nothing if you give away Nakategawa's strategy..."'
+{0x136E}	LOAD_STRING	'@v00030086"It's all for nothing if you give away our strategy, Nakategawa-senpai..."'
 
 {0x13AA}	LOAD_STRING	'Nakategawa's face turns blue at Shiino's criticism.'
 
@@ -360,7 +360,7 @@
 {0x15A3}	LOAD_STRING	'With these words of encouragement, Shiino begins to discuss it.'
 
 {0x15AD}	LOAD_STRING	'Kotone'
-{0x15AF}	LOAD_STRING	'@v00030089"Why don't we form a dance team?"'
+{0x15AF}	LOAD_STRING	'@v00030089"Like forming a dance team?"'
 
 {0x15B9}	LOAD_STRING	'Chihiro'
 {0x15BB}	LOAD_STRING	'@v00040212"Oh, that's all the rage right now."'
@@ -503,7 +503,7 @@
 {0x1A3E}	LOAD_STRING	'Standing in front of three girls who are getting excited like that.'
 
 {0x1ABF}	LOAD_STRING	'Chihiro'
-{0x1AC1}	LOAD_STRING	'@v00040215"Hey, did you forget we're right here?"'
+{0x1AC1}	LOAD_STRING	'@v00040215"Hey, did they forget we're right here?"'
 
 {0x1ACF}	LOAD_STRING	'Tatsumi'
 {0x1AD1}	LOAD_STRING	'If we get out of our seat, we'll get scolded. Let's just let it be.'
@@ -538,7 +538,7 @@
 
 {0x1BDE}	LOAD_STRING	'Well, Miki's dad was the only man in the house.'
 
-{0x1BEE}	LOAD_STRING	'I'm used to this kind of development... Or rather, I had to get used to it.'
+{0x1BEE}	LOAD_STRING	'He's used to this kind of development... Or rather, he had to get used to it.'
 
 {0x1C4C}	LOAD_STRING	'Chihiro'
 {0x1C4E}	LOAD_STRING	'@v00040219"Pops, can I get another coffee?"'
