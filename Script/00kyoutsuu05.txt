@@ -160,7 +160,7 @@
 {0x0EF3}	LOAD_CUSTOM_TEXT	0x1	'"Hey, everyone still here?"'
 
 {0x0F9A}	LOAD_STRING	'Tatsumi'
-{0x0F9C}	LOAD_STRING	'Hmm? What happened?'
+{0x0F9C}	LOAD_STRING	'Hmm? Did something happen?'
 
 {0x0FA6}	LOAD_STRING	'Chihiro'
 {0x0FA8}	LOAD_STRING	'@v00040166"Did Nakategawa forget something?"'
@@ -182,10 +182,10 @@
 {0x117C}	LOAD_STRING	'Miki(Message)'
 {0x1180}	LOAD_CUSTOM_TEXT	0x1	'"Something wrong?"'
 
-{0x121F}	SPECIAL_TEXT	0xb	'"It's a long story,@nbut I'm bringing a junior girl  "'
+{0x121F}	SPECIAL_TEXT	0xb	'"It's a long story, but I'm bringing@n a soaking wet junior girl  "'
 
 {0x1245}	LOAD_STRING	'Yui(Message)'
-{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"It's a long story,@nbut I'm bringing a junior girl"'
+{0x1249}	LOAD_CUSTOM_TEXT	0x1	'"It's a long story,but I'm bringing@n a soaking wet junior girl"'
 
 {0x12F0}	LOAD_STRING	'Tatsumi'
 {0x12F2}	LOAD_STRING	'Junior... Girl...?'
@@ -298,10 +298,10 @@
 {0x1A6A}	LOAD_STRING	'Tatsumi'
 {0x1A6C}	LOAD_STRING	'You're not involved in some kind of incident, are you?'
 
-{0x1A7C}	LOAD_STRING	'All we know is that Nakategawa protected a girl named 'Kotone-chan' who was crying without an umbrella.'
+{0x1A7C}	LOAD_STRING	'All we know is that Nakategawa took care of a girl named 'Kotone-chan' who was crying without an umbrella.'
 
 {0x1A86}	LOAD_STRING	'Yui'
-{0x1A88}	LOAD_STRING	'@v00020289"That's right..."'
+{0x1A88}	LOAD_STRING	'@v00020289"So..."'
 
 {0x1AF9}	LOAD_STRING	'Kotone'
 {0x1AFB}	LOAD_STRING	'@v00030049"It has nothing to do with you seniors... You brought me here of your own accord."'
@@ -379,7 +379,7 @@
 {0x1DE5}	LOAD_STRING	'Miki begins to say something...'
 
 {0x1DEF}	LOAD_STRING	'Miki'
-{0x1DF1}	LOAD_STRING	'@v00010198"It's hard. Even a joke can be taken as malicious, and if you say the wrong word, even a little, people think it's a swear word."'
+{0x1DF1}	LOAD_STRING	'@v00010198"It's hard. Even a joke can be taken as malicious, and if you write something wrong even by mistake, people think it's meant as an insult."'
 
 {0x1E01}	LOAD_STRING	'Nakategawa chimes in...'
 
@@ -390,7 +390,7 @@
 
 {0x1E2D}	LOAD_STRING	'She originally had matching profile icons with the group leader, and she ended up changing it without asking if it was okay with her.'
 
-{0x1E3D}	LOAD_STRING	'She accidentally sent a private message that read 'I don't like her' and rumors were spread to the group chat.'
+{0x1E3D}	LOAD_STRING	'She accidentally sent a private message that read 'I don't like her' and word got out. Then rumors began circulating.'
 
 {0x1E4D}	LOAD_STRING	'In the end, word had reached the leader of the group.'
 
@@ -407,7 +407,7 @@
 {0x1F01}	LOAD_STRING	'Kotone'
 {0x1F03}	LOAD_STRING	'@v00030053"..."'
 
-{0x1F13}	LOAD_STRING	'It's cruel enough that she sat in the rain, crying.'
+{0x1F13}	LOAD_STRING	'It's cruel enough that she stood in the rain alone, crying.'
 
 {0x1F1D}	LOAD_STRING	'Chihiro'
 {0x1F1F}	LOAD_STRING	'@v00040179"It's not like they're bullying her, right?"'
@@ -458,7 +458,7 @@
 {0x203F}	LOAD_STRING	'@v00040183"What, you're telling me you wouldn't at least try?"'
 
 {0x2049}	LOAD_STRING	'Miki'
-{0x204B}	LOAD_STRING	'@v00010201"Hey, don't play with me now."'
+{0x204B}	LOAD_STRING	'@v00010201"Hey, stop it."'
 
 {0x20A5}	LOAD_STRING	'Kotone'
 {0x20A7}	LOAD_STRING	'@v00030057"That's why... I hate boys."'
@@ -472,7 +472,7 @@
 {0x20FD}	LOAD_STRING	'Miki'
 {0x20FF}	LOAD_STRING	'@v00010202"So, I was just discussing this with Yui just now."'
 
-{0x210F}	LOAD_STRING	'Miki and Nakategawa spun around and turned to me and Chihiro and said, "We've been talking about this."'
+{0x210F}	LOAD_STRING	'Miki and Nakategawa spun around and turned to me and Chihiro and said..."'
 
 {0x2135}	LOAD_STRING	'Yui'
 {0x2137}	LOAD_STRING	'@v00020293"Yes.@t0090@hYUI_U101EG2 Kotone-chan will be joining us at school tomorrow."'
@@ -506,7 +506,7 @@
 {0x227B}	LOAD_STRING	'Shiino's eyes began watering again.'
 
 {0x2285}	LOAD_STRING	'Kotone'
-{0x2287}	LOAD_STRING	'@v00030062"I'm through. I'm going to reset my school life."'
+{0x2287}	LOAD_STRING	'@v00030062"I'm through. I was going to reset my school life."'
 
 {0x2295}	LOAD_STRING	'Tatsumi'
 {0x2297}	LOAD_STRING	'...Reset?'
@@ -517,7 +517,7 @@
 {0x22B3}	LOAD_STRING	'@v00030063"I've tried so hard to get along with everyone but... It's over now."'
 
 {0x2336}	LOAD_STRING	'Yui'
-{0x2338}	LOAD_STRING	'@v00020295"No. I'm not going anywhere. With us by your side, your school life will continue, okay?"'
+{0x2338}	LOAD_STRING	'@v00020295"No. With us by your side, your school life will continue, okay?"'
 
 {0x2342}	LOAD_STRING	'Kotone'
 {0x2344}	LOAD_STRING	'@v00030064"Nakategawa... senpai..."'
@@ -542,7 +542,7 @@
 {0x23A4}	LOAD_STRING	'Even Chihiro and I, though puzzled, had no choice but to accept Nakategawa and Miki's well-meaning proposal.'
 
 {0x23DE}	LOAD_STRING	'Miki'
-{0x23E0}	LOAD_STRING	'@v00010204"So, nice to meet you, huh, Kotone-chan?"'
+{0x23E0}	LOAD_STRING	'@v00010204"So, nice to meet you, Kotone-chan."'
 
 {0x23EA}	LOAD_STRING	'Kotone'
 {0x23EC}	LOAD_STRING	'@v00030066"H-hey, I still haven't..."'
