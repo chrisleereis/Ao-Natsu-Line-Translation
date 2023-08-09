@@ -14,7 +14,7 @@
 {0x0122}	LOAD_STRING	'As usual, Miki starts bragging about her dad as soon as we get out of school.'
 
 {0x0130}	LOAD_STRING	'Tatsumi'
-{0x0132}	LOAD_STRING	'Your dad studied for years...that's pretty exciting.'
+{0x0132}	LOAD_STRING	'Your dad studied for years... that's pretty exciting.'
 
 {0x0184}	LOAD_STRING	'Kotone'
 {0x0186}	LOAD_STRING	'@v00030392"Kohsaka-senpai's father is very sweet to her."'
@@ -34,7 +34,7 @@
 {0x01C8}	LOAD_STRING	'Tatsumi'
 {0x01CA}	LOAD_STRING	'Oh, sure...'
 
-{0x01DA}	LOAD_STRING	'Her father is her opposite...Like, really strict.'
+{0x01DA}	LOAD_STRING	'Her father is her opposite... Like, really strict.'
 
 {0x01EA}	LOAD_STRING	'They say the most loving father gets the angriest.'
 
@@ -42,13 +42,13 @@
 {0x01F6}	LOAD_STRING	'@v00030394"I see, so they balance each other out, in a way."'
 
 {0x0200}	LOAD_STRING	'Chihiro'
-{0x0202}	LOAD_STRING	'@v00040644"Yeah...In a way..."'
+{0x0202}	LOAD_STRING	'@v00040644"Yeah... In a way..."'
 
 {0x0210}	LOAD_STRING	'Tatsumi'
 {0x0212}	LOAD_STRING	'"Just like binding carrots to stakes, I wonder if they're growing straight up."'
 
 {0x021C}	LOAD_STRING	'Kotone'
-{0x021E}	LOAD_STRING	'@v00030395"Straight up...or naive."'
+{0x021E}	LOAD_STRING	'@v00030395"Straight up... or naive."'
 
 {0x0228}	LOAD_STRING	'Miki'
 {0x022A}	LOAD_STRING	'@v00010761"Huh? Tak-kun, Koto-chan, those are compliments, right?"'
@@ -56,7 +56,7 @@
 {0x029E}	LOAD_STRING	'With that kind of conversation, as we walked out of the school gate...'
 
 {0x02C8}	LOAD_STRING	'Yui'
-{0x02CA}	LOAD_STRING	'@v00020573"Miki-san...I envy you."'
+{0x02CA}	LOAD_STRING	'@v00020573"Miki-san... I envy you."'
 
 {0x02DA}	LOAD_STRING	'Nakategawa muttered with a sigh.'
 
@@ -78,7 +78,7 @@
 {0x032A}	LOAD_STRING	'We follow up with that, but Nakategawa quietly shakes her head.'
 
 {0x0334}	LOAD_STRING	'Yui'
-{0x0336}	LOAD_STRING	'@v00020575"It's not true...he's too overprotective and hardly lets me do what I want."'
+{0x0336}	LOAD_STRING	'@v00020575"It's not true... he's too overprotective and hardly lets me do what I want."'
 
 {0x0340}	LOAD_STRING	'Yui'
 {0x0342}	LOAD_STRING	'@v00020576"I was given unreasonable conditions when I transferred."'
@@ -87,7 +87,7 @@
 {0x0352}	LOAD_STRING	'Oh, yeah...'
 
 {0x035C}	LOAD_STRING	'Kotone'
-{0x035E}	LOAD_STRING	'@v00030397"Unreasonable conditions...what conditions?"'
+{0x035E}	LOAD_STRING	'@v00030397"Unreasonable conditions... what conditions?"'
 
 {0x0368}	LOAD_STRING	'Yui'
 {0x036A}	LOAD_STRING	'@v00020577"First, never neglect your studies."'
@@ -96,7 +96,7 @@
 {0x03B2}	LOAD_STRING	'@v00030398"...Isn't that what all parents tell their kids?"'
 
 {0x03BC}	LOAD_STRING	'Miki'
-{0x03BE}	LOAD_STRING	'@v00010763"Koto-chan...Yui-chan is always told that if she doesn't become the valedictorian, she will be sent back to Shichiyou."'
+{0x03BE}	LOAD_STRING	'@v00010763"Koto-chan... Yui-chan is always told that if she doesn't become the valedictorian, she will be sent back to Shichiyou."'
 
 {0x03CE}	LOAD_STRING	'Shiino stops moving.'
 
@@ -113,12 +113,12 @@
 {0x0402}	LOAD_STRING	'By a long shot.'
 
 {0x040C}	LOAD_STRING	'Kotone'
-{0x040E}	LOAD_STRING	'@v00030401"Huh...that's pretty great."'
+{0x040E}	LOAD_STRING	'@v00030401"Huh... that's pretty great."'
 
 {0x041E}	LOAD_STRING	'Shiino looks at Nakategawa with respect.'
 
 {0x045C}	LOAD_STRING	'Yui'
-{0x045E}	LOAD_STRING	'@v00020578"Still...I wish that were the only stipulation."'
+{0x045E}	LOAD_STRING	'@v00020578"Still... I wish that were the only stipulation."'
 
 {0x0468}	LOAD_STRING	'Chihiro'
 {0x046A}	LOAD_STRING	'@v00040647"Huh? Oh, did he give you any more conditions?"'
@@ -142,7 +142,7 @@
 {0x0598}	LOAD_STRING	'"O-oh..."'
 
 {0x05A2}	LOAD_STRING	'Kotone'
-{0x05A4}	LOAD_STRING	'@v00030402"Disowning...that comes up commonly these days."'
+{0x05A4}	LOAD_STRING	'@v00030402"Disowning... that comes up commonly these days."'
 
 {0x05AE}	LOAD_STRING	'Chihiro'
 {0x05B0}	LOAD_STRING	'@v00040648"Well, if it's Nakategawa's dad, I don't doubt he would say something like that."'
@@ -158,7 +158,7 @@
 
 {0x0644}	LOAD_STRING	'When you get close to her like that, her father comes along as a set.'
 
-{0x0654}	LOAD_STRING	'You'd have to be pretty prepared...I'd think.'
+{0x0654}	LOAD_STRING	'You'd have to be pretty prepared... I'd think.'
 
 {0x065E}	LOAD_STRING	'Yui'
 {0x0660}	LOAD_STRING	'@v00020582"Besides, a promise like that would be a lifelong disgrace to my father, too."'
@@ -184,7 +184,7 @@
 {0x06C0}	LOAD_STRING	'@v00020584"My father says it's a result based on solemn fact, but I think that's a convenient excuse!"'
 
 {0x06CA}	LOAD_STRING	'Miki'
-{0x06CC}	LOAD_STRING	'@v00010766"Eheheh...Yui-chan?"'
+{0x06CC}	LOAD_STRING	'@v00010766"Eheheh... Yui-chan?"'
 
 {0x06DC}	LOAD_STRING	'-Wow, we've only known each other for such a short amount of time, yet we're hearing the story of how Nakategawa was born?'
 
@@ -195,7 +195,7 @@
 {0x0754}	LOAD_STRING	'@v00010767"Shotgun...? Why a shotgun?"'
 
 {0x075E}	LOAD_STRING	'Kotone'
-{0x0760}	LOAD_STRING	'@v00030404"U-um...that's like...Oh, is that supposed to be like a man's 'shotgun?'"'
+{0x0760}	LOAD_STRING	'@v00030404"U-um... that's like... Oh, is that supposed to be like a man's 'shotgun?'"'
 
 {0x076A}	LOAD_STRING	'Miki'
 {0x076C}	LOAD_STRING	'@v00010768"Hmm?"'
@@ -215,7 +215,7 @@
 {0x07F4}	LOAD_STRING	'@v00010769"Haha, I see. That sounds like a foreign drama."'
 
 {0x07FE}	LOAD_STRING	'Kotone'
-{0x0800}	LOAD_STRING	'@v00030405"Oh, so that's what a shotgun is...I thought it was-"'
+{0x0800}	LOAD_STRING	'@v00030405"Oh, so that's what a shotgun is... I thought it was-"'
 
 {0x080A}	LOAD_STRING	'Yui'
 {0x080C}	LOAD_STRING	'@v00020589"Thought it was what?"'
@@ -288,7 +288,7 @@
 
 {0x0B1B}	LOAD_STRING	'For some reason, these two aren't immune to this kind of thing.'
 
-{0x0B2B}	LOAD_STRING	'Of course...neither am I.'
+{0x0B2B}	LOAD_STRING	'Of course... neither am I.'
 
 {0x0B35}	LOAD_STRING	'Kotone'
 {0x0B37}	LOAD_STRING	'@v00030410"Oh, what's that? Could it be that the senpais...?"'
@@ -334,17 +334,17 @@
 {0x0CDD}	LOAD_STRING	'@v00020597"If you love each other and sincerely care for each other,@t0470@hYUI_A102IK2 then that's the art of making love, isn't it?"'
 
 {0x0CE7}	LOAD_STRING	'Miki'
-{0x0CE9}	LOAD_STRING	'@v00010775"Yui-chan...you're talking too loudly..."'
+{0x0CE9}	LOAD_STRING	'@v00010775"Yui-chan... you're talking too loudly..."'
 
 {0x0CF9}	LOAD_STRING	'Miki tries to calm Nakategawa down, but it seems like she wasn't heard.'
 
 {0x0D03}	LOAD_STRING	'Kotone'
-{0x0D05}	LOAD_STRING	'@v00030412"Um, Nakategawa-senpai...I think you're splitting hairs..."'
+{0x0D05}	LOAD_STRING	'@v00030412"Um, Nakategawa-senpai... I think you're splitting hairs..."'
 
 {0x0D53}	LOAD_STRING	'Nuno01'
 
 {0x0D65}	LOAD_STRING	'Yui'
-{0x0D67}	LOAD_STRING	'@v00020598"~The darling...of Loving Vows~"'
+{0x0D67}	LOAD_STRING	'@v00020598"~The darling... of Loving Vows~"'
 
 {0x0D75}	LOAD_STRING	'Tatsumi'
 {0x0D77}	LOAD_STRING	'Uh...'
@@ -352,7 +352,7 @@
 {0x0D87}	LOAD_STRING	'Nakategawa suddenly took my hand and pulled it in front of her chest.'
 
 {0x0D91}	LOAD_STRING	'Yui'
-{0x0D93}	LOAD_STRING	'@v00020599"I mean, love is all you need...don't you think?"'
+{0x0D93}	LOAD_STRING	'@v00020599"I mean, love is all you need... don't you think?"'
 
 {0x0DA1}	LOAD_STRING	'Tatsumi'
 {0x0DA3}	LOAD_STRING	'Y-yeah, I suppose...'
@@ -366,7 +366,7 @@
 {0x0DCF}	LOAD_STRING	'Yeah, good luck to you...'
 
 {0x0DD9}	LOAD_STRING	'Kotone'
-{0x0DDB}	LOAD_STRING	'@v00030413"Um...Nakategawa-senpai? You've been holding Oikawa-senpai's hand for a long time, now..."'
+{0x0DDB}	LOAD_STRING	'@v00030413"Um... Nakategawa-senpai? You've been holding Oikawa-senpai's hand for a long time, now..."'
 
 {0x0DE5}	LOAD_STRING	'Yui'
 {0x0DE7}	LOAD_STRING	'@v00020601"Huh?"'
@@ -380,7 +380,7 @@
 {0x0E8E}	LOAD_STRING	'Nakategawa quickly removes her hand and looks down with a fidgety gesture.'
 
 {0x0E98}	LOAD_STRING	'Miki'
-{0x0E9A}	LOAD_STRING	'@v00010776"Something...must have come over you, huh...?"'
+{0x0E9A}	LOAD_STRING	'@v00010776"Something... must have come over you, huh...?"'
 
 {0x0EA4}	LOAD_STRING	'Kotone'
 {0x0EA6}	LOAD_STRING	'@v00030414"Hmph, Nakategawa-senpai just gets like this sometimes..."'
