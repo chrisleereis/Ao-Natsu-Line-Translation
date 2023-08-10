@@ -1,6 +1,6 @@
 # Aonatsu Line - Blue, Summertime Blue English Translation
 
-Original game developed by GIGA, published by [Entergram](https://www.entergram.co.jp/), English translation presented by Blue Overture
+Original game developed by GIGA, published by [Entergram](https://www.entergram.co.jp/), English translation presented by Blue Overture.
 
 ## About the Game
 - Published by [Entergram](https://www.entergram.co.jp/) on [Nintendo eShop](https://store-jp.nintendo.com/list/software/70010000044622.html) on Feb 24, 2022
@@ -65,3 +65,4 @@ Blue Overture will continue developing the English language patch of Aonatsu Lin
 - [DeepL](https://www.deepl.com/en/whydeepl)
 - [Yuzu](https://yuzu-emu.org/)
 - [GIMP](https://www.gimp.org/)
+- [Python](https://www.python.org/)
