@@ -72,7 +72,7 @@
 {0x03CF}	LOAD_STRING	'@v00040243"Wait a minute, Nakategawa. Why are you blushing?"'
 
 {0x03D9}	LOAD_STRING	'Miki'
-{0x03DB}	LOAD_STRING	'@v00010240"Hehe, I can vouch for the fact that you two are hot together."'
+{0x03DB}	LOAD_STRING	'@v00010240"Hehe, I can vouch for the fact that you two have a hot relationship."'
 
 {0x03E5}	LOAD_STRING	'Chihiro'
 {0x03E7}	LOAD_STRING	'@v00040244"Hey!"'
@@ -124,7 +124,7 @@
 {0x05C3}	LOAD_STRING	'@v00010244"Then why the glares? I wouldn't want someone who I don't know leering at me."'
 
 {0x05CD}	LOAD_STRING	'Chihiro'
-{0x05CF}	LOAD_STRING	'@v00040250"I wouldn't want him leering even if I knew him. Tatsumi, do you have any ideas?"'
+{0x05CF}	LOAD_STRING	'@v00040250"I wouldn't want them leering even if I knew them. Tatsumi, do you have any ideas?"'
 
 {0x05DD}	LOAD_STRING	'Tatsumi'
 {0x05DF}	LOAD_STRING	'No, not at all.'
@@ -169,7 +169,7 @@
 {0x0801}	LOAD_STRING	'They had differing opinions even though the situation affected them the same.'
 
 {0x087B}	LOAD_STRING	'Chihiro'
-{0x087D}	LOAD_STRING	'@v00040253"So, Yui, what are your findings?@hCHIHIRO_0102MJ Hup!"@k'
+{0x087D}	LOAD_STRING	'@v00040253"So, what are your findings?@hCHIHIRO_0102MJ Hup!"@k'
 
 {0x08C5}	LOAD_STRING	'Chihiro steps forward to steal the ball from Miki, but is easily dodged.'
 
@@ -179,7 +179,7 @@
 {0x094B}	LOAD_STRING	'Miki's shot draws a beautiful parabola and is sucked into the goal.'
 
 {0x09B1}	LOAD_STRING	'Miki'
-{0x09B3}	LOAD_STRING	'@v00010249"According to Yui, there is an upperclassman named Nezu who is upset with Tak-kun."'
+{0x09B3}	LOAD_STRING	'@v00010249"As it turns out, there is an upperclassman named Nezu who is upset with Tak-kun."'
 
 {0x09BD}	LOAD_STRING	'Kotone'
 {0x09BF}	LOAD_STRING	'@v00030181"...!"'
@@ -337,14 +337,14 @@
 
 {0x103F}	LOAD_STRING	'And Shiino also seemed to be in the same state of mind as Chihiro.'
 
-{0x104F}	LOAD_STRING	'If only I hadn't crossed paths with Chihiro yesterday...'
+{0x104F}	LOAD_STRING	'If only she hadn't clashed with Chihiro yesterday...'
 
 {0x10A5}	LOAD_STRING	'Tatsumi'
 {0x10A7}	LOAD_STRING	'Well, what happens, happens.'
 
 {0x10B7}	LOAD_STRING	'There was nothing else to say.'
 
-{0x10C7}	LOAD_STRING	'It's great that we aren't fighting anymore, but I knew that we were in this situation today because of the situation yesterday.'
+{0x10C7}	LOAD_STRING	'It's great that we aren't fighting anymore, but I knew that we were in this situation today because of yesterday.'
 
 {0x10D5}	LOAD_STRING	'Tatsumi'
 {0x10D7}	LOAD_STRING	'At least we aren't gonna send Shiino back to her old group, right?'
@@ -412,7 +412,7 @@
 {0x13F4}	LOAD_STRING	'I don't see anyone but us at the elevator entrance...'
 
 {0x1466}	LOAD_STRING	'Chihiro'
-{0x1468}	LOAD_STRING	'@v00040267"...This again."'
+{0x1468}	LOAD_STRING	'@v00040267"...Now this?"'
 
 {0x1472}	LOAD_STRING	'Miki'
 {0x1474}	LOAD_STRING	'@v00010266"Ugh..."'
