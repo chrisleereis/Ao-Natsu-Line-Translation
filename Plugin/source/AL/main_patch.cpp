@@ -245,16 +245,6 @@ void convertUtf8Text2_hook(textStruct* _textStruct, const char* format, uint32_t
 
 	switch(offset) {
 		case 0x3D4270:
-			if (!strcmp(systemStrings[1].JPN, format)) {
-				format = systemStrings[1].ENG;
-			}
-			else if (!strcmp(systemStrings[2].JPN, format)) {
-				format = systemStrings[2].ENG;
-			}
-			else if (!strcmp(systemStrings[3].JPN, format)) {
-				format = systemStrings[3].ENG;
-			}
-			break;
 		case 0x3A6498:
 			if (!strcmp(systemStrings[1].JPN, format)) {
 				format = systemStrings[1].ENG;
