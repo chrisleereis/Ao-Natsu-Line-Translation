@@ -116,7 +116,7 @@ uint64_t std_string_operator_equal_hook(void* string_to, char* string_from) {
 }
 
 struct textStruct {
-	const uint64_t unk_size;
+	const uint64_t struct_data_size;
 	uint64_t utf8_size;
 	char* original_text;
 	const void* unk;
