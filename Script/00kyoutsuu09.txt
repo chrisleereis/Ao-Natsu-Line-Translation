@@ -483,9 +483,9 @@
 
 {0x161D}	LOAD_STRING	'I guess he must have sounded as pleased as he did earlier by concluding that there was no backstory to my proposal.'
 
-{0x162D}	LOAD_STRING	'I didn't expect him to pick Chihiro as my opponent at all.'
+{0x162D}	LOAD_STRING	'He was probably thinking I didn't expect him to pick Chihiro as my opponent at all.'
 
-{0x163D}	LOAD_STRING	'At this point, I have to pretend not to be surprised.'
+{0x163D}	LOAD_STRING	'At this point, I have to pretend to be surprised.'
 
 {0x167F}	LOAD_STRING	'Tatsumi'
 {0x1681}	LOAD_STRING	'Then it's settled. The rules are simple: whoever gets 20 points first wins.'
@@ -613,9 +613,9 @@
 {0x1C5B}	LOAD_STRING	'Tatsumi'
 {0x1C5D}	LOAD_STRING	'Still, I can't let up yet...'
 
-{0x1C9D}	LOAD_STRING	'Muttering to himself, Chihiro looks at me for an opening.'
+{0x1C9D}	LOAD_STRING	'Muttering to myself, Chihiro looks at me for an opening.'
 
-{0x1CAD}	LOAD_STRING	'He changes the rhythm of his dribble and begins to fake me out with his movements.'
+{0x1CAD}	LOAD_STRING	'I change the rhythm of my dribble and begin to fake him out with my movements and eyes.'
 
 {0x1CB7}	LOAD_STRING	'Chihiro'
 {0x1CB9}	LOAD_STRING	'@v00040297"..."'
@@ -676,7 +676,7 @@
 {0x208A}	LOAD_STRING	'Tatsumi'
 {0x208C}	LOAD_STRING	'Trust me.'
 
-{0x20B8}	LOAD_STRING	'It's as if he's talking to himself. But, Chihiro nodded with a serious look.@k'
+{0x20B8}	LOAD_STRING	'It's as if I'm talking to myself. But, Chihiro nodded with a serious look.@k'
 
 {0x20D9}	LOAD_STRING	'Tatsumi'
 {0x20DB}	LOAD_STRING	'I think just two fingers will make it happen...'
@@ -792,13 +792,13 @@
 
 {0x30C0}	LOAD_STRING	'Unlike in a normal match, I had the ability to pull off consecutive three-pointers in this game.'
 
-{0x30D0}	LOAD_STRING	'Rather than complain that I used three-pointers as a way to beat Chihiro, Nezu-senpai accepted the terms of the challenge.'
+{0x30D0}	LOAD_STRING	'I used three-pointers not as a way to beat Chihiro, but rather to not let Nezu-senpai have anything to complain about.'
 
 {0x30DA}	LOAD_STRING	'Chihiro'
 {0x30DC}	LOAD_STRING	'@v00040305"Or what, are you saying that the ball and goal are secretly connected by a fishing line?"'
 
 {0x30EA}	LOAD_STRING	'Tatsumi'
-{0x30EC}	LOAD_STRING	'At least your senior friend who was watching with you will be convinced, right?'
+{0x30EC}	LOAD_STRING	'At least your senior friends who were watching with you will be convinced, right?'
 
 {0x32B3}	LOAD_STRING	'I guess they wanted the juniors who crossed them to be miserable.'
 
@@ -825,7 +825,7 @@
 
 {0x339F}	LOAD_STRING	'After saying that, Chihiro and I took our gazes away from Nezu-senpai, who was gritting his teeth in the classroom building.'
 
-{0x33AF}	LOAD_STRING	'"I'll never let you out of my sight again," he said.'
+{0x33AF}	LOAD_STRING	'It's like he's saying, 'I'll never let you out of my sight again.''
 
 {0x341D}	LOAD_STRING	'Miki'
 {0x341F}	LOAD_STRING	'@v00010283"Tak-kun! That's my best friend!"@k'
@@ -883,7 +883,7 @@
 
 {0x37D5}	LOAD_STRING	'She bows deeply and tearfully.'
 
-{0x3867}	LOAD_STRING	'Afternoon classes were uncomfortable with wet uniforms stuck to our bodies, but each student got through it by putting a borrowed towel between them.'
+{0x3867}	LOAD_STRING	'Afternoon classes were uncomfortable with wet uniforms stuck to our bodies, but we got through it by borrowing towels.'
 
 {0x3877}	LOAD_STRING	'I hope no one catches a cold...'
 
@@ -924,7 +924,7 @@
 {0x39EB}	LOAD_STRING	'@v00900089"...By the way, Sakaki isn't involved in this, is he?"'
 
 {0x39F9}	LOAD_STRING	'Tatsumi'
-{0x39FB}	LOAD_STRING	'He was roped in against his will. This all began as a problem Shiino and I had with Nezu-senpai.'
+{0x39FB}	LOAD_STRING	'He was roped in against his will. This all began as a problem Nezu-senpai had with me and Shiino.'
 
 {0x3A09}	LOAD_STRING	'Maruyama'
 {0x3A0B}	LOAD_STRING	'@v00900090"That's fine, but..."'
