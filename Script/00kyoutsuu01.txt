@@ -88,13 +88,13 @@
 {0x0B90}	LOAD_STRING	'Tatsumi'
 {0x0B92}	LOAD_STRING	'Nah, but how about you guys?'
 
-{0x0BA2}	LOAD_STRING	'I find myself wondering if they're getting different amounts of sleep, even though we should all be getting the same amount.'
+{0x0BA2}	LOAD_STRING	'I find myself wondering if we're getting different amounts of sleep, even though we should all be getting about the same amount.'
 
 {0x0BAC}	LOAD_STRING	'Miki'
-{0x0BAE}	LOAD_STRING	'@v00010045"Tak-kun, are you getting soft on us?"'
+{0x0BAE}	LOAD_STRING	'@v00010045"Tak-kun, are you getting weaker?"'
 
 {0x0BB8}	LOAD_STRING	'Chihiro'
-{0x0BBA}	LOAD_STRING	'@v00040034"If I wanted to, I could do it for a night or two, okay?"'
+{0x0BBA}	LOAD_STRING	'@v00040034"If I wanted to, I could stay awake for two nights in a row."'
 
 {0x0BC4}	LOAD_STRING	'Miki'
 {0x0BC6}	LOAD_STRING	'@v00010046"Is that so?"'
