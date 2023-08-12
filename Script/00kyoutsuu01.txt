@@ -51,7 +51,7 @@
 {0x089B}	LOAD_CUSTOM_TEXT	0x1	'(OK Stamp)'
 
 {0x09C6}	LOAD_STRING	'Miki'
-{0x09C8}	LOAD_STRING	'@v00010040"Hmm, the breeze feels nice."'
+{0x09C8}	LOAD_STRING	'@v00010040"Ahh, the breeze feels nice."'
 
 {0x0A24}	LOAD_STRING	'Chihiro'
 {0x0A26}	LOAD_STRING	'@v00040031"There are even some people changing attire for the season."'
