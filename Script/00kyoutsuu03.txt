@@ -713,7 +713,7 @@
 {0x28D8}	SPECIAL_TEXT	0x0	'"I had fun at Mico and basketball   @nwith you guys today!"'
 
 {0x28FE}	LOAD_STRING	'Yui（Message）'
-{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball@nwith you guys today!"'
+{0x2902}	LOAD_CUSTOM_TEXT	0x1	'"I had fun at Mico and basketball   @nwith you guys today!"'
 
 {0x2923}	LOAD_STRING	'Menu_Click02'
 
@@ -759,19 +759,19 @@
 
 {0x2C8A}	LOAD_STRING	'Pon01'
 
-{0x2CC9}	SPECIAL_TEXT	0x5	'"Yes! Nice to meet you, Otsuta."'
+{0x2CC9}	SPECIAL_TEXT	0x5	'"Yes! I eany yo nkopw"'
 
 {0x2CEF}	LOAD_STRING	'Yui（Message）'
-{0x2CF3}	LOAD_CUSTOM_TEXT	0x1	'"Yes! Nice to meet you, Otsuta."'
+{0x2CF3}	LOAD_CUSTOM_TEXT	0x1	'"Yes! I eany yo nkopw"'
 
 {0x2D14}	LOAD_STRING	'Menu_Click02'
 
 {0x2D4B}	LOAD_STRING	'Pon01'
 
-{0x2D8A}	SPECIAL_TEXT	0x6	'"Otsuda...?"'
+{0x2D8A}	SPECIAL_TEXT	0x6	'"wany know...?"'
 
 {0x2DB0}	LOAD_STRING	'Miki（Message）'
-{0x2DB4}	LOAD_CUSTOM_TEXT	0x1	'"Otsuda...?"'
+{0x2DB4}	LOAD_CUSTOM_TEXT	0x1	'"wany know...?"'
 
 {0x2DD5}	LOAD_STRING	'Menu_Click02'
 
