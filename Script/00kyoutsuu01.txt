@@ -54,7 +54,7 @@
 {0x09C8}	LOAD_STRING	'@v00010040"Ahh, the breeze feels nice."'
 
 {0x0A24}	LOAD_STRING	'Chihiro'
-{0x0A26}	LOAD_STRING	'@v00040031"There are even some people changing attire for the season."'
+{0x0A26}	LOAD_STRING	'@v00040031"Some of these people are even wearing their summer uniforms."'
 
 {0x0A80}	LOAD_STRING	'Miki'
 {0x0A82}	LOAD_STRING	'@v00010041"It's starting to get hot lately, huh?@t0442@hMIKI_A202OD Do you think I'm okay like this? I mean, do you think my clothes are getting too tight?"'
@@ -63,7 +63,7 @@
 {0x0A8E}	LOAD_STRING	'@v00040032"Nah, I'm not seeing a difference. I think you've stopped growing."'
 
 {0x0A98}	LOAD_STRING	'Miki'
-{0x0A9A}	LOAD_STRING	'@v00010042"Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Right? Tak-kun?"'
+{0x0A9A}	LOAD_STRING	'@v00010042"Hey, I'm still getting bigger!@t0325@hMIKI_A201EG2 Right, Tak-kun?"'
 
 {0x0AA8}	LOAD_STRING	'Tatsumi'
 {0x0AAA}	LOAD_STRING	'Whew...'
@@ -73,9 +73,9 @@
 {0x0ADA}	LOAD_STRING	'While I listen to them ramble, I let out a big yawn.'
 
 {0x0B2C}	LOAD_STRING	'Miki'
-{0x0B2E}	LOAD_STRING	'@v00010043"Yes, for the fifth time!"'
+{0x0B2E}	LOAD_STRING	'@v00010043"That's the fifth time you've yawned today!"'
 
-{0x0B3E}	LOAD_STRING	'My friend, Kohsaka Miki, said teasingly.'
+{0x0B3E}	LOAD_STRING	'My friend, Miki Kohsaka, said teasingly.'
 
 {0x0B48}	LOAD_STRING	'Miki'
 {0x0B4A}	LOAD_STRING	'@v00010044"You look really sleepy."'
@@ -83,10 +83,10 @@
 {0x0B70}	LOAD_STRING	'Chihiro'
 {0x0B72}	LOAD_STRING	'@v00040033"Did you stay up last night?"'
 
-{0x0B82}	LOAD_STRING	'And my best and worst friend, Sakaki Chihiro, butts into the conversation.'
+{0x0B82}	LOAD_STRING	'My best and worst friend, Chihiro Sakaki, butts into the conversation.'
 
 {0x0B90}	LOAD_STRING	'Tatsumi'
-{0x0B92}	LOAD_STRING	'Nah, but how about you guys?'
+{0x0B92}	LOAD_STRING	'Nah, what about you guys?'
 
 {0x0BA2}	LOAD_STRING	'I find myself wondering if we're getting different amounts of sleep, even though we should all be getting about the same amount.'
 
@@ -131,7 +131,7 @@
 {0x0DE2}	LOAD_STRING	'Tatsumi'
 {0x0DE4}	LOAD_STRING	'You can sing, but you can't play guitar, can you?'
 
-{0x0DF4}	LOAD_STRING	'Specifically, she had practiced for a while, but had issues running into the F chord.'
+{0x0DF4}	LOAD_STRING	'She had practiced for a while, but had issues with the F chord.'
 
 {0x0DFE}	LOAD_STRING	'Miki'
 {0x0E00}	LOAD_STRING	'@v00010051"I-I'll try harder this time!"'
