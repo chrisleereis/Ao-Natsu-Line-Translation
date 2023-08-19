@@ -17,7 +17,12 @@ Original game developed by GIGA, published by [Entergram](https://www.entergram.
 
 ### Nintendo Switch
 
-XYZ
+You must have installed custom firmware `Atmosphere`.
+
+- Copy folders `exefs` and `romfs` from unpacked release to folder on sdcard (if any of those folders don't exist, create them yourself):
+  - For demo: `atmosphere/contents/010082E016CFC000/`
+  - For full game: `atmosphere/contents/01009B7015E68000/`
+- Enjoy!
 
 ### Yuzu
 
