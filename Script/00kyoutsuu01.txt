@@ -81,25 +81,25 @@
 {0x0B4A}	LOAD_STRING	'@v00010044"You look really sleepy."'
 
 {0x0B70}	LOAD_STRING	'Chihiro'
-{0x0B72}	LOAD_STRING	'@v00040033"Did you stay up last night?"'
+{0x0B72}	LOAD_STRING	'@v00040033"Did you stay up we split up last night?"'
 
 {0x0B82}	LOAD_STRING	'My best and worst friend, Chihiro Sakaki, butts into the conversation.'
 
 {0x0B90}	LOAD_STRING	'Tatsumi'
-{0x0B92}	LOAD_STRING	'Nah, what about you guys?'
+{0x0B92}	LOAD_STRING	'Nah, I'm just curious, how do you guys have so much energy?'
 
-{0x0BA2}	LOAD_STRING	'I find myself wondering if we're getting different amounts of sleep, even though we should all be getting about the same amount.'
+{0x0BA2}	LOAD_STRING	'We should have gone to bed around the same time, how are these two not sleepy?'
 
 {0x0BAC}	LOAD_STRING	'Miki'
 {0x0BAE}	LOAD_STRING	'@v00010045"Tak-kun, are you getting weaker?"'
 
 {0x0BB8}	LOAD_STRING	'Chihiro'
-{0x0BBA}	LOAD_STRING	'@v00040034"If I wanted to, I could stay awake for two nights in a row."'
+{0x0BBA}	LOAD_STRING	'@v00040034"Isn't it normal for young people to stay up one or two nights in a row?"'
 
 {0x0BC4}	LOAD_STRING	'Miki'
-{0x0BC6}	LOAD_STRING	'@v00010046"Is that so?"'
+{0x0BC6}	LOAD_STRING	'@v00010046"That's right!"'
 
-{0x0C42}	LOAD_STRING	'Chihiro and Miki laugh together supportively. '
+{0x0C42}	LOAD_STRING	'Chihiro and Miki laugh and bump fists with each other. '
 
 {0x0C86}	LOAD_STRING	'As we reach the bottom of the hill, the view opens up.'
 
@@ -113,12 +113,12 @@
 {0x0D84}	LOAD_STRING	'@v00010047"So, I was thinking last night and..."'
 
 {0x0D8E}	LOAD_STRING	'Miki'
-{0x0D90}	LOAD_STRING	'@v00010048"I know, we should start a band, right?!"'
+{0x0D90}	LOAD_STRING	'@v00010048"We should start a band, right?!"'
 
 {0x0DA0}	LOAD_STRING	'Miki blurted out.'
 
 {0x0DAA}	LOAD_STRING	'Chihiro'
-{0x0DAC}	LOAD_STRING	'@v00040035"Miki should sing, and I'll handle the drums."'
+{0x0DAC}	LOAD_STRING	'@v00040035"You should sing, and I'll handle the drums."'
 
 {0x0DB6}	LOAD_STRING	'Miki'
 {0x0DB8}	LOAD_STRING	'@v00010049"Yes, I want to sing!"'
@@ -131,7 +131,7 @@
 {0x0DE2}	LOAD_STRING	'Tatsumi'
 {0x0DE4}	LOAD_STRING	'You can sing, but you can't play guitar, can you?'
 
-{0x0DF4}	LOAD_STRING	'She had practiced for a while, but had issues with the F chord.'
+{0x0DF4}	LOAD_STRING	'She had practiced for a while, but gave up when she got to the F chord.'
 
 {0x0DFE}	LOAD_STRING	'Miki'
 {0x0E00}	LOAD_STRING	'@v00010051"I-I'll try harder this time!"'
@@ -164,19 +164,19 @@
 {0x0F02}	LOAD_STRING	'Oh, like a tour of the city's shrines and temples?'
 
 {0x0F44}	LOAD_STRING	'Miki'
-{0x0F46}	LOAD_STRING	'@v00010054"Eh, that's kinda boring."'
+{0x0F46}	LOAD_STRING	'@v00010054"Eh, that's kinda tacky."'
 
 {0x0F54}	LOAD_STRING	'Tatsumi'
-{0x0F56}	LOAD_STRING	'Don't dismiss it! It could be cool.'
+{0x0F56}	LOAD_STRING	'Don't talk about shrines like they're boring, you'll incur the wrath of the gods.'
 
 {0x0F60}	LOAD_STRING	'Chihiro'
 {0x0F62}	LOAD_STRING	'@v00040038"What if we went to a restaurant on Otojima and ordered one of everything on the menu?"'
 
 {0x0F6C}	LOAD_STRING	'Miki'
-{0x0F6E}	LOAD_STRING	'@v00010055"Oh, that sounds good. Let's go, just the three of us."'
+{0x0F6E}	LOAD_STRING	'@v00010055"Oh, that sounds good. Let's have an eating competition, just the three of us."'
 
 {0x0F78}	LOAD_STRING	'Chihiro'
-{0x0F7A}	LOAD_STRING	'@v00040039"Not a bad idea, but I can only imagine the bill..."'
+{0x0F7A}	LOAD_STRING	'@v00040039"Not a bad idea, but I can only imagine who'll come out in last place..."'
 
 {0x0F8A}	LOAD_STRING	'It's true that I eat less than these two, but...'
 
@@ -184,7 +184,7 @@
 {0x0F9A}	LOAD_STRING	'Is being able to eat so much really that great?'
 
 {0x0FA4}	LOAD_STRING	'Chihiro'
-{0x0FA6}	LOAD_STRING	'@v00040040"Yeah! What do you think, should we try and do the Shirasudon bowl challenge in the shopping district?"'
+{0x0FA6}	LOAD_STRING	'@v00040040"Yeah... well, what do you think, should we try and do the Shirasudon bowl challenge in the shopping district instead?"'
 
 {0x0FB0}	LOAD_STRING	'Miki'
 {0x0FB2}	LOAD_STRING	'@v00010056"Chi-kun, all you talk about is food..."'
@@ -198,7 +198,7 @@
 {0x1080}	LOAD_STRING	'Chihiro'
 {0x1082}	LOAD_STRING	'@v00040041"Hm?"'
 
-{0x10A2}	LOAD_STRING	'Once we arrived at the front door of the classroom, a voice startled us, and we all turned around.'
+{0x10A2}	LOAD_STRING	'Once we arrived at the front door of the classroom, a voice startled us, and we all turned to the direction of the voice.'
 
 {0x11B9}	LOAD_STRING	'???'
 {0x11BB}	LOAD_STRING	'@v00020041"Oh, um... If you're looking for a good Shirasudon, I recommend Gessanken's..."'
@@ -229,7 +229,7 @@
 {0x12BF}	LOAD_STRING	'Yui'
 {0x12C1}	LOAD_STRING	'@v00020043"That's right, my name is Yui Nakategawa.@t0290@h Good morning!"@k'
 
-{0x12E4}	LOAD_STRING	'She then bowed her head awkwardly.'
+{0x12E4}	LOAD_STRING	'She then bowed awkwardly.'
 
 {0x12EE}	LOAD_STRING	'Miki'
 {0x12F0}	LOAD_STRING	'@v00010060"Oh, that's right, Nakategawa-san!@t0270@hMIKI_A201EG3 Good morning!"@k'
@@ -258,7 +258,7 @@
 {0x14D1}	LOAD_STRING	'Yui'
 {0x14D3}	LOAD_STRING	'@v00020045"Y-yes, you're Tatsumi Oikawa, aren't you? Well, actually..."'
 
-{0x14F1}	LOAD_STRING	'She called me by my full name...'
+{0x14F1}	LOAD_STRING	'She called me by my full name and I felt something deep in my chest...'
 
 {0x1501}	LOAD_STRING	'Nakategawa-san fidgets her own hands.'
 
@@ -282,7 +282,7 @@
 {0x15F1}	LOAD_STRING	'I feel myself choking on my own spit.'
 
 {0x1643}	LOAD_STRING	'Yui'
-{0x1645}	LOAD_STRING	'@v00020048"Y-yes... actually, I've been wondering for some time... @t0800@hYUI_U201IK and..."'
+{0x1645}	LOAD_STRING	'@v00020048"Y-yes... actually, I've been interested in you for some time... @t0800@hYUI_U201IK and..."'
 
 {0x1699}	LOAD_STRING	'Tatsumi'
 {0x169B}	LOAD_STRING	'Huh?'
@@ -297,7 +297,7 @@
 {0x1715}	LOAD_STRING	'@v00020049"Tatsumi-san, I have a favor to ask..."'
 
 {0x1723}	LOAD_STRING	'Tatsumi'
-{0x1725}	LOAD_STRING	'Oh, please tell me...'
+{0x1725}	LOAD_STRING	'A favor... for me...?'
 
 {0x1749}	LOAD_STRING	'The students' murmur is now a dull roar, and their gaze is piercing my mind.'
 
@@ -339,13 +339,13 @@
 {0x1811}	LOAD_STRING	'Chihiro'
 {0x1813}	LOAD_STRING	'@v00040046"Yeah, I'm thinking his schedule today was meant to be free, just to meet with you!"'
 
-{0x1823}	LOAD_STRING	'I'm getting tense, and what these two are saying is so awkward.'
+{0x1823}	LOAD_STRING	'Things are heating up, and what these two are saying is so awkward.'
 
 {0x182D}	LOAD_STRING	'Yui'
 {0x182F}	LOAD_STRING	'@v00020054"O-okay, then I'll be waiting for you on the rooftop after school..."'
 
 {0x1839}	LOAD_STRING	'Yui'
-{0x183B}	LOAD_STRING	'@v00020055"I'll wait forever..."'
+{0x183B}	LOAD_STRING	'@v00020055"I'll wait until you come..."'
 
 {0x1870}	LOAD_STRING	'Then, still blushing, Nakategawa-san runs into the elevator.'
 
@@ -383,7 +383,7 @@
 {0x1AD6}	LOAD_STRING	'Miki'
 {0x1AD8}	LOAD_STRING	'@v00010067"Just the fact that you said that out loud constitutes a technical foul."'
 
-{0x1AF6}	LOAD_STRING	'Miki's words sink in as Chihiro passes me the ball.'
+{0x1AF6}	LOAD_STRING	'Chihiro ignores Miki and passes me the ball.'
 
 {0x1B00}	LOAD_STRING	'Chihiro'
 {0x1B02}	LOAD_STRING	'@v00040051"Come on, let's go again."'
