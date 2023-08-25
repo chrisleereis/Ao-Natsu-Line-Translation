@@ -81,7 +81,7 @@
 {0x0B4A}	LOAD_STRING	'@v00010044"You look really sleepy."'
 
 {0x0B70}	LOAD_STRING	'Chihiro'
-{0x0B72}	LOAD_STRING	'@v00040033"Did you stay up we split up last night?"'
+{0x0B72}	LOAD_STRING	'@v00040033"Did you stay up after we split up last night?"'
 
 {0x0B82}	LOAD_STRING	'My best and worst friend, Chihiro Sakaki, butts into the conversation.'
 
