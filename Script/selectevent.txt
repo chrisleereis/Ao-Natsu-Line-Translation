@@ -14,19 +14,11 @@
 
 {0x063E}	LOAD_STRING	'Unable to save/load'
 
-{0x0672}	LOAD_STRING	'Select_BG.spm'
-
-{0x0698}	LOAD_STRING	'Select_BG.spm'
-
 {0x06FD}	SPECIAL_TEXT	0x4	'Miki'
 
 {0x0705}	SPECIAL_TEXT	0x4	'Yui'
 
 {0x070D}	SPECIAL_TEXT	0x4	'Kotone'
-
-{0x0735}	LOAD_CUSTOM_TEXT	0x1	'.spm'
-
-{0x0768}	LOAD_CUSTOM_TEXT	0x1	'.spm'
 
 {0x0923}	LOAD_STRING	'Miki'
 
@@ -37,8 +29,6 @@
 {0x096E}	LOAD_STRING	'Character Selection'
 
 {0x0981}	LOAD_STRING	'Character Selection'
-
-{0x0A20}	LOAD_STRING	'Title.bin'
 
 {0x0A4E}	LOAD_STRING	'Back to the beginning.'
 
