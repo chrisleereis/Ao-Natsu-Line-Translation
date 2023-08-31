@@ -631,11 +631,11 @@
 		},
 		{
 			"DATA": "b2010000db010000ffffffffffffffffffffffffffffffff",
-			"STRING": "Display 'loading' indicator when loading"
+			"STRING": "Display \"loading\" indicator when loading"
 		},
 		{
 			"DATA": "b8020000db010000ffffffffffffffffffffffffffffffff",
-			"STRING": "Disable 'loading' indicator"
+			"STRING": "Disable \"loading\" indicator"
 		},
 		{
 			"DATA": "6179feffffffffffffffffffffffffffffffffffffffffff",
@@ -667,19 +667,19 @@
 		},
 		{
 			"DATA": "b201000071020000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display 'Read' icon in the message window"
+			"STRING": "Display \"Read\" icon in the message window"
 		},
 		{
 			"DATA": "b802000071020000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable 'Read' icon"
+			"STRING": "Disable \"Read\" icon"
 		},
 		{
 			"DATA": "b2010000bc020000ffffffff1d0000001e000000ffffffff",
-			"STRING": "Display 'Confirm' icon when waiting to continue"
+			"STRING": "Display \"Confirm\" icon when waiting to continue"
 		},
 		{
 			"DATA": "b8020000bc020000ffffffff1f00000020000000ffffffff",
-			"STRING": "Disable 'Confirm' icon"
+			"STRING": "Disable \"Confirm\" icon"
 		},
 		{
 			"DATA": "b201000007030000ffffffff1d0000001e000000ffffffff",
