@@ -30,9 +30,10 @@ You must have installed custom firmware `Atmosphere`.
 - Select `Open Mod Data Location`
 - A window will open showing the directory `yuzu\load\01009B7015E68000`
 - In this folder, create a new folder named `English`
-- Move the contents of `XYZ` into `yuzu\load\01009B7015E68000\English` and close the window
+- Move folders `exefs` and `romfs` into `yuzu\load\01009B7015E68000\English` and close the window
 - In Yuzu, right click `アオナツライン` and select `Properties`
 - In the `Add-Ons` tab, make sure `English` is checked and close the window
+- If using the demo version, the path will be `yuzu\load\010082E016CFC000` instead
 - Enjoy!
 For more information about using Yuzu mods, [check out their guide](https://yuzu-emu.org/help/feature/game-modding/).
 
@@ -42,11 +43,11 @@ For more information about using Yuzu mods, [check out their guide](https://yuzu
 
 - It's important to note that we are a team of just two people, and this takes a large amount of meticulous work. This is our first time doing a translation of a video game, so keep that in mind too.
 
-- We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to contact us with any errors they find so we can patch it out.
+- We reverse-engineered the game assets to unpack them for modification. Afterwards we used [DeepL](https://www.deepl.com/en/whydeepl) deep learning translation as a base for the dialogue. This was then cross-referenced by other translation software and proofread by people. While we strive for a high-quality translation, you may encounter small errors, and we encourage readers to open a pull request for any errors they find so we can patch it out.
 
 ### Will this patch work with the PS4, PSVita or Steam release?
 
-No, this patch has been tailor-made for the Nintendo Switch version of the game. There is a chance the assets may be useful on other platforms, but will likely require heavy modifications.
+No, this patch has been tailor-made for the Nintendo Switch version of the game. There is a chance the assets may be useful on other platforms, but will likely require heavy modifications. Furthermore, we are unable to develop ports to any other system. If you would like to port it using our assets, please feel free to use them or contact us for additional assets.
 
 ### Why did you decide to translate this game?
 
