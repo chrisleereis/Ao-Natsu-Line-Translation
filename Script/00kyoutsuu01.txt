@@ -400,7 +400,7 @@
 
 {0x1BB2}	LOAD_STRING	'I say as I dribble the ball and try to fake Chihiro out.'
 
-{0x1BC2}	LOAD_STRING	'I have to try hard to come up with a convincing expression, or else he'll call my bluff.'
+{0x1BC2}	LOAD_STRING	'There's a big skill difference between us, so I have to be careful or else he'll steamroll me.'
 
 {0x1BCC}	LOAD_STRING	'Chihiro'
 {0x1BCE}	LOAD_STRING	'@v00040052"Let's talk after@t0170@hCHIHIRO_U201IK school!"@k'
@@ -413,7 +413,7 @@
 {0x1C53}	LOAD_STRING	'Okay, enough defense. I'm going to take the ball back from Chihiro.'
 
 {0x1C61}	LOAD_STRING	'Tatsumi'
-{0x1C63}	LOAD_STRING	'I'm not really upset.'
+{0x1C63}	LOAD_STRING	'I'm not gonna fall for your tricks.'
 
 {0x1C73}	LOAD_STRING	'As I said that...'
 
@@ -449,13 +449,13 @@
 {0x1EB2}	LOAD_STRING	'@v00900022"Oh, well, Kohsaka-senpai and... that way?"'
 
 {0x1EC0}	LOAD_STRING	'Mayu'
-{0x1EC2}	LOAD_STRING	'@v00900023"Ahaha, I guess they're just friends. What do you think, Kotone?"'
+{0x1EC2}	LOAD_STRING	'@v00900023"Ahaha, that girl is kinda boring. What do you think, Kotone?"'
 
 {0x1F10}	LOAD_STRING	'???'
 {0x1F12}	LOAD_STRING	'@v00030026"Huh...?"'
 
 {0x1F1C}	LOAD_STRING	'???'
-{0x1F1E}	LOAD_STRING	'@v00030027"I think it's harmless."'
+{0x1F1E}	LOAD_STRING	'@v00030027"Yeah, there's no way they're together."'
 
 {0x1F48}	LOAD_STRING	'Mayu'
 {0x1F4A}	LOAD_STRING	'@v00900024"Right? Hahaha."'
@@ -466,7 +466,7 @@
 {0x2078}	LOAD_STRING	'Miki'
 {0x207A}	LOAD_STRING	'@v00010069"Chi-kun, swap me."'
 
-{0x20C0}	LOAD_STRING	'I pass the ball to Miki.'
+{0x20C0}	LOAD_STRING	'The ball rolls to Miki's feet, and she picks it up and passes it to me.'
 
 {0x20D0}	LOAD_STRING	'And Chihiro moves to the bench where Miki was a moment ago.'
 
@@ -481,7 +481,7 @@
 {0x211C}	LOAD_STRING	'It looks like word has been going around since before lunchtime.'
 
 {0x2126}	LOAD_STRING	'Miki'
-{0x2128}	LOAD_STRING	'@v00010072"I heard she gets picked up and dropped off by a luxury cruiser every day."'
+{0x2128}	LOAD_STRING	'@v00010072"I heard she gets picked up and dropped off by a black luxury cruiser every day."'
 
 {0x2132}	LOAD_STRING	'Miki'
 {0x2134}	LOAD_STRING	'@v00010073"The lunches she brings are stacked bentos."'
@@ -492,7 +492,7 @@
 {0x2223}	LOAD_STRING	'@v00010074"The girl who shared lunch with her one time said, 'I've never been to one, but this looks like something out of an upscale Japanese restaurant!'"'
 
 {0x222D}	LOAD_STRING	'Chihiro'
-{0x222F}	LOAD_STRING	'@v00040056"What's with that? It looked like something from a photo."'
+{0x222F}	LOAD_STRING	'@v00040056"She sounds the kind of 'bougie young lady' you only hear about in stories."'
 
 {0x2239}	LOAD_STRING	'Miki'
 {0x223B}	LOAD_STRING	'@v00010075"What's more, I heard that she attended Shichiyou Academy in Yokohama!"'
@@ -500,7 +500,7 @@
 {0x2249}	LOAD_STRING	'Tatsumi'
 {0x224B}	LOAD_STRING	'Huh?!'
 
-{0x22E1}	LOAD_STRING	'I take advantage of the opportunity to change from a relaxed stance to cut her for an easy layup.'
+{0x22E1}	LOAD_STRING	'She takes advantage of the opportunity to change from a relaxed stance to go for an easy layup.'
 
 {0x2352}	LOAD_STRING	'Chihiro'
 {0x2354}	LOAD_STRING	'@v00040057"Isn't Shichiyou... A school for young ladies?"'
@@ -514,7 +514,7 @@
 {0x2394}	LOAD_STRING	'When I think about Nakategawa's behavior, it somehow makes sense.'
 
 {0x239E}	LOAD_STRING	'Chihiro'
-{0x23A0}	LOAD_STRING	'@v00040058"Hey, hey, when did we first meet, Tatsumi?"'
+{0x23A0}	LOAD_STRING	'@v00040058"Hey, hey, since when have you known someone like that, Tatsumi?"'
 
 {0x23AE}	LOAD_STRING	'Tatsumi'
 {0x23B0}	LOAD_STRING	'...I don't remember.'
@@ -525,7 +525,7 @@
 {0x23CC}	LOAD_STRING	'@v00040059"I can tell you really can't remember."'
 
 {0x23D6}	LOAD_STRING	'Chihiro'
-{0x23D8}	LOAD_STRING	'@v00040060"But then again, why would she move from Shichiyou to out here in the countryside?"'
+{0x23D8}	LOAD_STRING	'@v00040060"But then again, why would she move from Shichiyou to out here in the boonies?"'
 
 {0x23E8}	LOAD_STRING	'Kurigaoka Academy, located on the coast, and Shichiyou Academy, located in the center of Yokohama, couldn't be further away from each other...'
 
@@ -551,7 +551,7 @@
 {0x24A8}	LOAD_STRING	'I wouldn't say it's like that.'
 
 {0x24B2}	LOAD_STRING	'Chihiro'
-{0x24B4}	LOAD_STRING	'@v00040062"It's impossible, right? Though it wouldn't be strange for a young lady like her to fall for Tatsumi's kindness."'
+{0x24B4}	LOAD_STRING	'@v00040062"It's not impossible, is it? It wouldn't be strange for a young lady like her to fall for Tatsumi's kindness."'
 
 {0x24C2}	LOAD_STRING	'Tatsumi'
 {0x24C4}	LOAD_STRING	'I'm caught wide open by his phrasing.'
@@ -616,7 +616,7 @@
 {0x26EA}	LOAD_STRING	'The ball leaves my hand and falls short of the ring.'
 
 {0x2744}	LOAD_STRING	'Miki'
-{0x2746}	LOAD_STRING	'@v00010083"Nah, it would've been cool if I had just made it up. But, she really is there, right? Take a look!"'
+{0x2746}	LOAD_STRING	'@v00010083"Haha, it sounds like I'm just teasing you, but she really is there, right? Take a look!"'
 
 {0x2756}	LOAD_STRING	'While she teased me like a little kid, Miki points toward the building again.'
 
@@ -1068,17 +1068,17 @@
 {0x3F89}	LOAD_CUSTOM_TEXT	0x1	'"So profound"'
 
 {0x4038}	LOAD_STRING	'Tatsumi'
-{0x403A}	LOAD_STRING	'We can move forward with it.'
+{0x403A}	LOAD_STRING	'Let's go meet with them and discuss it.'
 
 {0x403E}	SPECIAL_TEXT	0x14	'"What, it went poorly?  "'
 
 {0x4064}	LOAD_STRING	'Miki(Message)'
 {0x4068}	LOAD_CUSTOM_TEXT	0x1	'"What, it went poorly?"'
 
-{0x4107}	SPECIAL_TEXT	0x15	'"Done and done"'
+{0x4107}	SPECIAL_TEXT	0x15	'"He's going for it"'
 
 {0x412D}	LOAD_STRING	'Chihiro(Message)'
-{0x4131}	LOAD_CUSTOM_TEXT	0x1	'"Done and done"'
+{0x4131}	LOAD_CUSTOM_TEXT	0x1	'"He's going for it"'
 
 {0x41DC}	LOAD_STRING	'Yui'
 {0x41DE}	LOAD_STRING	'@v00020097"Yes, thank you very much!"'
