@@ -15,10 +15,10 @@
 {0x0358}	LOAD_STRING	'Tatsumi(Message)'
 {0x035C}	LOAD_CUSTOM_TEXT	0x1	'"Good Morning."'
 
-{0x03F3}	SPECIAL_TEXT	0x3	'"You awake, Chihiro?"'
+{0x03F3}	SPECIAL_TEXT	0x3	'"You awake, Chihiro? "'
 
 {0x0419}	LOAD_STRING	'Tatsumi(Message)'
-{0x041D}	LOAD_CUSTOM_TEXT	0x1	'"You awake, Chihiro?"'
+{0x041D}	LOAD_CUSTOM_TEXT	0x1	'"You awake, Chihiro? "'
 
 {0x04B4}	SPECIAL_TEXT	0x4	'"I'm up."'
 
